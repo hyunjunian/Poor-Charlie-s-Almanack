@@ -1,14 +1,16 @@
 # Poor Charlie’s Almanack: The Essential Wit and Wisdom of Charles T. Munger
 
-For Charles T. Munger
-
-who, in his own words, would tell you:
+For Charles T. Munger, who, in his own words, would tell you:
 
 “Acquire worldly wisdom and adjust your behavior accordingly. If your new behavior gives you a little temporary unpopularity with your peer group… then to hell with them.”
 
-# Foreword: Collison on Munger
+# Foreword
 
-## John Collison
+## Collison on Munger
+
+*by John B. Collison*
+
+*Dublin, April 2023*
 
 I first came across *Poor Charlie’s Almanack* in my 20s, when I was trying to learn everything I could about what made successful businesses tick. As I leafed through its oversize pages, I found it to be a refreshing rebuttal of conventional financial wisdom, delivered with unusual simplicity and candor. Never before had I heard a venerated businessperson express such trenchant insights about investing, finance, and the world more broadly, and with such—to use a favored Munger phrase—chutzpah. One can’t help but read a line like “Without numerical fluency… you are like a one-legged man in an ass-kicking contest” and come away not only chuckling but also a little bit wiser.
 
@@ -24,9 +26,9 @@ Whether you are a seasoned investor or an enthusiastic newcomer, whether you run
 
 I am immensely grateful to Peter Kaufman for compiling this classic tome, and to Charlie Munger for his irrefutable wisdom and his gracious mentorship. Nothing further to add.
 
-# Foreword: Buffett on Munger
+## Buffett on Munger
 
-## Warren E. Buffett
+*by Warren E. Buffett*
 
 From 1733 to 1758, Ben Franklin dispensed useful and timeless advice through [*Poor Richard’s Almanack*](https://www.lib.uchicago.edu/ead/pdf/century0765.pdf). Among the virtues extolled were thrift, duty, hard work, and simplicity.
 
@@ -48,9 +50,9 @@ In Ben’s famous essay, he says that only an older mistress makes sense, and he
 
 Charlie and I have now been partners for 45 years. I’m not sure whether he had seven other reasons for selecting me. But I definitely meet Ben’s eighth criterion. I couldn’t be more grateful.
 
-# Rebuttal: Munger on Buffett
+## Munger on Buffett
 
-## Charles T. Munger
+*by Charles T. Munger*
 
 I think there’s some mythology in the idea that I’ve been this great enlightener of Warren. He hasn’t needed much enlightenment. I frankly think I get more credit than I deserve. It is true that Warren had a touch of brain block from working under Ben Graham and making a ton of money. It’s hard to switch from something that’s worked so well. But if Charlie Munger had never lived, the Buffett record would still be pretty much what it is.
 
@@ -60,7 +62,7 @@ I think the top guy won’t be as smart as Warren. But it’s silly to complain,
 
 # Introduction
 
-## Peter D. Kaufman
+*by Peter D. Kaufman*
 
 You are about to embark on an extraordinary journey toward better investing and decision-making. You may arrive at a better understanding of life as well, all thanks to the wit, wisdom, speeches, and writings of Charlie Munger—this generation’s answer to Benjamin Franklin. Charlie’s unique worldview, what he calls his multidisciplinary approach, is a self-developed model for clear and simple thinking—yet his concepts and models are anything but simplistic. Notice how well Charlie’s thinking stands the test of time: The earliest talk in this collection is almost 20 years old, yet it is as relevant today as the day he first delivered it. As you will soon discover, Charlie’s observations and conclusions are based on fundamental human nature, basic truths, and core principles from a wide range of disciplines.
 
@@ -86,9 +88,9 @@ A word about the style and layout of the book: Charlie is enormously curious abo
 
 I wish you good reading and an appreciation of the brightness and dry humor that those of us who know Charlie Munger have come to treasure and expect from him.
 
-# Chapter One: A Portrait of Charles T. Munger
+# Chapter 1: A Portrait of Charles T. Munger
 
-## Michael Broggie
+*by Michael Broggie*
 
 Behind the extraordinary story of Berkshire Hathaway are two financial geniuses: the widely acclaimed Warren Buffett and his “silent partner,” Charlie Munger, who relishes his obscurity.
 
@@ -172,12 +174,11 @@ The story of Berkshire Hathaway’s extraordinary success under Warren and Charl
 
 Charlie’s affinity for Benjamin Franklin’s expansive career in government, business, finance, and industry can be found in his many speeches and whenever he holds an audience, large or small. At the 75th anniversary of See’s Candies, Charlie said”
 
-> “I am a biography nut myself. And I think when you’re trying to teach the great concepts that work, it helps to tie them into the lives and personalities of the people who developed them. I think you learn economics better if you make Adam Smith your friend. That sounds funny, making friends among the “eminent dead,” but if you go through life making friends with the eminent dead who had the right ideas, I think it will work better for you in life and work better in education. It’s way better than just giving the basic concepts.”
-> 
+> I am a biography nut myself. And I think when you’re trying to teach the great concepts that work, it helps to tie them into the lives and personalities of the people who developed them. I think you learn economics better if you make Adam Smith your friend. That sounds funny, making friends among the “eminent dead,” but if you go through life making friends with the eminent dead who had the right ideas, I think it will work better for you in life and work better in education. It’s way better than just giving the basic concepts.
 
 Franklin used his self-made wealth to achieve financial independence so he could concentrate on societal improvement. Charlie admires that trait in his mentor and strives to emulate Franklin. He has had a long involvement with Good Samaritan Hospital and Harvard-Westlake School, both in Los Angeles, and has chaired the boards of each. He and Nancy have also long supported Stanford University and the Huntington Library Art Collections and Botanical Gardens in San Marino, California. They recently provided funding for a major expansion to the Huntington called the Munger Research Center. Although Charlie is a self-described conservative Republican, chief among his causes is Planned Parenthood. He believes that every child deserves to be born to a welcoming mother. He also supports efforts to improve the environment and the quality of education. As the father of 8 and grandfather of 16, Charlie regards his legacy as helping future generations inherit a better world.
 
-# Chapter Two: Remembering: The Children on Charlie
+# Chapter 2: Remembering: The Children on Charlie
 
 ## From Charles T. Munger, Jr.
 
@@ -289,7 +290,7 @@ I still shop at Brooks, partly because each year at Christmas Father gives every
 
 In New York, Brooks is still housed in its grand old building. I think of my father every time I go; I’m very attached to the place. When I went to study at Oxford, in winter 1988, he gave me an old Brooks coat of his, dating from the ’40s, of a sort of tannish-olive hue, I think, with a warm zip-in lining. As I walked home from the Bodleian Library each night, that nasty, damp, penetrating English cold would not get through. When I returned to the United States, I realized I had left the coat on a bus. I wept at the loss. Even now I wish I had that coat.
 
-# Chapter Three: The Munger Approach to Life, Learning, and Decision-Making
+# Chapter 3: The Munger Approach to Life, Learning, and Decision-Making
 
 Despite being largely self-taught, Ben Franklin was spectacularly successful in such diverse fields as journalism, publishing, printing, philanthropy, public service, science, diplomacy, and inventing. Much of Franklin’s success was due to the essential nature of the man—most especially his appetite for hard work, but also his insatiable curiosity and patient demeanor. Above all, he possessed a quick and willing mind that enabled him to easily master each new field of endeavor he chose to undertake. It is not surprising that Charlie Munger considers Franklin his greatest hero, for Munger is also largely self-taught and shares many of Franklin’s unique characteristics. Like Franklin, Charlie has made himself into a grandmaster of preparation, patience, discipline, and objectivity. He has parlayed these attributes into great success in both his personal and business endeavors, especially in his investing.
 
@@ -321,8 +322,7 @@ Often, as in this case, Charlie generally focuses first on what to avoid—that 
 
 Another Benjamin—Graham, not Franklin—played a significant role in forming Charlie’s investing outlook. One of the most enduring concepts in Graham’s *The Intelligent Investor* is Mr. Market. Usually, Mr. Market is a temperate and reasonable fellow, but some days he is gripped by irrational fear or greed. Graham cautioned the investor to carefully use his own unemotional judgment of value instead of relying on the often manic-depressive behavior of the financial markets. Similarly, Charlie recognizes that even among the most competent and motivated of people, decisions are not always made on a purely rational basis. For this reason, he considers the psychological factors of human misjudgment some of the most important mental models that can be applied to an investment opportunity:
 
-> “*Personally, I’ve gotten so that I now use a kind of two-track analysis. First, what are the factors that really govern the interests involved, rationally considered? And second, what are the subconscious influences where the brain, at a subconscious level, is automatically doing these things—which, by and large, are useful but which often misfunction? One approach is rationality, the way you’d work out a bridge problem: by evaluating the real interests, the real probabilities, and so forth. And the other is to evaluate the psychological factors that cause subconscious conclusions, many of which are wrong.*”
-> 
+> Personally, I’ve gotten so that I now use a kind of two-track analysis. First, what are the factors that really govern the interests involved, rationally considered? And second, what are the subconscious influences where the brain, at a subconscious level, is automatically doing these things—which, by and large, are useful but which often misfunction? One approach is rationality, the way you’d work out a bridge problem: by evaluating the real interests, the real probabilities, and so forth. And the other is to evaluate the psychological factors that cause subconscious conclusions, many of which are wrong.
 
 For more specifics on this topic see Talk Eleven, in which Charlie applies mental models from the field of psychology to illustrate 25 common causes of human misjudgment.
 
@@ -358,7 +358,7 @@ What makes a great business model for Charlie? His recommended reading materials
 
 We have now examined Charlie’s approach to thinking in general and to investing in particular. In keeping with our intent to observe how he seems to do it, we will recap his approach by using the checklist methodology he advocates. (For Charlie’s own words of wisdom on the value and importance of checklists, see Talk Five.) Note, however, that the following principles are most certainly not employed by Charlie in a one-by-one or one-time fashion as the checklist format might seem to imply. Nor can they necessarily be prioritized in terms of any apparent or relative importance. Rather, each must be considered as part of the complex whole or gestalt of the investment analysis process, in much the same way that an individual tile is integral to the larger mosaic in which it appears.
 
-**Risk**: All investment evaluations should begin by measuring risk, especially reputational.
+**Risk:** All investment evaluations should begin by measuring risk, especially reputational.
 
 - Incorporate an appropriate margin of safety.
 - Avoid dealing with people of questionable character.
@@ -366,27 +366,27 @@ We have now examined Charlie’s approach to thinking in general and to investin
 - Always beware of inflation and interest rate exposures.
 - Avoid big mistakes; shun permanent capital loss.
 
-**Independence**: “Only in fairy tales are emperors told they are naked.”
+**Independence:** “Only in fairy tales are emperors told they are naked.”
 
 - Objectivity and rationality require independence of thought.
 - Remember that just because other people agree or disagree with you doesn’t make you right or wrong—the only thing that matters is the correctness of your analysis and judgment.
 - Mimicking the herd invites regression to the mean (merely average performance).
 
-**Preparation**: “The only way to win is to work, work, work, work, and hope to have a few insights.”
+**Preparation:** “The only way to win is to work, work, work, work, and hope to have a few insights.”
 
 - Develop into a lifelong self-learner through voracious reading; cultivate curiosity and strive to become a little wiser every day.
 - More important than the will to win is the will to prepare.
 - Develop fluency in mental models from the major academic disciplines.
 - If you want to get smart, the question you have to keep asking is “Why, why, why?”
 
-**Intellectual humility**: Acknowledging what you don’t know is the dawning of wisdom.
+**Intellectual humility:** Acknowledging what you don’t know is the dawning of wisdom.
 
 - Stay within a well-defined circle of competence.
 - Identify and reconcile disconfirming evidence.
 - Resist the craving for false precision, false certainties, etc.
 - Above all, never fool yourself, and remember that you are the easiest person to fool.
 
-**Analytic rigor**: Use of the scientific method and effective checklists minimizes errors and omissions.
+**Analytic rigor:** Use of the scientific method and effective checklists minimizes errors and omissions.
 
 - Determine value apart from price, progress apart from activity, wealth apart from size.
 - It is better to remember the obvious than to grasp the esoteric.
@@ -394,32 +394,32 @@ We have now examined Charlie’s approach to thinking in general and to investin
 - Consider the totality of risk and effect; look always at potential second-order and higher-level impacts.
 - Think forward and backward: Invert, always invert.
 
-**Allocation**: Proper allocation of capital is an investor’s number one job.
+**Allocation:** Proper allocation of capital is an investor’s number one job.
 
 - Remember that the highest and best use is always measured by the next best use (opportunity cost).
 - Good ideas are rare—when the odds are greatly in your favor, bet (allocate) heavily.
 - Don’t fall in love with an investment—be situation-dependent and opportunity-driven.
 
-**Patience**: Resist the natural human bias to act.
+**Patience:** Resist the natural human bias to act.
 
 - “Compound interest is the eighth wonder of the world” (Einstein); never interrupt it unnecessarily.
 - Avoid unnecessary transactional taxes and frictional costs; never take action for its own sake.
 - Be alert for the arrival of luck.
 - Enjoy the process along with the proceeds, because the process is where you live.
 
-**Decisiveness**: When proper circumstances present themselves, act with decisiveness and conviction.
+**Decisiveness:** When proper circumstances present themselves, act with decisiveness and conviction.
 
 - Be fearful when others are greedy and greedy when others are fearful.
 - Opportunity doesn’t come often, so seize it when it does.
 - Opportunity meeting the prepared mind—that’s the game.
 
-**Change**: Live with change and accept unremovable complexity.
+**Change:** Live with change and accept unremovable complexity.
 
 - Recognize and adapt to the true nature of the world around you; don’t expect it to adapt to you.
 - Continually challenge and willingly amend your best-loved ideas.
 - Recognize reality even when you don’t like it—especially when you don’t like it.
 
-**Focus**: Keep things simple and remember what you set out to do.
+**Focus:** Keep things simple and remember what you set out to do.
 
 - Remember that reputation and integrity are your most valuable assets—and can be lost in a heartbeat.
 - Guard against the effects of hubris and boredom.
@@ -431,28 +431,31 @@ Since human beings began investing, they have been searching for a magic formula
 
 Finally, a word or two on why this overview of Charlie’s investment philosophy has focused so much on the subject of what to buy and so little on when to sell. The answer, in Charlie’s own words, serves as a wonderful summation of the Munger school of highly concentrated, focused investing described here:
 
-> “We’re partial to putting out large amounts of money where we won’t have to make another decision. If you buy something because it’s undervalued, then you have to think about selling it when it approaches your calculation of its intrinsic value. That’s hard. But if you can buy a few great companies, then you can sit on your ass. That’s a good thing.”
-> 
+> We’re partial to putting out large amounts of money where we won’t have to make another decision. If you buy something because it’s undervalued, then you have to think about selling it when it approaches your calculation of its intrinsic value. That’s hard. But if you can buy a few great companies, then you can sit on your ass. That’s a good thing.
 
 Like his hero, Benjamin Franklin, Charlie Munger painstakingly developed and perfected unique approaches to personal and business endeavors. Through these methods, and through the development and maintenance of sound, lifelong habits, he has achieved extraordinary success.
 
-# Chapter Four: Eleven Talks
+# Chapter 4: Eleven Talks
 
 Charlie Munger is not the least bit shy when it comes to offering both frank criticism and constructive advice. When he sets his sights on an issue—be it a corrupt business practice, an academic failing, or a financial scandal—he lets loose with both barrels. Which is not to say he spends all his time focused on life’s failings. He is equally at home discussing the values of lifelong learning or the joys of a successful marriage. But whatever the topic, Charlie is apt to tell it like it is, which is exactly what he has done in over two decades of public speaking.
 
 Here, then, are 11 of Charlie’s best talks, including a special compilation he has prepared exclusively for this book. Enjoy.
 
-- Harvard School Commencement Speech
-- A Lesson on Elementary, Worldly Wisdom
-- A Lesson on Elementary, Worldly Wisdom, Revisited
-- Practical Thought about Practical Thought?
-- Harvard Law School 50th Reunion Address
-- Investment Practices of Leading Charitable Foundations
-- Philanthropy Roundtable
-- The Great Financial Scandal of 2003
-- Academic Economics
-- USC Gould School of Law Commencement Address
-- The Psychology of Human Misjudgment: A special compilation talk, with material written by Charlie exclusively for this book
+1. Harvard School Commencement Speech
+2. A Lesson on Elementary, Worldly Wisdom
+3. A Lesson on Elementary, Worldly Wisdom, Revisited
+4. Practical Thought about Practical Thought?
+5. Harvard Law School 50th Reunion Address
+6. Investment Practices of Leading Charitable Foundations
+7. Philanthropy Roundtable
+8. The Great Financial Scandal of 2003
+9. Academic Economics
+10. USC Gould School of Law Commencement Address
+11. The Psychology of Human Misjudgment: A special compilation talk, with material written by Charlie exclusively for this book
+
+## Talk 1: Harvard School Commencement Speech
+
+*Harvard Shcool, Los Angeles, June 13, 1986*
 
 In a vow that students the world over may hope he renounces, Charlie delivered “the one and only graduation speech I will ever make” in 1986 at the Harvard School in Los Angeles. The occasion was the graduation of Philip Munger, the last of five Munger family sons to matriculate at this prep school (originally an all-boys institution and now the coeducational school called Harvard-Westlake).
 
@@ -460,14 +463,12 @@ Despite Charlie’s self-effacing protestations about lacking “significant pub
 
 For those of you who want to remain unenlightened and mirthless, do not, under any circumstances, read this selection.
 
-## Talk One: Harvard School Commencement Speech
-
-*June 13, 1986*
+---
 
 Now that Headmaster Berrisford has selected one of the oldest and longest-serving trustees to make a commencement speech, it behooves the speaker to address two questions in every mind:
 
-- Why was such a selection made?
-- How long is the speech going to last?
+1. Why was such a selection made?
+2. How long is the speech going to last?
 
 I will answer the first question from long experience alongside Berrisford. He is seeking enhanced reputation for our school in the manner of the man who proudly displays his horse that can count to seven. The man knows that counting to seven is not much of a mathematical feat, but he expects approval because doing so is creditable, considering the performer is a horse.
 
@@ -475,16 +476,13 @@ The second question, regarding the length of the speech, I am not going to answe
 
 But I will tell you how my consideration of speech length created the subject matter of the speech itself. I was puffed up when invited to speak. While not having significant public speaking experience, I do hold a black belt in chutzpah, and I immediately considered Demosthenes and Cicero as role models and anticipated trying to earn a compliment like Cicero gave when asked which was his favorite among the orations of Demosthenes. Cicero replied, “The longest one.”
 
-However, fortunately for this audience, I also thought of Samuel Johnson’s famous comment when he addressed Milton’s poem [*Paradise Lost](https://www.poetryfoundation.org/poems/45718/paradise-lost-book-1-1674-version) and correctly said, “No one ever wished it longer.” And that made me consider which of all the 20 Harvard School graduation speeches I had heard that I had wished longer. There was only one such speech, given by Johnny Carson, specifying Carson’s prescriptions for guaranteed misery in life. I, therefore, decided to repeat Carson’s speech, but in expanded form with some added prescriptions of my own. After all, I am much older than Carson was when he spoke, and I have failed and been miserable more often and in more ways than was possible for a charming humorist speaking at a younger age. I am plainly well qualified to expand on Carson’s theme.*
+However, fortunately for this audience, I also thought of Samuel Johnson’s famous comment when he addressed Milton’s poem [*Paradise Lost*](https://www.poetryfoundation.org/poems/45718/paradise-lost-book-1-1674-version) and correctly said, “No one ever wished it longer.” And that made me consider which of all the 20 Harvard School graduation speeches I had heard that I had wished longer. There was only one such speech, given by Johnny Carson, specifying Carson’s prescriptions for guaranteed misery in life. I, therefore, decided to repeat Carson’s speech, but in expanded form with some added prescriptions of my own. After all, I am much older than Carson was when he spoke, and I have failed and been miserable more often and in more ways than was possible for a charming humorist speaking at a younger age. I am plainly well qualified to expand on Carson’s theme.
 
 What Carson said was that he couldn’t tell the graduating class how to be happy, but he could tell them from personal experience how to guarantee misery. Carson’s prescription for sure misery included:
 
-- Ingesting chemicals in an effort to alter mood or perception.
-- Envy.
-- Resentment.
-
-> Carson said he couldn’t tell the graduating class how to be happy, but he could tell them from personal experience how to guarantee misery.
-> 
+1. Ingesting chemicals in an effort to alter mood or perception.
+2. Envy.
+3. Resentment.
 
 I can still recall Carson’s absolute conviction as he told how he had tried these things on occasion after occasion and had become miserable every time.
 
@@ -495,9 +493,6 @@ While susceptibility varies, addiction can happen to any of us through a subtle 
 Envy, of course, joins chemicals in winning some sort of quantity prize for causing misery. It was wreaking havoc long before it got bad press in the laws of Moses. If you wish to retain the contribution of envy to misery, I recommend that you never read any of the biographies of that good Christian Samuel Johnson, because his life demonstrates in an enticing way the possibility and advantage of transcending envy.
 
 Resentment has always worked for me exactly as it worked for Carson. I cannot recommend it highly enough to you if you desire misery. Johnson spoke well when he said that life is hard enough to swallow without squeezing in the bitter rind of resentment.
-
-> Johnson spoke well when he said that life is hard enough to swallow without squeezing in the bitter rind of resentment.
-> 
 
 For those of you who want misery, I also recommend refraining from the practice of the Disraeli compromise, designed for people who find it impossible to quit resentment cold turkey. Disraeli, as he rose to become one of the greatest prime ministers, learned to give up vengeance as a motivation for action, but he did retain some outlet for resentment by putting the names of people who wronged him on pieces of paper in a drawer. Then, from time to time, he reviewed these names and took pleasure in noting the way the world had taken his enemies down without his assistance.
 
@@ -513,9 +508,6 @@ My second prescription for misery is to learn everything you possibly can from y
 
 You can see the results of not learning from others’ mistakes by simply looking about you. How little originality there is in the common disasters of mankind: drunk driving deaths, reckless driving maimings, incurable venereal diseases, conversion of bright college students into brainwashed zombies as members of destructive cults, business failures through repetition of obvious mistakes made by predecessors, various forms of crowd folly, and so on. I recommend as a memory clue to finding the way to real trouble from heedless, unoriginal error the modern saying “If at first you don’t succeed, well, so much for hang gliding.”
 
-> “If at first you don’t succeed, well, so much for hang gliding.”
-> 
-
 The other aspect of avoiding vicarious wisdom is the rule of not learning from the best work done before yours. The prescription is to become as non-educated as you reasonably can.
 
 Perhaps you will better see the type of non-miserable result you can thus avoid if I render a short historical account. There once was a man who assiduously mastered the work of his best predecessors, despite a poor start and very tough time in analytical geometry. Eventually, his own work attracted wide attention, and he said of his work, “If I have seen a little farther than other men, it is because I stood on the shoulders of giants.” The bones of that man lie buried now, in Westminster Abbey, under an unusual inscription: “Here lie the remains of all that was mortal in Sir Isaac Newton.”
@@ -526,17 +518,11 @@ My final prescription to you for a life of fuzzy thinking and infelicity is to i
 
 What Carson did was to approach the study of how to create X by turning the question backward—that is, by studying how to create non-X. The great algebraist, Jacobi, had exactly the same approach as Carson and was known for his constant repetition of one phrase: “Invert, always invert.” It is in the nature of things, as Jacobi knew, that many hard problems are best solved only when they are addressed backward. For instance, when almost everyone else was trying to revise the electromagnetic laws of Maxwell to be consistent with the motion laws of Newton, Einstein discovered special relativity as he made a 180-degree turn and revised Newton’s laws to fit Maxwell’s.
 
-> Many hard problems are best solved when they are addressed backward.
-> 
-
 It is my opinion, as a certified biography nut, that Charles Robert Darwin would have ranked near the middle of the Harvard School graduating class of 1986. Yet he is now famous in the history of science. This is precisely the type of example you should learn nothing from if bent on minimizing your results from your own endowment.
 
 Darwin’s result was due in large measure to his working method, which violated all my rules for misery and particularly emphasized a backward twist in that he always gave priority attention to evidence tending to disconfirm whatever cherished and hard-won theory he already had. In contrast, most people early achieve and later intensify a tendency to process new and disconfirming information so that any original conclusion remains intact. They become people of whom Philip Wylie observed, “You couldn’t squeeze a dime between what they already know and what they will never learn.”
 
 The life of Darwin demonstrates how a turtle may outrun a hare, aided by extreme objectivity, which helps the objective person end up like the only player without a blindfold in a game of Pin the Tail on the Donkey.
-
-> The life of Darwin demonstrates how a turtle may outrun a hare, aided by extreme objectivity.
-> 
 
 If you minimize objectivity, you ignore not only a lesson from Darwin but also one from Einstein. Einstein said that his successful theories came from “curiosity, concentration, perseverance, and self-criticism.” And by self-criticism, he meant the testing and destruction of his own well-loved ideas.
 
@@ -544,28 +530,27 @@ Finally, minimizing objectivity will help you lessen the compromises and burden 
 
 It is fitting that a backward sort of speech end with a backward sort of toast, inspired by Elihu Root’s repeated accounts of how the dog went to Dover, “leg over leg.” To the class of 1986: Gentlemen, may each of you rise by spending each day of a long life aiming low.
 
-### Talk One Revisited
+### Talk 1 Revisited
 
 As I review in 2006 this talk made in 1986, I would not revise a single idea. If anything, I now believe even more strongly that 1) reliability is essential for progress in life, and 2) while quantum mechanics is unlearnable for a vast majority, reliability can be learned to great advantage by almost anyone.
 
 Indeed, I have often made myself unpopular on elite college campuses by pushing this reliability theme. What I say is that McDonald’s is one of our most admirable institutions. Then, as signs of shock come to surrounding faces, I explain that McDonald’s, providing first jobs to millions of teenagers, many troubled, over the years, has successfully taught most of them the one lesson they most need: to show up reliably for responsible work. Then I usually go on to say that if the elite campuses were as successful as McDonald’s in teaching sensibly, we would have a better world.
 
+## Talk 2: A Lesson on Elementary, Worldly Wisdom as It Relates to Investment Management and Business
+
+*The University of Southern California Marshall School of Business, April 14, 1994*
+
 Well known because it was published in *Outstanding Investor Digest* (May 5, 1995), this talk was given in 1994 to Professor Guilford Babcock’s business class at the University of Southern California. Charlie ranges in the talk from education systems to psychology to the importance of possessing both common and uncommon sense. Dissecting business management, he brilliantly describes psychological impacts that can damage or benefit a firm. He also presents an outstanding set of principles for investment, business management, and—most importantly, from Charlie’s perspective—decision-making in everyday life.
 
 Your time investment in reading this talk will be paid back quickly via the effect it will have on your own decision-making abilities.
 
-## Talk Two: A Lesson on Elementary, Worldly Wisdom as It Relates to Investment Management and Business
-
-*The University of Southern California Marshall School of Business, April 14, 1994*
+---
 
 I am going to play a minor trick on you today, because the subject of my talk is the art of stock picking as a subdivision of the art of worldly wisdom. That enables me to start talking about worldly wisdom, a much broader topic that interests me because I think all too little of it is delivered by modern educational systems, at least in an effective way. And, therefore, the talk is sort of along the lines that some behaviorist psychologists call “Grandma’s rule,” after the wisdom of Grandma when she said that you have to eat the carrots before you get the dessert.
 
 The carrot part of this talk is about the general subject of worldly wisdom, which is a pretty good way to start. After all, the theory of modern education is that you need a general education before you specialize. And I think, to some extent, before you’re going to be a great stock picker, you need some general education. So, emphasizing what I sometimes waggishly call remedial worldly wisdom, I’m going to start by waltzing you through a few basic notions.
 
 What is elementary, worldly wisdom? Well, the first rule is that you can’t really know anything if you just remember isolated facts and try and bang ’em back. If the facts don’t hang together on a latticework of theory, you don’t have them in a usable form. You’ve got to have models in your head. And you’ve got to array your experience—both vicarious and direct—on this latticework of models. You may have noticed students who just try to remember and pound back what is remembered. Well, they fail in school and fail in life. You’ve got to hang experience on a latticework of models in your head.
-
-> If the facts don’t hang together on a latticework of theory, you don’t have them in a usable form.
-> 
 
 What are the models? Well, the first rule is that you’ve got to have multiple models—because if you have just one or two that you’re using, the nature of human psychology is such that you’ll torture reality so that it fits your models, or at least you’ll think it does. You become the equivalent of a chiropractor, who, of course, is the great boob in medicine. It’s like the old saying, “To the man with only a hammer, every problem looks like a nail.” And, of course, that’s the way the chiropractor goes about practicing medicine. But that’s a perfectly disastrous way to think and a perfectly disastrous way to operate in the world. So you’ve got to have multiple models.
 
@@ -585,9 +570,6 @@ By and large, as it works out, people can’t naturally and automatically do thi
 
 If you don’t get this elementary, but mildly unnatural, mathematics of elementary probability into your repertoire, then you go through a long life like a one-legged man in an ass-kicking contest. You’re giving a huge advantage to everybody else. One of the advantages of a fellow like Buffett, whom I’ve worked with all these years, is that he automatically thinks in terms of decision trees and the elementary math of permutations and combinations.
 
-> If you don’t get elementary probability into your repertoire, you go through a long life like a one-legged man in an ass-kicking contest.
-> 
-
 Obviously, you have to know accounting. It’s the language of practical business life. It was a very useful thing to deliver to civilization. I’ve heard it came to civilization through Venice, which, of course, was once the great commercial power in the Mediterranean. However, double-entry bookkeeping was a hell of an invention. And it’s not that hard to understand. But you have to know enough about it to understand its limitations—because although accounting is the starting place, it’s only a crude approximation. And it’s not very hard to understand its limitations. For example, everyone can see that you have to more or less just guess at the useful life of a jet airplane or anything like that. Just because you express the depreciation rate in neat numbers doesn’t make it anything you really know.
 
 In terms of the limitations of accounting, one of my favorite stories involves a very great businessman named Carl Braun who created the C. F. Braun Engineering Company. It designed and built oil refineries, which is very hard to do. And Braun would get them to come in on time and not blow up and have efficiencies and so forth. This is a major art.
@@ -598,9 +580,6 @@ He had another rule, from psychology—which, if you’re interested in wisdom, 
 
 You might ask, why is that so important? Well, again, that’s a rule of psychology. Just as you think better if you array knowledge on a bunch of models that are basically answers to the question “Why, why, why?,” if you always tell people why, they’ll understand it better, they’ll consider it more important, and they’ll be more likely to comply. Even if they don’t understand your reason, they’ll be more likely to comply. So there’s an iron rule that just as you want to start getting worldly wisdom by asking “Why, why, why?,” in communicating with other people about everything, you want to include why, why, why. Even if it’s obvious, it’s wise to stick in the why.
 
-> If you always tell people why, they’ll understand it better, they’ll consider it more important, and they’ll be more likely to comply.
-> 
-
 Which models are the most reliable? Well, obviously, the models that come from hard science and engineering are the most reliable models on this earth. And engineering quality control—at least the guts of it that matters to you and me and people who are not professional engineers—is very much based on the elementary mathematics of Fermat and Pascal: It costs so much, and you get so much less likelihood of it breaking if you spend this much. It’s all elementary high school mathematics. And an elaboration of that is what Deming brought to Japan for all of that quality-control stuff.
 
 I don’t think it’s necessary for most people to be terribly facile in statistics. For example, I’m not sure that I can even pronounce the Gaussian distribution, although I know what it looks like and I know that events and huge aspects of reality end up distributed that way. So I can do a rough calculation. But if you ask me to work out something involving a Gaussian distribution to 10 decimal points, I can’t sit down and do the math. I’m like a poker player who’s learned to play pretty well without mastering Pascal. And, by the way, that works well enough. But you have to understand that bell-shaped curve at least roughly as well as I do.
@@ -608,9 +587,6 @@ I don’t think it’s necessary for most people to be terribly facile in statis
 And, of course, the engineering idea of a backup system is a very powerful idea. The engineering idea of breakpoints, that’s a very powerful model too. The notion of a critical mass—that comes out of physics—is a very powerful model.
 
 All of these things have great utility in looking at ordinary reality. And all of this cost-benefit analysis—hell, that’s all elementary high school algebra. It’s just been dolled up a little bit with fancy lingo. And you can demonstrate that point quite simply: There’s not a person in this room viewing the work of a very ordinary professional magician who doesn’t see a lot of things happening that aren’t happening and not see a lot of things happening that are happening.
-
-> There’s not a person in this room viewing the work of a very ordinary professional magician who doesn’t see a lot of things happening that aren’t happening and not see a lot of things happening that are happening.
-> 
 
 I suppose the next most reliable models are from biology and physiology because, after all, all of us are programmed by our genetic makeup to be much the same.
 
@@ -624,17 +600,11 @@ The elementary part of psychology—the psychology of misjudgment, as I call it�
 
 There’s another saying that comes from Pascal that I’ve always considered one of the really accurate observations in the history of thought. Pascal said, “The mind of man at one and the same time is both the glory and the shame of the universe.” And that’s exactly right. It has this enormous power. However, it also has these standard misfunctions that often cause it to reach wrong conclusions. It also makes man extraordinarily subject to manipulation by others. For example, roughly half of the army of Adolf Hitler was composed of believing Catholics. Given enough clever psychological manipulation, what human beings will do is quite interesting.
 
-> “The mind of man at one and the same time is both the glory and the shame of the universe.”
-> 
-
 Personally, I’ve gotten so that I now use a kind of two-track analysis. First, what are the factors that really govern the interests involved, rationally considered? And second, what are the subconscious influences where the brain, at a subconscious level, is automatically doing these things—which, by and large, are useful but which often misfunction? One approach is rationality, the way you’d work out a bridge problem: by evaluating the real interests, the real probabilities, and so forth. And the other is to evaluate the psychological factors that cause subconscious conclusions, many of which are wrong.
 
 Now we come to another, somewhat less reliable form of human wisdom: microeconomics. Here I find it quite useful to think of a free market economy—or a partly free market economy—as sort of the equivalent of an ecosystem.
 
 This is a very unfashionable way of thinking because early in the days after Darwin came along, people like the robber barons assumed that the doctrine of the survival of the fittest authenticated them as deserving power—you know, “I’m the richest. Therefore, I’m the best. God’s in his heaven,” etc. And that reaction of the robber barons was so irritating to people that it made it unfashionable to think of an economy as an ecosystem. But the truth is that it is a lot like an ecosystem. And you get many of the same results. Just as in an ecosystem, people who narrowly specialize can get terribly good at occupying some little niche. Just as animals flourish in niches, people who specialize in the business world—and get very good because they specialize—frequently find good economics that they wouldn’t get any other way.
-
-> Just as animals flourish in niches, people who specialize in the business world frequently find good economics that they wouldn’t get any other way.
-> 
 
 And once we get into microeconomics, we get into the concept of advantages of scale. Now we’re getting closer to investment analysis, because in terms of which businesses succeed and which businesses fail, advantages of scale are ungodly important.
 
@@ -647,9 +617,6 @@ There are all kinds of things like that where the simple geometry—the simple r
 Well, if you were Procter&Gamble, you could afford to use this new method of advertising. You could afford the very expensive cost of network television because you were selling so damn many cans and bottles. Some little guy couldn’t. And there was no way of buying it in part. Therefore, he couldn’t use it. In effect, if you didn’t have a big volume, you couldn’t use network TV advertising, which was the most effective technique. So when TV came in, the branded companies that were already big got a huge tailwind. Indeed, they prospered and prospered and prospered until some of them got fat and foolish, which happens with prosperity, at least to some people.
 
 And your advantage of scale can be an informational advantage. If I go to some remote place, I may see Wrigley chewing gum alongside Glotz’s chewing gum. Well, I know that Wrigley is a satisfactory product whereas I don’t know anything about Glotz’s. So if one is 40¢ and the other is 30¢, am I going to take something I don’t know and put it in my mouth—which is a pretty personal place, after all—for a lousy dime? So, in effect, Wrigley, simply by being so well known, has advantages of scale—what you might call an informational advantage.
-
-> Am I going to take something I don’t know and put it in my mouth—which is a pretty personal place, after all—for a lousy dime?
-> 
 
 Another advantage of scale comes from psychology. Psychologists use the term social proof. We are all influenced—subconsciously and, to some extent, consciously—by what we see others do and approve. Therefore, if everybody’s buying something, we think it’s better. We don’t like to be the one guy who’s out of step. Again, some of this is at a subconscious level, and some of it isn’t. Sometimes, we consciously and rationally think, “Gee, I don’t know much about this. They know more than I do. Therefore, why shouldn’t I follow them?”
 
@@ -668,9 +635,6 @@ And there are also disadvantages of scale. For example, we—by which I mean Ber
 That’s what happened to *The Saturday Evening Post* and all those things. They’re gone. What we have now is *Motocross,* which is read by a bunch of nuts who like to participate in tournaments where they turn somersaults on their motorcycles. But they care about it. For them, it’s the principal purpose of life. A magazine called *Motocross* is a total necessity to those people. And its profit margins would make you salivate. Just think of how narrowcast that kind of publishing is. So occasionally, scaling down and intensifying gives you the big advantage. Bigger is not always better.
 
 The great defect of scale, of course, which makes the game interesting, so that the big people don’t always win—is that as you get big, you get the bureaucracy. And with the bureaucracy comes the territoriality, which is again grounded in human nature. And the incentives are perverse. For example, if you worked for AT&T in my day, it was a great bureaucracy. Who in the hell was really thinking about the shareholder or anything else? And in a bureaucracy, you think the work is done when it goes out of your in-basket into somebody else’s in-basket. But, of course, it isn’t. It’s not done until AT&T delivers what it’s supposed to deliver. So you get big, fat, dumb, unmotivated bureaucracies.
-
-> The big people don’t always win—as you get big, you get the bureaucracy.
-> 
 
 They also tend to become somewhat corrupt. In other words, if I’ve got a department and you’ve got a department and we kind of share power running this thing, there’s sort of an unwritten rule: “If you won’t bother me, I won’t bother you, and we’re both happy.” So you get layers of management and associated costs that nobody needs. Then, while people are justifying all these layers, it takes forever to get anything done. They’re too slow to make decisions, and nimbler people run circles around them.
 
@@ -694,17 +658,11 @@ So there are huge purchasing advantages. And then there are the slick systems of
 
 It’s quite interesting to think about Walmart starting from a single store in Arkansas against Sears, Roebuck, with its name, reputation and all of its billions. How does a guy in Bentonville, Arkansas, with no money, blow right by Sears, Roebuck? And he does it in his own lifetime—in fact, during his own late lifetime because he was already pretty old by the time he started out with one little store.
 
-> How does a guy in Bentonville, Arkansas, with no money, blow right by Sears, Roebuck?
-> 
-
 He played the chain store game harder and better than anyone else. Walton invented practically nothing. But he copied everything anybody else ever did that was smart—and he did it with more fanaticism and better employee manipulation. So he just blew right by them all.
 
 He also had a very interesting competitive strategy in the early days. He was like a prizefighter who wanted a great record so he could be in the finals and make a big TV hit. So what did he do? He went out and fought 42 palookas. Right? And the result was knockout, knockout, knockout—42 times. Walton, being as shrewd as he was, basically broke other small-town merchants in the early days. With his more efficient system, he might not have been able to tackle some titan head-on at the time. But with his better system, he could sure as hell destroy those small-town merchants. And he went around doing it time after time after time. Then, as he got bigger, he started destroying the big boys. Well, that was a very, very shrewd strategy.
 
 You can say, “Is this a nice way to behave?” Well, capitalism is a pretty brutal place. But I personally think that the world is better for having Walmart. I mean, you can idealize small-town life, but I’ve spent a fair amount of time in small towns. And let me tell you—you shouldn’t get too idealistic about all those businesses he destroyed. Plus, a lot of people who work at Walmart are very high-grade, bouncy people who are raising nice children. I have no feeling that an inferior culture destroyed a superior culture. I think that is nothing more than nostalgia and delusion. But at any rate, it’s an interesting model of how the scale of things and fanaticism combine to be very powerful.
-
-> Capitalism is a pretty brutal place. But I personally think that the world is better for having Walmart.
-> 
 
 And it’s also an interesting model on the other side—how, with all its great advantages, the disadvantages of bureaucracy did such terrible damage to Sears, Roebuck. Sears had layers and layers of people it didn’t need. It was very bureaucratic. It was slow to think. And there was an established way of thinking. If you poked your head up with a new thought, the system kind of turned against you. It was everything in the way of a dysfunctional big bureaucracy that you would expect.
 
@@ -720,9 +678,6 @@ Obviously, there’s a brand identity factor in cereals that doesn’t exist in 
 
 In some businesses, the participants behave like a demented Kellogg. In other businesses, they don’t. Unfortunately, I do not have a perfect model for predicting how that’s going to happen. For example, if you look around at bottler markets, you’ll find many markets where bottlers of Pepsi and Coke both make a lot of money and many others where they destroy most of the profitability of the two franchises. That must get down to the peculiarities of individual adjustment to market capitalism. I think you’d have to know the people involved to fully understand what was happening.
 
-> In some businesses, the participants behave like a demented Kellogg.
-> 
-
 In microeconomics, of course, you’ve got the concept of patents, trademarks, exclusive franchises, and so forth. Patents are quite interesting. When I was young, I think more money went into patents than came out. Judges tended to throw them out based on arguments about what was really invented and what relied on prior art. That isn’t altogether clear. But they changed that. They didn’t change the laws, they just changed the administration, so that it all goes to one patent court. And that court is now very much more pro-patent. So I think people are now starting to make a lot of money out of owning patents.
 
 Trademarks, of course, have always made people a lot of money. A trademark system is a wonderful thing for a big operation if it’s well known.
@@ -730,9 +685,6 @@ Trademarks, of course, have always made people a lot of money. A trademark syste
 The exclusive franchise can also be wonderful. If there were only three television channels awarded in a big city and you owned one of them, there were only so many hours a day that you could be on. So you had a natural position in an oligopoly in the pre-cable days. And if you get the franchise for the only food stand in an airport, you have a captive clientele, and you have a small monopoly of a sort.
 
 The great lesson in microeconomics is to discriminate between when technology is going to help you and when it’s going to kill you. And most people do not get this straight in their heads. But a fellow like Buffett does. For example, when we were in the textile business, which is a terrible commodity business, we were making low-end textiles, which are a real commodity product. And one day, the people came to Warren and said, “They’ve invented a new loom that we think will do twice as much work as our old ones.” And Warren said, “Gee, I hope this doesn’t work—because if it does, I’m going to close the mill.” And he meant it.
-
-> The great lesson in microeconomics is to discriminate between when technology is going to help you and when it’s going to kill you.
-> 
 
 What was he thinking? He was thinking, “It’s a lousy business. We’re earning substandard returns and keeping it open just to be nice to the elderly workers. But we’re not going to put huge amounts of new capital into a lousy business.” And he knew that the huge productivity increases that would come from a better machine introduced into the production of a commodity product would all go to the benefit of the buyers of the textiles. Nothing was going to stick to our ribs as owners.
 
@@ -750,9 +702,6 @@ And when these new businesses come in, there are huge advantages for the early b
 
 The cash register was one of the great contributions to civilization. It’s a wonderful story. Patterson was a small retail merchant who didn’t make any money. One day, somebody sold him a crude cash register, which he put into his retail operation. And it instantly changed from losing money to earning a profit because it made it so much harder for the employees to steal.
 
-> The cash register was one of the great contributions to civilization.
-> 
-
 But Patterson, having the kind of mind that he did, didn’t think, “Oh, good for my retail business.” He thought, “I’m going into the cash register business.” And, of course, he created National Cash Register. And he surfed. He got the best distribution system, the biggest collection of patents, and the best of everything. He was a fanatic about everything important as the technology developed.
 
 I have in my files an early National Cash Register company report in which Patterson described his methods and objectives. And a well-educated orangutan could see that buying into a partnership with Patterson in those early days, given his notions about the cash register business, was a total 100 percent cinch. And, of course, that’s exactly what an investor should be looking for. In a long life, you can expect to profit heavily from at least a few of those opportunities if you develop the wisdom and will to seize them. At any rate, surfing is a very powerful model.
@@ -762,9 +711,6 @@ However, Berkshire Hathaway, by and large, does not invest in these people who a
 Again, that is a very, very powerful idea. Every person is going to have a circle of competence. And it’s going to be very hard to enlarge that circle. If I had to make my living as a musician… I can’t even think of a level low enough to describe where I would be sorted out to if music were the measuring standard of the civilization.
 
 So you have to figure out what your own aptitudes are. If you play games where other people have the aptitudes and you don’t, you’re going to lose. And that’s as close to certain as any prediction you can make. You have to figure out where you’ve got an edge. And you’ve got to play within your own circle of competence.
-
-> If you play games where other people have the aptitudes and you don’t, you’re going to lose.
-> 
 
 If you want to be the best tennis player in the world, you may start out trying and soon find out that it’s hopeless—that other people blow right by you. However, if you want to become the best plumbing contractor in Bemidji, that is probably doable by two-thirds of you. It takes a will. It takes the intelligence. But after a while, you’d gradually know all about the plumbing business in Bemidji and master the art. That is an attainable objective, given enough discipline. And people who could never win a chess tournament or stand in center court in a respectable tennis tournament can rise quite high in life by slowly developing a circle of competence, which results partly from what they were born with and partly from what they slowly develop through work.
 
@@ -777,9 +723,6 @@ I don’t want to get into emerging markets, bond arbitrage, and so forth. I’m
 The first question is, what is the nature of the stock market? And that gets you directly to this efficient market theory that got to be the rage—a total rage—long after I graduated from law school. And it’s rather interesting because one of the greatest economists of the world is a substantial shareholder in Berkshire Hathaway and has been from the very early days, after Buffett was in control. His textbook always taught that the stock market was perfectly efficient and that nobody could beat it. But his own money went into Berkshire and made him wealthy. So, like Pascal in his famous wager, he hedged his bet.
 
 Is the stock market so efficient that people can’t beat it? Well, the efficient market theory is obviously roughly right, meaning that markets are quite efficient and it’s quite hard for anybody to beat the market by significant margins as a stock picker by just being intelligent and working in a disciplined way. Indeed, the average result has to be the average result. By definition, everybody can’t beat the market. As I always say, the iron rule of life is that only 20 percent of the people can be in the top fifth. That’s just the way it is. So the answer is that it’s partly efficient and partly inefficient.
-
-> The iron rule of life is that only 20 percent of the people can be in the top fifth.
-> 
 
 And, by the way, I have a name for people who went to the extreme efficient market theory, which is “bonkers.” It was an intellectually consistent theory that enabled them to do pretty mathematics, so I understand its seductiveness to people with large mathematical gifts. It just had a difficulty in that the fundamental assumption did not tie properly to reality. Again, to the man with a hammer, every problem looks like a nail. If you’re good at manipulating higher mathematics in a consistent way, why not make an assumption that enables you to use your tool?
 
@@ -803,9 +746,6 @@ How do you get to be one of those who is a winner—in a relative sense—instea
 
 It’s not given to human beings to have such talent that they can just know everything about everything all the time. But it is given to human beings who work hard at it—who look and sift the world for a mispriced bet—that they can occasionally find one. And the wise ones bet heavily when the world offers them that opportunity. They bet big when they have the odds. And the rest of the time, they don’t. It’s just that simple.
 
-> Human beings who work hard at it—who look and sift the world for a mispriced bet—can occasionally find one.
-> 
-
 That is a very simple concept. And to me it’s obviously right, based on experience not only from the pari-mutuel system but everywhere else. And yet, in investment management, practically nobody operates that way. We operate that way—I’m talking about Buffett and Munger. And we’re not alone in the world. But a huge majority of people have some other crazy construct in their heads. And instead of waiting for a near cinch and loading up, they apparently ascribe to the theory that if they work a little harder or hire more business school students, they’ll come to know everything about everything all the time. To me, that’s totally insane.
 
 How many insights do you need? Well, I’d argue that you don’t need many in a lifetime. If you look at Berkshire Hathaway and all of its accumulated billions, the top 10 insights account for most of it. And that’s with a very brilliant man—Warren’s a lot more able than I am and very disciplined—devoting his lifetime to it. I don’t mean to say that he’s only had 10 insights. I’m just saying that most of the money came from 10 insights.
@@ -825,9 +765,6 @@ Investment managers are in the position of that fishing tackle salesman. They’
 If you invested Berkshire Hathaway-style, it would be hard to get paid as an investment manager as well as they’re currently paid, because you’d be holding a block of Walmart and a block of Coca-Cola and a block of something else. You’d be sitting on your ass. And the client would be getting rich. And, after a while, the client would think, “Why am I paying this guy half a percent a year on my wonderful passive holdings?”
 
 So what makes sense for the investor is different from what makes sense for the manager. And, as usual in human affairs, what determines the behavior are incentives for the decision-maker, and getting the incentives right is a very, very important lesson.
-
-> Getting the incentives right is a very, very important lesson.
-> 
 
 From all businesses, my favorite case on incentives is Federal Express. The heart and soul of its system, which creates the integrity of the product, is having all its airplanes come to one place in the middle of the night and shift all the packages from plane to plane. If there are delays, the whole operation can’t deliver a product full of integrity to Federal Express customers. And it was always screwed up. They could never get it done on time. They tried everything—moral suasion, threats, you name it. And nothing worked. Finally, somebody got the idea to pay all these people not so much an hour but so much a shift, and when it’s all done, they can all go home. Well, their problems cleared up overnight. So getting the incentives right is a very, very important lesson. It was not obvious to Federal Express what the solution was. But maybe now, it will hereafter more often be obvious to you.
 
@@ -851,9 +788,6 @@ And in terms of blowing it, IBM is some example. Those were brilliant, disciplin
 
 At any rate, the trouble with what I call the classic Ben Graham concept is that gradually the world wised up, and those real obvious bargains disappeared. You could run your Geiger counter over the rubble, and it wouldn’t click.
 
-> Gradually the world wised up, and those real obvious bargains disappeared.
-> 
-
 But such is the nature of people who have a hammer—to whom, as I mentioned, every problem looks like a nail—that the Ben Graham followers responded by changing the calibration on their Geiger counters. In effect, they started defining a bargain in a different way. And they kept changing the definition so that they could keep doing what they’d always done. And it still worked pretty well. So the Ben Graham intellectual system was a very good one.
 
 Of course, the best part of it all was his concept of Mr. Market. Instead of thinking the market was efficient, Graham treated it as a manic-depressive who comes by every day. And some days Mr. Market says, “I’ll sell you some of my interest for way less than you think it’s worth.” And other days, he comes by and says, “I’ll buy your interest at a price that’s way higher than you think it’s worth.” And you get the option of deciding whether you want to buy more, sell part of what you already have, or do nothing at all.
@@ -868,17 +802,11 @@ And, by the way, the bulk of the billions in Berkshire Hathaway have come from t
 
 [Most investment managers are] in a game where the clients expect them to know a lot about a lot of things. We didn’t have any clients who could fire us at Berkshire Hathaway. So we didn’t have to be governed by any such construct. And we came to this notion of finding a mispriced bet and loading up when we were very confident that we were right. So we’re way less diversified. And I think our system is miles better.
 
-> We didn’t have any clients who could fire us at Berkshire Hathaway.
-> 
-
 However, in all fairness, I don’t think [a lot of money managers] could successfully sell their services if they used our system. But if you’re investing for 40 years in some pension fund, what difference does it make if the path from start to finish is a little more bumpy or a little different than everybody else’s so long as it’s all going to work out well in the end? So what if there’s a little extra volatility? In investment management today, everybody wants not only to win but to have the path never diverge very much from a standard path except on the upside. Well, that is a very artificial, crazy construct. That is really hobbling yourself.
 
 Now, investment managers would say, “We have to be that way. That’s how we’re measured.” And they may be right in terms of the way the business is now constructed. But from the viewpoint of a rational consumer, the whole system’s bonkers and draws a lot of talented people into socially useless activity. And the Berkshire system is not bonkers. It’s so damned elementary that even bright people are going to have limited, really valuable insights in a very competitive world when they’re fighting against other very bright, hardworking people.
 
 And it makes sense to load up on the very few good insights you have instead of pretending to know everything about everything at all times. You’re much more likely to do well if you start out to do something feasible instead of something that isn’t feasible. Isn’t that perfectly obvious? How many of you have 56 brilliant insights in which you have equal confidence? Raise your hands, please. How many of you have two or three insights that you have some confidence in? I rest my case.
-
-> You’re much more likely to do well if you start out to do something feasible instead of something that isn’t feasible. Isn’t that perfectly obvious?
-> 
 
 We’ve really made the money out of high-quality businesses. In some cases, we bought the whole business, and in some cases, we just bought a big block of stock. But when you analyze what happened, the big money’s been made in the high-quality businesses. And most of the other people who’ve made a lot of money have done so in high-quality businesses.
 
@@ -896,9 +824,6 @@ Occasionally, you’ll find a human being who’s so talented that he can do thi
 
 However, averaged out, betting on the quality of a business is better than betting on the quality of management. In other words, if you have to choose one, bet on the business momentum, not the brilliance of the manager. But very rarely, you find a manager who’s so good that you’re wise to follow him into what looks like a mediocre business.
 
-> Averaged out, betting on the quality of a business is better than betting on the quality of management.
-> 
-
 Another very simple effect I very seldom see discussed either by investment managers or anybody else is the effect of taxes. If you’re going to buy something that compounds for 30 years at 15 percent per annum and you pay one 35 percent tax at the very end, the way that works out is that after taxes, you keep 13.3 percent per annum.
 
 In contrast, if you bought the same investment but had to pay taxes every year of 35 percent out of the 15 percent that you earned, then your return would be 15 percent minus 35 percent of 15 percent—or only 9.75 percent per year compounded. So the difference there is over 3.5 percent. And what 3.5 percent does to the numbers over long holding periods like 30 years is truly eye-opening. If you sit on your ass for long, long stretches in great companies, you can get a huge edge from nothing but the way income taxes work.
@@ -906,12 +831,6 @@ In contrast, if you bought the same investment but had to pay taxes every year o
 Even with a 10 percent per annum investment, paying a 35 percent tax at the end gives you 8.3 percent after taxes as an annual compounded result after 30 years. In contrast, if you pay the 35 percent each year instead of at the end, your annual result goes down to 6.5 percent. So you add nearly 2 percent of after-tax return per annum if you only achieve an average return by historical standards from common stock investments in companies with low dividend payout ratios.
 
 But in terms of business mistakes that I’ve seen over a long lifetime, I would say that trying to minimize taxes too much is one of the great standard causes of really dumb mistakes. I see terrible mistakes from people being overly motivated by tax considerations. Warren and I personally don’t drill oil wells. We pay our taxes. And we’ve done pretty well so far. Anytime somebody offers you a tax shelter from here on in life, my advice would be don’t buy it. In fact, anytime anybody offers you anything with a big commission and a 200-page prospectus, don’t buy it. Occasionally, you’ll be wrong if you adopt Munger’s rule. However, over a lifetime, you’ll be a long way ahead—and you will miss a lot of unhappy experiences that might otherwise reduce your love for your fellow man.
-
-> ““Berkshire’s Christmas present for Uncle Sam: On my right, Berkshire’s 2004 Federal tax return—10,249 pages and $3,131,473,650 total tax. In my left hand, the tax return I filed at age 13 showing a total tax of $7.” —Warren Buffett”
-> 
-
-> Anytime somebody offers you a tax shelter from here on in life, my advice would be don’t buy it.
-> 
 
 There are huge advantages for an individual to get into a position where you make a few great investments and just sit on your ass: You’re paying less to brokers. You’re listening to less nonsense. And if it works, the governmental tax system gives you an extra one, two, or three percentage points per annum compounded. And you think that most of you are going to get that much advantage by hiring investment counselors and paying them 1 percent to run around, incurring a lot of taxes on your behalf? Lots of luck.
 
@@ -927,9 +846,6 @@ You will get a few opportunities to profit from finding underpricing. There are 
 
 If you look at Berkshire’s investments where a lot of the money’s been made and you look for the models, you can see that we twice bought into two-newspaper towns which have since become one-newspaper towns. So we made a bet to some extent. In one of those—*The Washington Post* —we bought it at about 20 percent of the value to a private owner. So we bought it on a Ben Graham-style basis—at one-fifth of obvious value—and, in addition, we faced a situation where you had both the top hand in a game that was clearly going to end up with one winner and a management with a lot of integrity and intelligence. That one was a real dream. They’re very high-class people, the Katharine Graham family. That’s why it was a dream—an absolute, damn dream.
 
-> We faced a situation where you had both the top hand in a game that was clearly going to end up with one winner and a management with a lot of integrity and intelligence. It was a dream—an absolute, damn dream.
-> 
-
 Of course, that came about back in ’73, ’74. And that was almost like 1932. That was probably a once-in-40-years-type denouement in the markets. That investment’s up about 50 times over our cost. If I were you, I wouldn’t count on getting any investment in your lifetime quite as good as *The Washington Post* was in ’73 and ’74.
 
 Let me mention another model. Of course, Gillette and Coke make fairly low-priced items and have a tremendous marketing advantage all over the world. And in Gillette’s case, they keep surfing along new technology, which is fairly simple by the standards of microchips. But it’s hard for competitors to do. So they’ve been able to stay constantly near the edge of improvements in shaving. There are whole countries where Gillette has more than 90 percent of the shaving market.
@@ -942,25 +858,22 @@ That is a model you want to look for. And you may find one or two or three in a 
 
 Finally, I’d like to once again talk about investment management. That is a funny business, because on a net basis, the whole investment management business together gives no value added to all buyers combined. That’s the way it has to work.
 
-> On a net basis, the whole investment management business together gives no value added to all buyers combined. That’s the way it has to work.
-> 
-
 Of course, that isn’t true of plumbing, and it isn’t true of medicine. If you’re going to make your careers in the investment management business, you face a very peculiar situation. And most investment managers handle it with psychological denial, just like a chiropractor. That is the standard method of handling the limitations of the investment management process. But if you want to live the best sort of life, I would urge each of you not to use the psychological denial mode.
 
 I think a select few—a small percentage of the investment managers—can deliver value added. But I don’t think brilliance alone is enough to do it. I think that you have to have a little of this discipline of calling your shots and loading up, if you want to maximize your chances of becoming one who provides above-average real returns for clients over the long pull.
 
 But I’m just talking about investment managers engaged in common stock picking. I am agnostic elsewhere. I think there may well be people who are so shrewd about currencies and this, that, and the other thing that they can achieve good long-term records operating on a pretty big scale in that way. But that doesn’t happen to be my milieu. I’m talking about stock picking in American stocks. I think it’s hard to provide a lot of value added to the investment management client, but it’s not impossible.
 
-### Talk Two Revisited
+### Talk 2 Revisited
 
 As I reviewed Talk Two in 2006, I thought it would be improved by adding 1) an attempt to explain the extreme investment success of Harvard and Yale in recent years, plus 2) a prediction about the outcomes for the many pools of capital that will now try to duplicate the past success of Harvard and Yale by copying or continuing their methods, plus 3) a brief comment about the implications for the efficient market hypothesis as demonstrated in a 2005 book, *Fortune’s Formula* by William Poundstone.
 
 To me, it seems likely that, as Harvard and Yale de-emphasized conventional unleveraged holding of diversified US common stocks, their investment success was boosted by factors including the four described below:
 
-- By investing in LBO funds, Harvard and Yale introduced leverage into their results from owning interests in US businesses. And the LBO fund structure gave them a way to make their leveraged business investments in a manner safer than is possible in a normal margin account, prone during panics to forced sales. Decent comparative results often followed in markets with tolerable general outcomes. And this happened even when net-after-cost results from investments in the LBO funds were no better than would have occurred through only slightly leveraged investment in an index of US stocks.
-- In category after category, Harvard and Yale selected or directly employed investment managers who were way above average in ability, providing additional evidence that investment markets are not perfectly efficient and that some good investment results come from abnormal skill or other abnormal advantage. As one example, Harvard and Yale, by reason of their own prestige, were able to get into some of the most profitable high-tech venture capital funds not available to all other investors. These funds, using momentum provided by their own past success, had an opportunity advantage over less well-established venture capital operations in that the best entrepreneurs, quite logically, made early presentations to the best-regarded funds.
-- Harvard and Yale wisely and opportunistically imitated investment banking firms by going into several activities that were then non-traditional, like investing in distressed US corporate bonds and high-coupon foreign bonds and leveraged fixed income arbitrage, during a period when many good opportunities were available to skilled operators in the activities chosen.
-- Finally, the benefits that came to Harvard and Yale in recent years through leverage and unconventionality were often, of course, given a large tailwind by a happy combination of declining interest rates and rising price-earnings ratios for stocks.
+1. By investing in LBO funds, Harvard and Yale introduced leverage into their results from owning interests in US businesses. And the LBO fund structure gave them a way to make their leveraged business investments in a manner safer than is possible in a normal margin account, prone during panics to forced sales. Decent comparative results often followed in markets with tolerable general outcomes. And this happened even when net-after-cost results from investments in the LBO funds were no better than would have occurred through only slightly leveraged investment in an index of US stocks.
+2. In category after category, Harvard and Yale selected or directly employed investment managers who were way above average in ability, providing additional evidence that investment markets are not perfectly efficient and that some good investment results come from abnormal skill or other abnormal advantage. As one example, Harvard and Yale, by reason of their own prestige, were able to get into some of the most profitable high-tech venture capital funds not available to all other investors. These funds, using momentum provided by their own past success, had an opportunity advantage over less well-established venture capital operations in that the best entrepreneurs, quite logically, made early presentations to the best-regarded funds.
+3. Harvard and Yale wisely and opportunistically imitated investment banking firms by going into several activities that were then non-traditional, like investing in distressed US corporate bonds and high-coupon foreign bonds and leveraged fixed income arbitrage, during a period when many good opportunities were available to skilled operators in the activities chosen.
+4. Finally, the benefits that came to Harvard and Yale in recent years through leverage and unconventionality were often, of course, given a large tailwind by a happy combination of declining interest rates and rising price-earnings ratios for stocks.
 
 The extreme investment success of Harvard and Yale gives me both pleasure and pain. My pleasure comes from this demonstration that academic skill is often useful in worldly affairs. People like me who were attracted by academia yet have gone into business naturally respond to such worldly achievement much like the many modern scientists who relish the example of Thales of Miletus. This scientist of antiquity made a large profit by leasing most of the olive presses in his area just before the occurrence of a particularly bountiful harvest.
 
@@ -998,13 +911,15 @@ Life and its various passages can be hard, brutally hard. The three things I hav
 
 Above all, live with change and adapt to it. If the world didn’t change, I’d still have a 12 handicap.
 
+## Talk 3: A Lesson on Elementary, Worldly Wisdom, Revisited
+
+*Stanford Law School, April 19, 1996*
+
 This talk was given in 1996 to the students of Professor William C. Lazier, who was the Nancy and Charles Munger professor of business at Stanford University Law School.
 
 Because this talk—published in *Outstanding Investor Digest* on December 29, 1997, and March 13, 1998—repeats many of the ideas and much of the language included in other talks, particularly “Practical Thought about Practical Thought?,” your editor has abridged certain passages and added comments to maintain the logic and flow of the speech. Even with the abridgments, this talk includes many unique ideas, as well as familiar ones expressed in novel ways.
 
-## Talk Three: A Lesson on Elementary, Worldly Wisdom, Revisited
-
-*Stanford Law School, April 19, 1996*
+---
 
 What I’m going to try to do today is to extend the remarks I made two years ago at the USC Business School. You were assigned a transcript of my USC talk. There’s nothing I said then that I wouldn’t repeat today. But I want to amplify what I said then.
 
@@ -1013,9 +928,6 @@ It’s perfectly clear that if Warren Buffett had never learned anything new aft
 How do you get worldly wisdom? What system do you use to rise into the tiny top percentage of the world in terms of having sort of an elementary, practical wisdom?
 
 I’ve long believed that a certain system, which almost any intelligent person can learn, works way better than the systems that most people use. As I said at the USC Business School, what you need is a latticework of mental models in your head. And you hang your actual experience and your vicarious experience that you get from reading and so forth on this latticework of powerful models. And, with that system, things gradually get to fit together in a way that enhances cognition.
-
-> What you need is a latticework of mental models in your head. And you hang your actual experience and your vicarious experience on this latticework of powerful models. And, with that system, things gradually get to fit together in a way that enhances cognition.
-> 
 
 *[Charlie discusses several of the specific mental models elaborated in other talks.]*
 
@@ -1028,9 +940,6 @@ Graham had a very academic personality. I knew him. He was a lot like Adam Smith
 Of course, when I urge a multidisciplinary approach—that you’ve got to have the main models from a broad array of disciplines, and you’ve got to use them all—I’m really asking you to ignore jurisdictional boundaries. And the world isn’t organized that way. It discourages the jumping of jurisdictional boundaries. Big bureaucratic businesses discourage it. And, of course, academia itself discourages it. All I can say there is that, in that respect, academia is horribly wrong and dysfunctional.
 
 Some of the worst dysfunctions in businesses come from the fact that they balkanize reality into little individual departments, with territoriality and turf protection and so forth. So if you want to be a good thinker, you must develop a mind that can jump the jurisdictional boundaries. You don’t have to know it all. Just take in the best big ideas from all these disciplines. And it’s not that hard to do.
-
-> If you want to be a good thinker, you must develop a mind that can jump the jurisdictional boundaries.
-> 
 
 I might try and demonstrate that point using the card game of contract bridge. Suppose you want to be good at declarer play in contract bridge. Well, you know the contract—you know what you have to achieve. And you can count up the sure winners you have by laying down your high cards and your invincible trumps. But if you’re a trick or two short, how are you going to get the other needed tricks? Well, there are only six or so different standard methods. You’ve got long suit establishment. You’ve got finesses. You’ve got throw-in plays. You’ve got crossruffs. You’ve got squeezes. And you’ve got various ways of misleading the defense into making errors. So it’s a very limited number of models. But if you only know one or two of those models, then you’re going to be a horse’s patoot in declarer play. Furthermore, these things interact. Therefore, you have to know how the models interact. Otherwise, you can’t play the hand right.
 
@@ -1048,9 +957,6 @@ One of my favorite business stories comes from Hershey. They get their flavor be
 
 Hershey knew enough when they wanted to expand into Canada to know they shouldn’t change their winning flavor. Therefore, they copied their stone grinders. Well, it took them five years to duplicate their own flavor. As you can see, flavors can be quite tricky. Even today, there’s a company called International Flavors and Fragrances. It’s the only company I know that does something on which you can’t get a copyright or a patent but which nevertheless receives a permanent royalty. They manage to do that by helping companies develop flavors and aromas in their trademarked products, like shaving cream. The slight aroma of shaving cream is very important to consumption. So all of this stuff is terribly important.
 
-> Hershey knew enough when they wanted to expand into Canada to know they shouldn’t change their winning flavor.
-> 
-
 *[Continuing the Coca-Cola case study, Charlie explains how our understanding of graphic depictions of mathematical ideas are rooted in biology.]*
 
 My friend, Dr. Nat Myhrvold, who’s the chief technology officer at Microsoft, is bothered by this. He’s a PhD physicist and knows a lot of math. And it disturbs him that biology could create a neural apparatus that could do automatic differential equations at fast speed, and yet, everywhere he looks, people are total klutzes at dealing with ordinary probabilities and ordinary numbers.
@@ -1058,9 +964,6 @@ My friend, Dr. Nat Myhrvold, who’s the chief technology officer at Microsoft, 
 By the way, I think Myhrvold’s wrong to be amazed by that. The so-called fitness landscape of our ancestors forced them to know how to throw spears, run around, turn corners, and what have you long before they had to think correctly like Myhrvold. So I don’t think he should be so surprised. However, the difference is so extreme that I can understand how he finds it incongruous.
 
 At any rate, mankind invented a system to cope with the fact that we are so intrinsically lousy at manipulating numbers. It’s called the graph. Oddly enough, it came out of the Middle Ages. It’s the only intellectual invention of the monks during the Middle Ages I know of that’s worth a damn. The graph puts numbers in a form that looks like motion. So it’s using some of this primitive neural stuff in your system in a way that helps you understand it. So the Value Line graphs are very useful.
-
-> Mankind invented a system to cope with the fact that we are so intrinsically lousy at manipulating numbers. It’s called the graph.
-> 
 
 The graph I’ve distributed is on log paper, which is based on the natural table of logarithms. And that’s based on the elementary mathematics of compound interest, which is one of the most important models there is on earth. So there’s a reason why that graph is in that form. And if you draw a straight line through data points on a graph on log paper, it will tell you the rate at which compound interest is working for you. So these graphs are marvelously useful. I don’t use Value Line’s predictions because our system works better for us than theirs—in fact, a lot better. But I can’t imagine not having their graphs and their data. It’s a marvelous, marvelous product.
 
@@ -1088,9 +991,6 @@ Well, the junior professor is clearly right, and Chomsky’s hesitation is a lit
 
 Ideology does some strange things and distorts cognition terribly. If you get a lot of heavy ideology young, and then you start expressing it, you are really locking your brain into a very unfortunate pattern. And you are going to distort your general cognition.
 
-> If you get a lot of heavy ideology young, and then you start expressing it, you are really locking your brain into a very unfortunate pattern.
-> 
-
 There’s a very interesting history if you take Warren Buffett as an example of worldly wisdom. Warren adored his father, who was a wonderful man. But Warren’s father was a very heavy ideologue—right wing, it happened to be—who hung around with other very heavy ideologues—right wing, naturally. Warren observed this as a kid, and he decided that ideology was dangerous—and that he was going to stay a long way away from it. And he has throughout his whole life. That has enormously helped the accuracy of his cognition.
 
 I learned the same lesson in a different way. My father hated ideology. Therefore, all I had to do was imitate my father and, thereby, stay on what I regard as the right path. People like [Bob] Dornan on the right or [Ralph] Nader on the left have obviously gone a little daft. They’re extreme examples of what ideology will do to you—particularly violently expressed ideology. Since it pounds ideas in better than it convinces out, it’s a very dangerous thing to do.
@@ -1109,9 +1009,6 @@ Well, I have far less in the way of qualifications than Pinker. In fact, I’ve 
 
 In fact, just take simple psychological denial. About three centuries before the birth of Christ, Demosthenes said, “What a man wishes, that also will he believe.” Well, Demosthenes was right.
 
-> “What a man wishes, that also will he believe.”
-> 
-
 I had a family acquaintance whose much-loved son—who was brilliant and a star football player—flew off over the ocean and never came back. Well, his mother thought he was still alive. The mind will sometimes flip so that the wish becomes the belief. It will do so at various levels. Individuals vary in how much psychological denial they get. But miscognition from denial overwhelmingly pervades the reality that you’re going to have to deal with. And yet, you won’t find an adequate treatment of simple psychological denial in psychology texts.
 
 So you can’t learn psychology the way your professors teach it. You’ve got to learn everything they teach, but you’ve got to learn a lot more that they don’t teach, because they don’t handle their own subject correctly.
@@ -1119,9 +1016,6 @@ So you can’t learn psychology the way your professors teach it. You’ve got t
 Psychology, to me, as currently organized, is like electromagnetism after Faraday but before Maxwell—a lot has been discovered, but no one mind has put it all together in proper form. And it should be done because it wouldn’t be that hard to do—and it’s enormously important.
 
 Just open a psychology text, turn to the index, and look up envy. Well, envy made it into one or two or three of the Ten Commandments. Moses knew all about envy. The old Jews, when they were herding sheep, knew all about envy. It’s just that psychology professors don’t know about envy. Books that thick are teaching a psychology course without envy? And with no simple psychological denial? And no incentive-caused bias?
-
-> Books that thick are teaching a psychology course without envy? And with no simple psychological denial? And no incentive-caused bias?
-> 
 
 And psychological texts don’t deal adequately with combinations of factors. I told you earlier to be aware of the lollapalooza effect, when two or three or more forces are operating in the same direction.
 
@@ -1135,9 +1029,6 @@ How can smart people be so wrong? Well, the answer is that they don’t do what 
 
 No pilot takes off without going through his checklist: A, B, C, D… And no bridge player who needs two extra tricks plays a hand without going down his checklist and figuring out how to do it. But these psychology professors think they’re so smart that they don’t need a checklist. But they aren’t that smart. Almost nobody is. Or maybe nobody is. If they used a checklist, they’d realize the Milgram experiment harnesses six psychological principles at least—not three. All they’d have to do is to go down the checklist to see the ones that they missed.
 
-> No pilot takes off without going through his checklist.
-> 
-
 Similarly, without this system of getting the main models and using them together in a multi-modular way, you’ll screw up time after time after time, too.
 
 One reason psychology professors so screw up denial is that it’s hard to do demonstrative experiments without conduct forbidden by ethics. To demonstrate how misery creates mental dysfunction in people, think of what you’d have to do to your fellow human beings. And you’d have to do it without telling them about the injury to come. So, clearly, there are ethical reasons why it’s practically impossible to do the experiments necessary to best lay out the ways human misery creates human mental misfunction.
@@ -1149,9 +1040,6 @@ Pavlov himself spent the last 10 years of his life torturing dogs. And he publis
 You may say, “What difference does all this psychological ignorance make?” Well, if I’m right, you need these models that are blanked out by this ignorance. And, furthermore, you need them in a form whereby, if there are 20 constructs, you have all 20. In other words, you shouldn’t be operating with 10. And you need to use them as a checklist. So you have to go back and put in your own head what I’d call the psychology of misjudgment in a form whereby you have all of the important models and you can use them. And you especially need them when four or five forces from these models come together to operate in the same direction. In such cases, you often get lollapalooza effects—which can make you rich, or they can kill you. So it’s essential that you beware of lollapalooza effects.
 
 There’s only one right way to do it: You have to get the main doctrines together and use them as a checklist. And, to repeat for emphasis, you have to pay special attention to combinatorial effects that create lollapalooza consequences.
-
-> You have to get the main doctrines together and use them as a checklist. And you have to pay special attention to combinatorial effects that create lollapalooza consequences.
-> 
 
 *[Charlie discusses the lack of multidisciplinary teaching in the professions, especially how the field of psychology is virtually ignored in academia.]*
 
@@ -1173,9 +1061,6 @@ Worldly wisdom is mostly very, very simple. And what I’m urging on you is not 
 
 It can’t be emphasized too much that issues of morality are deeply entwined with worldly wisdom considerations involving psychology. For example, take the issue of stealing. A very significant fraction of the people in the world will steal if a) it’s very easy to do and b) there’s practically no chance of being caught. And once they start stealing, the consistency principle—which is a big part of human psychology—will soon combine with operant conditioning to make stealing habitual. So if you run a business where it’s easy to steal because of your methods, you’re working a great moral injury on the people who work for you.
 
-> Issues of morality are deeply entwined with worldly wisdom considerations involving psychology.
-> 
-
 Again, that’s obvious. It’s very, very important to create human systems that are hard to cheat. Otherwise, you’re ruining your civilization, because these big incentives will create incentive-caused bias and people will rationalize that bad behavior is okay. Then, if somebody else does it, now you’ve got at least two psychological principles: incentive-caused bias plus social proof. Not only that but you get Serpico effects: If enough people are profiting in a general social climate of doing wrong, then they’ll turn on you and become dangerous enemies if you try and blow the whistle.
 
 It’s very dangerous to ignore these principles and let slop creep in. Powerful psychological forces are at work for evil.
@@ -1196,9 +1081,6 @@ So my friend closed his plant and moved the work to Utah among a community of be
 
 This sort of tragedy is caused by letting the slop run. You must stop slop early. It’s very hard to stop slop and moral failure if you let it run for a while.
 
-> You must stop slop early. It’s very hard to stop slop and moral failure if you let it run for a while.
-> 
-
 *[Charlie describes his notion of deprival super-reaction syndrome as it relates to gambling and the New Coke debacle of the mid-1980s.]*
 
 Of course, as I said before, there is one big consideration that needs huge and special attention as part of any use of techniques deliberately harnessing elementary psychological forces, and that is that once you know how to do it, there are real moral limits regarding how much you should do it. Not all of what you know how to do should you use to manipulate people.
@@ -1210,9 +1092,6 @@ Also, if you’re willing to transcend the moral limits and the person you’re 
 What makes investment hard, as I said at USC, is that it’s easy to see that some companies have better businesses than others. But the price of the stock goes up so high that all of a sudden, the question of which stock is the best to buy gets quite difficult. We’ve never eliminated the difficulty of that problem. And 98 percent of the time, our attitude toward the market is that we’re agnostics. We don’t know. Is GM valued properly vis-à-vis Ford? We don’t know.
 
 We’re always looking for something where we think we have an insight that gives us a big statistical advantage. Sometimes it comes from psychology, but often it comes from something else. And we only find a few, maybe one or two a year. We have no system for having automatic good judgment on all investment decisions that can be made. Ours is a totally different system. We just look for no-brainer decisions. As Buffett and I say over and over again, we don’t leap seven-foot fences. Instead, we look for one-foot fences with big rewards on the other side. So we’ve succeeded by making the world easy for ourselves, not by solving hard problems.
-
-> We just look for no-brainer decisions. As Buffett and I say over and over again, we don’t leap seven-foot fences.
-> 
 
 **Based on statistical analysis and insight?**
 
@@ -1238,9 +1117,6 @@ They’re all hard. But why should it be easy to get rich? In a competitive worl
 
 The reason we’re not in high-tech businesses is that we have a special lack of aptitude in that area. And yes—a low-tech business can be plenty hard. Just try to open a restaurant and make it succeed.
 
-> A low-tech business can be plenty hard. Just try to open a restaurant and make it succeed.
-> 
-
 **You seem to be suggesting that there’s special aptitude required in high-tech businesses—that they’re harder. But aren’t they equally difficult?**
 
 The advantage of low-tech stuff for us is that we think we understand it fairly well. The other stuff we don’t. And we’d rather deal with what we understand. Why should we want to play a competitive game in a field where we have no advantage—maybe a disadvantage—instead of in a field where we have a clear advantage?
@@ -1255,9 +1131,6 @@ As it happened, USAir went right to the brink of going broke. It was hanging by 
 
 I don’t want you to think we have any way of learning or behaving so you won’t make a lot of mistakes. I’m just saying that you can learn to make fewer mistakes than other people—and how to fix your mistakes faster when you do make them. But there’s no way that you can live an adequate life without making many mistakes. Part of what you must learn is how to handle mistakes and new facts that change the odds. Life, in part, is like a poker game, wherein you have to learn to quit sometimes when holding a much-loved hand.
 
-> There’s no way that you can live an adequate life without making many mistakes. Part of what you must learn is how to handle mistakes and new facts that change the odds.
-> 
-
 In fact, one trick in life is to get so you can handle mistakes. Failure to handle psychological denial is a common way for people to go broke. You’ve made an enormous commitment to something. You’ve poured effort and money in. And the more you put in, the more the whole consistency principle makes you think, “Now it has to work. If I put in just a little more, then it’ll work.”
 
 And deprival super-reaction syndrome also comes in: You’re going to lose the whole thing if you don’t put in a little more. People go broke that way because they can’t stop, rethink, and say, “I can afford to write this one off and live to fight again. I don’t have to pursue this thing as an obsession, in a way that will break me.”
@@ -1265,9 +1138,6 @@ And deprival super-reaction syndrome also comes in: You’re going to lose the w
 **Could you talk about the thoughts that went into your decision to swap your Capital Cities stock for Disney rather than taking cash? In the media, it was reported that you mentioned thinking about taking the cash.**
 
 Disney’s a perfectly marvelous company, but it’s also very high-priced. Part of what it does is make ordinary movies, which is not a business that attracts me at all. However, part of what Disney has is better than a great gold mine. I mean, those videocassettes… Disney is an amazing example of autocatalysis. They had all those movies in the can. They owned the copyright. And just as Coke could prosper when refrigeration came, when the videocassette was invented, Disney didn’t have to invent anything or do anything except take the thing out of the can and stick it on the cassette. And every parent and grandparent wanted his descendants to sit around and watch that stuff at home on videocassette. So Disney got this enormous tailwind from life. And it was billions of dollars’ worth of tailwind.
-
-> When the videocassette was invented, Disney didn’t have to do anything except take the thing out of the can and stick it on the cassette.
-> 
 
 Obviously, that’s a marvelous model if you can find it. You don’t have to invent anything. All you have to do is to sit there while the world carries you forward.
 
@@ -1280,9 +1150,6 @@ Eisner and Wells were brilliant in how they ran Disney. But the huge tailwind fr
 I had a huge family. Nancy and I supported eight children. And I didn’t realize that the law was going to get as prosperous as it suddenly got. The big money came into law shortly after I left it. By 1962, I was mostly out, and I was totally out by 1965. So that was a long time ago.
 
 Also, I preferred making the decisions and gambling my own money. I usually thought I knew better than the client anyway. So why should I have to do it his way? So, partly it was having an opinionated personality. And partly it was a desire to get resources permitting independence.
-
-> I preferred making the decisions and gambling my own money. I usually thought I knew better than the client anyway. So why should I have to do it his way?
-> 
 
 Also, the bulk of my clients were terrific, but there were one or two I didn’t enjoy. Plus, I like the independence of a capitalist. And I’d always had sort of a gambling personality. I like figuring things out and making bets. So I simply did what came naturally.
 
@@ -1318,9 +1185,6 @@ We didn’t say we thought it was overvalued. We just said that we wouldn’t bu
 
 Well, I hope that your optimism is justified. But I do not change my opinion. After all, today we’re in uncharted territory. I sometimes tell my friends, “I’m doing the best I can. But I’ve never grown old before. I’m doing it for the first time, and I’m not sure that I’ll do it right.” Warren and I have never been in this kind of territory—with high valuations and a huge amount of capital. We’ve never done it before. So we’re learning.
 
-> I’ve never grown old before. I’m doing it for the first time, and I’m not sure that I’ll do it right.
-> 
-
 **Everything you and Buffett say seems logical. But it sounds like exactly the same language that Ben Graham was using 30 years ago when he was saying the stock market was overvalued, when it was at 900.**
 
 Oh, I don’t think that we share that with him. Graham, great though he was as a man, had a screw loose as he tried to predict outcomes for the stock market as a whole. In contrast, Warren and I are almost always agnostic about the market.
@@ -1339,9 +1203,6 @@ By the way, I’m not promising that we will compound our present book value at 
 
 I’m all for fixing social problems. I’m all for being generous to the less fortunate. And I’m all for doing things where, based on a slight preponderance of the evidence, you guess that it’s likely to do more good than harm. What I’m against is being very confident and feeling that you know, for sure, that your particular intervention will do more good than harm, given that you’re dealing with highly complex systems wherein everything is interacting with everything else.
 
-> What I’m against is feeling that you know, for sure, that your particular intervention will do more good than harm, given that you’re dealing with highly complex systems wherein everything is interacting with everything else.
-> 
-
 **So just make sure that what you’re doing…**
 
 You can’t make sure. That’s my point.
@@ -1357,9 +1218,6 @@ Let me give you a very good answer—one I’m copying from Jack Welch, the CEO 
 His answer? “I don’t have any special competence that would enable me to answer that question.” And I’ll give you the very same answer. That’s not a field in which I’m capable of giving you any special insight.
 
 On the other hand, in copying Jack Welch, I am trying to teach you something. When you don’t know and you don’t have any special competence, don’t be afraid to say so.
-
-> When you don’t know and you don’t have any special competence, don’t be afraid to say so.
-> 
 
 There’s another type of person I compare to an example from biology: When a bee finds nectar, it comes back and does a little dance that tells the rest of the hive, as a matter of genetic programming, which direction to go and how far. So about 40 or 50 years ago, some clever scientist stuck the nectar straight up. Well, the nectar’s never straight up in the ordinary life of a bee. The nectar’s out. So the bee finds the nectar and returns to the hive. But it doesn’t have the genetic programming to do a dance that says straight up. So what does it do?
 
@@ -1383,17 +1241,11 @@ That was a great lesson. And he taught it in a very clever way—because instead
 
 There, again, we’re talking about elementary psychology. It’s elementary literature. Good literature makes the reader reach a little for understanding. Then it works better. You hold it better. It’s the commitment and consistency tendency. If you’ve reached for it, the idea’s pounded in better.
 
-> Good literature makes the reader reach a little for understanding. If you’ve reached for it, the idea’s pounded in better.
-> 
-
 As a lawyer or executive, you’ll want to teach somebody what my father taught me, or maybe you’ll want to teach them something else. And you can use lessons like this. Isn’t that a great way to teach a child? My father used indirection on purpose. And look at how powerfully it worked—like Captain Cook’s wise use of psychology. I’ve been trying to imitate Grant McFayden ever since, for all my life. I may have had a few lapses. But at least I’ve been trying.
 
 **At the end of your article in OID, you mentioned that only a select few investment managers actually add value. Since you’re speaking to an audience of future lawyers, what would you encourage us to do in order to be able to add value in our profession?**
 
 To the extent you become a person who thinks correctly, you can add great value. To the extent you’ve learned it so well that you have enough confidence to intervene where it takes a little courage, you can add great value. And to the extent that you can prevent or stop some asininity that would otherwise destroy your firm, your client, or something that you care about, you can add great value.
-
-> To the extent you become a person who thinks correctly, you can add great value.
-> 
 
 There are constructive tricks you can use. For example, one reason why my old classmate, Joe Flom of Skadden Arps, has been such a successful lawyer is that he’s very good at dreaming up little vivid examples that serve to pound the point home in a way that really works. It’s enormously helpful when you’re serving clients or otherwise trying to persuade someone in a good cause to come up with a little humorous example. The ability to do that is a knack. So you could argue that the Joe Floms of the world are almost born with a gift. But he’s honed the gift. And to one degree or another, all of you were born with the gift, and you can hone it too.
 
@@ -1413,9 +1265,6 @@ The ex-general counsel of Salomon is brilliant and generous, and he had the righ
 
 But you don’t have to get similarly lousy results when you face similar situations. Just remember what happened to Gutfreund and his general counsel. The right lessons are easily learned if you’ll work at it. And if you do learn them, you can be especially useful at crucial moments when others fail. And to the extent that you do become wise, diligent, objective, and especially able to persuade in a good cause, then you’re adding value.
 
-> The right lessons are easily learned if you’ll work at it. And if you do learn them, you can be especially useful at crucial moments when others fail.
-> 
-
 **Would you discuss how the threat of litigation—shareholder lawsuits and so forth—and legal complexity in general have affected decision-making in big business?**
 
 Well, every big business screams about its legal costs, screams about the amount of regulation, screams about the complexity of its life, screams about the plaintiffs’ bar, particularly the class action plaintiffs’ bar. So there’s an absolute catechism on that where you could just copy the screams from one corporation to another and you’d hardly have to change a word.
@@ -1430,9 +1279,6 @@ So big corporations adapt. They have more litigation. They have to have a bigger
 
 The answer is yes. There’s hardly a corporation in America that isn’t spending more on lawsuits and on compliance with various regulations than it was 20 years ago. And yes, some of the new regulation is stupid and foolish. And some was damn well necessary. And it will ever be thus, albeit with some ebb and flow.
 
-> There’s hardly a corporation in America that isn’t spending more on lawsuits and on compliance with various regulations than it was 20 years ago.
-> 
-
 **But have you seen or experienced any change in decision-making at corporations in their being less likely to take on riskier investments for fear of failure or liability?**
 
 The only place I saw—with another friend, not Warren—was when I was part owner of the biggest shareholder in a company that invented a better policeman’s helmet. It was made of Kevlar or something of that sort. They brought it to us and wanted us to manufacture it.
@@ -1440,9 +1286,6 @@ The only place I saw—with another friend, not Warren—was when I was part own
 As a matter of ideology, we’re very pro-police. I believe civilization needs a police force—although I don’t believe in policemen creating too many widows and orphans unnecessarily either. But we like the idea of a better policeman’s helmet. However, we took one look at it and said to the people who invented it, “We’re a rich corporation. We can’t afford to make a better policeman’s helmet. That’s just how the civilization works. All risks considered, it can’t work for us. But we want the civilization to have these. So we don’t maximize what we sell it for. Get somebody else to make it. Transfer the technology or whatever to somebody who can do it. But we’re not going to.” Thus, we didn’t try to disadvantage policemen from getting new helmets, but we decided not to manufacture helmets ourselves.
 
 There are businesses—given the way the civilization has developed—where being the only deep pocket around is bad business. In high school football, for example, a paraplegic or a quadriplegic will inevitably be created occasionally. And who with deep pockets can the injured person best sue other than the helmet manufacturer? Then everyone feels sorry, the injuries are horrible, and the case is dangerous for the manufacturer. I think big, rich corporations are seldom wise to make football helmets in the kind of civilization we’re in. And maybe it should be harder to successfully sue helmet makers.
-
-> I think big, rich corporations are seldom wise to make football helmets in the kind of civilization we’re in.
-> 
 
 I know two different doctors, each of whom had a sound marriage. When the malpractice premiums got high enough, they divorced their wives and transferred most of their property to their wives. And they continued to practice, only without malpractice insurance. They were angry at the civilization. They needed to adapt. And they trusted their wives. So that was that. And they’ve not carried any malpractice insurance since. People adapt to a changing litigation climate. They have various ways of doing it. That’s how it’s always been and how it’s always going to be.
 
@@ -1476,9 +1319,6 @@ Well, you can go right through the principles. And one after another, they’re 
 
 Well, if you’re like me, it’s kind of fun for it to be a little complicated. If you want it totally easy and totally laid out, maybe you should join some cult that claims to provide all the answers. I don’t think that’s a good way to go. I think you’ll just have to endure the world, as complicated as it is. Einstein has a marvelous statement on that: “Everything should be made as simple as possible, but no more simple.”
 
-> If you’re like me, it’s kind of fun for it to be a little complicated.
-> 
-
 I’m afraid that’s the way it is. If there are 20 factors and they interact some, you’ll just have to learn to handle it, because that’s the way the world is. But you won’t find it that hard if you go at it Darwin-like, step by step, with curious persistence. You’ll be amazed at how good you can get.
 
 **You’ve given us about three of the models that you use. I wondered where you found the other ones. And second, do you have an easier way for us to find them than going through a psychology textbook? I’m not averse to doing that, but it takes longer.**
@@ -1497,9 +1337,6 @@ Such a course would be a perfect circus. The examples are so legion. I don’t s
 
 When law schools do reach out beyond traditional material, they often do it in what looks to me like a pretty dumb way. If you think psychology is badly taught in America, you should look at corporate finance. Modern portfolio theory? It’s demented! It’s truly amazing.
 
-> If you think psychology is badly taught in America, you should look at corporate finance. Modern portfolio theory? It’s demented!
-> 
-
 I don’t know how these things happen. Hard science and engineering tend to be pretty reliably done. But the minute you get outside of those areas, a certain amount of inanity seems to creep into academia—even academia involving people with very high IQs. But boy, what a school would be like that pounded a lot of the silliness out. But the right way to pound it out is not to have some 70-plus-year-old capitalist come in and tell seniors, “Here’s a little remedial worldly wisdom.” This is not the way to do it.
 
 On the other hand, a month at the start of law school that really pounded in the basic doctrines… Many of the legal doctrines are tied to other doctrines. They’re joined at the hip. And yet, they teach you those legal doctrines without pointing out how they’re tied to the other important doctrines. That’s insanity—absolute insanity.
@@ -1516,9 +1353,6 @@ I get requests for pointers to easy learning all the time. I’m trying to provi
 
 I hope what I’m saying will help you be more effective and better human beings. And if you don’t get rich, that won’t bother me. But I’m always asked this question: “Spoon-feed me what you know.” And, of course, what they’re often saying is, “Teach me now to get rich with soft white hands faster. And not only let me get rich faster, but teach me faster, too.”
 
-> I’m always asked, “Spoon-feed me what you know.” What they’re often saying is, “Teach me how to get rich with soft white hands faster.”
-> 
-
 I don’t have much interest in writing a book myself. Plus, it would be a lot of work for somebody like me to try and do it in my 70s. And I have plenty else to do in life. So I’m not going to do it. But it’s a screaming opportunity for somebody. I’d provide funds to support the writing of an appropriate book if I found someone with the wisdom and the will to do the job right.
 
 Let me turn to some of the probable reasons for present bad education. Part of the trouble is caused by the balkanization of academia. For instance, psychology is most powerful when combined with doctrines from other academic departments. But if your psychology professor doesn’t know the other doctrines, then he isn’t capable of doing the necessary integration. And how would anyone get to be a psychology professor in the first place if he were good with non-psychology doctrines and constantly worked non-psychology doctrines into his material? Such a would-be professor would usually offend his peers and superiors.
@@ -1531,9 +1365,6 @@ Do you know how they tried to fix psychology at the University of Chicago? Havin
 
 I do not wish to imply in my criticism that the imperfections of academic psychology teaching are all attributable to some kind of human fault common only to such departments. Instead, the causes of many of the imperfections lie deep in the nature of things—in irritating peculiarities that can’t be removed from psychology.
 
-> The causes of many of the imperfections lie deep in the nature of things—in irritating peculiarities that can’t be removed from psychology.
-> 
-
 Let me demonstrate by a thought experiment involving a couple of questions. Are there not many fields that need a synthesizing super-mind like that of James Clerk Maxwell, but are destined never to attract one? And is academic psychology, by its nature, one of the most unfortunate of all the would-be attractors of super-minds? I think the answers are yes and yes.
 
 One can see this by considering the case of any of the few members of each generation who can, as fast as fingers can move, accurately work through the problem sets in thermodynamics, electromagnetism, and physical chemistry. Such a person will be begged by some of the most eminent people alive to enter the upper reaches of hard science.
@@ -1545,9 +1376,6 @@ Will such a super-gifted person instead choose academic psychology, wherein lie 
 I’ve always taken a fair amount of time to do what I really wanted to do, some of which was merely to fish or play bridge or play golf.
 
 Each of us must figure out his or her own lifestyle. You may want to work 70 hours a week for 10 years to make partner at Cravath and thereby obtain the obligation to do more of the same. Or you may say, “I’m not willing to pay that price.” Either way, it’s a totally personal decision that you have to make by your own lights. But whatever you decide, I think it’s a huge mistake not to absorb elementary worldly wisdom if you’re capable of doing it because it makes you better able to serve others, it makes you better able to serve yourself, and it makes life more fun. So if you have an aptitude for doing it, I think you’d be crazy not to. Your life will be enriched—not only financially, but in a host of other ways—if you do.
-
-> I think it’s a huge mistake not to absorb elementary worldly wisdom if you’re capable of doing it because it makes you better able to serve others, it makes you better able to serve yourself, and it makes life more fun.
-> 
 
 Now, this has been a very peculiar talk for some businessman to come in and give at a law school—some guy who’s never taken a course in psychology telling you that all of the psychology textbooks are wrong. This is very eccentric. But all I can tell you is that I’m sincere. There’s a lot of simple stuff that many of you are quite capable of learning. And your lives will work way better, too, if you do. Plus, learning it is a lot of fun. So I urge you to learn it.
 
@@ -1567,12 +1395,9 @@ That I’ll take. I don’t sneer, incidentally, at making sales calls or proofr
 
 Yeah, I’m passionate about wisdom. I’m passionate about accuracy and some kinds of curiosity. Perhaps I have some streak of generosity in my nature and a desire to serve values that transcend my brief life. But maybe I’m just here to show off. Who knows?
 
-> Perhaps I have some streak of generosity in my nature and a desire to serve values that transcend my brief life. But maybe I’m just here to show off. Who knows?
-> 
-
 I believe in the discipline of mastering the best that other people have ever figured out. I don’t believe in just sitting down and trying to dream it all up yourself. Nobody’s that smart.
 
-### Talk Three Revisited
+### Talk 3 Revisited
 
 When I gave Talk Three in 1996, I argued that intense political animosity should be avoided because it causes much mental malfunction, even in brilliant brains. Since then, political animosity has increased greatly, both on the left and the right, with sad effects on the ability of people to recognize reality, exactly as I would have expected.
 
@@ -1586,6 +1411,10 @@ As I revisit Talk Three in March 2006, I still like its emphasis on the desirabi
 
 And I fondly recall Talk Three’s emphasis on both the life-handling lessons I learned from my father’s friend, Grant McFayden, and one teaching method I learned from my father. I owe a lot to these long-dead predecessors, and if you like *Poor Charlie’s Almanack,* so do you.
 
+## Talk 4: Practical Thought about Practical Thought?
+
+*An Informal Talk, July 20, 1996*
+
 In this talk, Charlie explains how he makes decisions and solves problems by taking us step by step through a diverse set of mental models. He presents a case study that asks rhetorically how the listener would go about producing a $2 trillion business from scratch, using as his example Coca-Cola. Naturally he has his own solution, apt to strike you as both brilliant and perceptive.
 
 Charlie’s case study leads him to a discussion of academia’s failures and its record of having produced generations of sloppy decision-makers. For this problem, he has other solutions.
@@ -1594,18 +1423,13 @@ This talk was delivered in 1996 to a group that has a policy of not publicizing 
 
 *Editor’s warning, as suggested by Charlie: Most people don’t understand this talk. Charlie says it was an extreme communication failure when made, and people have since found it difficult to understand even when read slowly, twice. To Charlie, these outcomes have “profound educational implications.”*
 
-## Talk Four: Practical Thought about Practical Thought?
-
-*An Informal Talk, July 20, 1996*
+---
 
 The title of my talk is “Practical Thought about Practical Thought?,” with a question mark at the end. In a long career, I have assimilated various ultrasimple general notions that I find helpful in solving problems. Five of these helpful notions I will now describe. After that, I will present to you a problem of extreme scale. Indeed, the problem will involve turning start-up capital of $2 million into $2 trillion, a sum large enough to represent a practical achievement. Then, I will try to solve the problem, assisted by my helpful general notions. Following that, I will suggest that there are important educational implications in my demonstration. I will so finish because my objective is educational, my game today being a search for better methods of thought.
 
 The first helpful notion is that it is usually best to simplify problems by deciding big no-brainer questions first.
 
 The second helpful notion mimics Galileo’s conclusion that scientific reality is often revealed only by math as if math was the language of God. Galileo’s attitude also works well in messy, practical life. Without numerical fluency, in the part of life most of us inhabit, you are like a one-legged man in an ass-kicking contest.
-
-> Without numerical fluency, you are like a one-legged man in an ass-kicking contest.
-> 
 
 The third helpful notion is that it is not enough to think problems through forward. You must also think in reverse, much like the rustic who wanted to know where he was going to die so that he’d never go there. Indeed, many problems can’t be solved forward. And that is why the great algebraist Carl Jacobi so often said, “Invert, always invert,” and why the Pythagoreans thought in reverse to prove that the square root of two was an irrational number.
 
@@ -1614,9 +1438,6 @@ The fourth helpful notion is that the best and most practical wisdom is elementa
 If, in your thinking, you rely entirely on others, often through purchase of professional advice—whenever outside a small territory of your own—you will suffer much calamity. And it is not just difficulties in complex coordination that will do you in. You will also suffer from the reality evoked by the Shavian character who said, “In the last analysis, every profession is a conspiracy against the laity.”
 
 Indeed, a Shavian character, for once, understated the horrors of something Shaw didn’t like. It is not usually the conscious malfeasance of your narrow professional adviser that does you in. Instead, your troubles come from his subconscious bias. His cognition will often be impaired, for your purposes, by financial incentives different from yours. And he will also suffer from the psychological defect caught by the proverb “To a man with a hammer, every problem looks like a nail.”
-
-> It is not usually the conscious malfeasance of your narrow professional adviser that does you in. Instead, your troubles come from his subconscious bias.
-> 
 
 The fifth helpful notion is that really big effects, lollapalooza effects, will often come only from large combinations of factors. For instance, tuberculosis was tamed, at least for a long time, only by routine, combined use in each case of three different drugs. And other lollapalooza effects, like the flight of an airplane, follow a similar pattern.
 
@@ -1642,19 +1463,16 @@ That decided, we must next solve the problem of invention to create universal ap
 
 Let us start by exploring the consequences of our simplifying no-brainer decision that we must rely on a strong trademark. This conclusion automatically leads to an understanding of the essence of our business in proper elementary academic terms. We can see from the introductory course in psychology that, in essence, we are going into the business of creating and maintaining conditioned reflexes. The Coca-Cola trade name and trade dress will act as the stimuli, and the purchase and ingestion of our beverage will be the desired responses.
 
-> In essence, we are going into the business of creating and maintaining conditioned reflexes.
-> 
-
 And how does one create and maintain conditioned reflexes? Well, the psychology text gives two answers: 1) by operant conditioning, and 2) by classical conditioning, often called Pavlovian conditioning to honor the great Russian scientist. And since we want a lollapalooza result, we must use both conditioning techniques—and all we can invent to enhance effects from each technique.
 
 The operant conditioning part of our problem is easy to solve. We need only 1) maximize rewards of our beverage’s ingestion, and 2) minimize possibilities that desired reflexes, once created by us, will be extinguished through operant conditioning by proprietors of competing products.
 
 For operant conditioning rewards, there are only a few categories we will find practical:
 
-- Food value in calories or other inputs
-- Flavor, texture, and aroma acting as stimuli to consumption under neural pre-programming of man through Darwinian natural selection
-- Stimulus, as by sugar or caffeine
-- Cooling effect when man is too hot or warming effect when man is too cool
+1. Food value in calories or other inputs
+2. Flavor, texture, and aroma acting as stimuli to consumption under neural pre-programming of man through Darwinian natural selection
+3. Stimulus, as by sugar or caffeine
+4. Cooling effect when man is too hot or warming effect when man is too cool
 
 Wanting a lollapalooza result, we will naturally include rewards in all the categories.
 
@@ -1663,9 +1481,6 @@ To start out, it is easy to decide to design our beverage for consumption cold. 
 It is also easy to decide to include both sugar and caffeine. After all, tea, coffee, and lemonade are already widely consumed. And it is also clear that we must be fanatic about determining, through trial and error, flavor and other characteristics that will maximize human pleasure while taking in the sugared water and caffeine we will provide.
 
 And, to counteract possibilities that desired operant-conditioned reflexes, once created by us, will be extinguished by operant conditioning-employing competing products, there is also an obvious answer: We will make it a permanent obsession in our company that our beverage, as fast as practicable, will at all times be available everywhere throughout the world. After all, a competing product, if it is never tried, can’t act as a reward creating a conflicting habit. Every spouse knows that.
-
-> A competing product, if it is never tried, can’t act as a reward creating a conflicting habit. Every spouse knows that.
-> 
 
 We must next consider the Pavlovian conditioning we must also use. In Pavlovian conditioning, powerful effects come from mere association. The neural system of Pavlov’s dog causes it to salivate at the bell it can’t eat. And the brain of man yearns for the type of beverage held by the pretty woman he can’t have. And so, Glotz, we must use every sort of decent, honorable Pavlovian conditioning we can think of. For as long as we are in business, our beverage and its promotion must be associated in consumer minds with all other things consumers like or admire.
 
@@ -1676,9 +1491,6 @@ Moreover, Pavlovian effects from mere association will help us choose the flavor
 What else from the psychology textbook can help our new business? Well, there is that powerful “monkey-see, monkey-do” aspect of human nature that psychologists often call social proof. Social proof, imitative consumption triggered by mere sight of consumption, will not only help induce trial of our beverage, it will also bolster perceived rewards from consumption. We will always take this powerful social proof factor into account as we design advertising and sales promotion and as we forego present profit to enhance present and future consumption. More than with most other products, increased selling power will come from each increase in sales.
 
 We can now see, Glotz, that by combining 1) much Pavlovian conditioning, 2) powerful social proof effects, and 3) a wonderful-tasting, energy-giving, stimulating, and desirably cold beverage that causes much operant conditioning, we are going to get sales that speed up for a long time by reason of the huge mixture of factors we have chosen. Therefore, we are going to start something like an autocatalytic reaction in chemistry—precisely the sort of multifactor-triggered lollapalooza effect we need.
-
-> We are going to start something like an autocatalytic reaction—precisely the sort of multifactor-triggered lollapalooza effect we need.
-> 
 
 The logistics and the distribution strategy of our business will be simple. There are only two practical ways to sell our beverage: 1) as syrup to fountains and restaurants, and 2) as a complete carbonated water product in containers. Wanting lollapalooza results, we will naturally do it both ways. And, wanting huge Pavlovian and social proof effects, we will always spend on advertising and sales promotion, per serving, over 40 percent of the fountain price for syrup needed to make the serving.
 
@@ -1692,9 +1504,6 @@ First, we must avoid the protective, cloying, stop-consumption effects of aftert
 
 Second, we must avoid ever losing even half of our powerful trademarked name. It will cost us mightily, for instance, if our sloppiness should ever allow the sale of any other kind of “cola,” for instance a “Peppy Cola.” If there is ever a Peppy Cola, we will be the proprietor of the brand.
 
-> It will cost us mightily if our sloppiness should ever allow the sale of any other kind of “cola,” for instance a “Peppy Cola.”
-> 
-
 Third, with so much success coming, we must avoid bad effects from envy, which is given a prominent place in the Ten Commandments because envy is so much a part of human nature. The best way to avoid envy, as recognized by Aristotle, is to plainly deserve the success we get. We will be fanatic about product quality, quality of product presentation, and reasonableness of prices, considering the harmless pleasure we will provide.
 
 Fourth, after our trademarked flavor dominates our new market, we must avoid making any huge and sudden change in our flavor. Even if a new flavor performs better in blind taste tests, changing to that new flavor would be a foolish thing to do. This follows because, under such conditions, our old flavor will be so entrenched in consumer preference by psychological effects that a big flavor change would do us little good, and it would do immense harm by triggering in consumers the standard deprival super-reaction syndrome that makes “take-aways” so hard to get in any type of negotiation and helps make most gamblers so irrational. Moreover, such a large flavor change would allow a competitor, by copying our old flavor, to take advantage of both 1) the hostile consumer super-reaction to deprival and 2) the huge love of our original flavor created by our previous work.
@@ -1707,24 +1516,15 @@ Yet, even so, the real Coca-Cola Company followed so much of the plan given to G
 
 This brings me, at last, to the main purpose of my talk. Large educational implications exist, if my answer to Glotz’s problem is roughly right and if you make one more assumption I believe true—that most PhD educators, even psychology professors and business school deans, would not have given the same simple answer I did. And if I am right in these two ways, this would indicate that our civilization now keeps in place a great many educators who can’t satisfactorily explain Coca-Cola, even in retrospect, and even after watching it closely all their lives. This is not a satisfactory state of affairs.
 
-> Our civilization now keeps in place a great many educators who can’t satisfactorily explain Coca-Cola, even in retrospect, and even after watching it closely all their lives.
-> 
-
 Moreover—and this result is even more extreme—the brilliant and effective executives who, surrounded by business school and law school graduates, have run the Coca-Cola Company with glorious success in recent years also did not understand elementary psychology well enough to predict and avoid the New Coke fiasco, which dangerously threatened their company. That people so talented, surrounded by professional advisers from the best universities, should thus demonstrate a huge gap in their education is also not a satisfactory state of affairs.
 
 Such extreme ignorance, in both the high reaches of academia and the high reaches of business, is a lollapalooza effect of a negative sort, demonstrating grave defects in academia. Because the bad effect is a lollapalooza, we should expect to find intertwined, multiple academic causes. I suspect at least two such causes.
 
 First, academic psychology, while it is admirable and useful as a list of ingenious and important experiments, lacks intradisciplinary synthesis. In particular, not enough attention is given to lollapalooza effects coming from combinations of psychological tendencies. This creates a situation reminding one of a rustic teacher who tries to simplify schoolwork by rounding pi to an even three. And it violates Einstein’s injunction that “everything should be made as simple as possible, but no more simple.” In general, psychology is laid out and misunderstood, as electromagnetism would now be misunderstood if physics had produced many brilliant experimenters like Michael Faraday and no grand synthesizer like James Clerk Maxwell.
 
-> Academic psychology, while it is admirable and useful as a list of ingenious and important experiments, lacks intradisciplinary synthesis.
-> 
-
 Second, there is a truly horrible lack of synthesis blending psychology and other academic subjects. But only an interdisciplinary approach will correctly deal with reality—in academia as with the Coca-Cola Company.
 
 In short, academic psychology departments are immensely more important and useful than other academic departments think. And at the same time, the psychology departments are immensely worse than most of their inhabitants think. It is, of course, normal for self-appraisal to be more positive than external appraisal. Indeed, a problem of this sort may have given you your speaker today. But the size of this psychology department gap is preposterously large. In fact, the gap is so enormous that one very eminent university, Chicago, simply abolished its psychology department, perhaps with an undisclosed hope of later creating a better version.
-
-> Academic psychology departments are immensely more important and useful than other academic departments think. And at the same time, the psychology departments are immensely worse than most of their inhabitants think.
-> 
 
 In such a state of affairs, many years ago and with much that was plainly wrong already present, the New Coke fiasco occurred. Therein, Coke’s executives came to the brink of destroying the most valuable trademark in the world. The academically correct reaction to this immense and well-publicized fiasco would have been the sort of reaction Boeing would display if three of its new airplanes crashed in a single week. After all, product integrity is involved in each case, and the plain educational failure was immense.
 
@@ -1733,9 +1533,6 @@ But almost no such responsible Boeing-like reaction has come from academia. Inst
 Even though this regrettable blindness and lassitude is now the normal academic result, are there exceptions providing hope that disgraceful shortcomings of the education establishment will eventually be corrected? Here, my answer is a very optimistic yes.
 
 For instance, consider the recent behavior of the economics department of the University of Chicago. Over the last decade, this department has enjoyed a near monopoly of the Nobel prizes in economics, largely by getting good predictions out of “free market” models postulating man’s rationality. And what is the reaction of this department after winning so steadily with its rational-man approach? Well, it has just invited into a precious slot amid its company of greats a wise and witty Cornell economist, Richard Thaler. And it has done this because Thaler pokes fun at much that is holy at the University of Chicago. Indeed, Thaler believes, with me, that people are often massively irrational in ways predicted by psychology that must be taken into account in microeconomics.
-
-> People are often massively irrational in ways predicted by psychology that must be taken into account in microeconomics.
-> 
 
 In so behaving, the University of Chicago is imitating Darwin, who spent much of his long life thinking in reverse as he tried to disprove his own hardest-won and best-loved ideas. And so long as there are parts of academia that keep alive its best values by thinking in reverse like Darwin, we can confidently expect that silly educational practices will eventually be replaced by better ones, exactly as Carl Jacobi might have predicted.
 
@@ -1747,10 +1544,7 @@ A civilization that so places a dead Darwin will eventually develop and integrat
 
 Of course, those of you with 50 percent of net worth in Coca-Cola stock, occurring because you tried to invest 10 percent after thinking like I did in making my pitch to Glotz, can ignore my message about psychology as too elementary for useful transmission to you. But I am not so sure that this reaction is wise for the rest of you. The situation reminds me of the old-time Warner&Swasey ad that was a favorite of mine: “The company that needs a new machine tool and hasn’t bought it is already paying for it.”
 
-> “The company that needs a new machine tool and hasn’t bought it is already paying for it.”
-> 
-
-### Talk Four Revisited
+### Talk 4 Revisited
 
 In this talk I attempted to demonstrate large, correctable, and important cognitive failures in US academia and business. After all, I argued: 1) If academia and business functioned with best practicable results, most denizens would be able to explain the success of the Coca-Cola Company through parsimonious use of basic concepts and problem-solving techniques, yet 2) as the New Coke fiasco and its aftermath indicated, neither academia nor business had a respectable grasp of the simple realities causing the success of Coca-Cola.
 
@@ -1764,32 +1558,31 @@ And this was not the outer limit of my teaching folly. After I knew that the wri
 
 Readers, if they wish, can correct somewhat for the teaching defects that I have stubbornly retained. That is, they can re-read Talk Four after mastering the final talk. If they are willing to endure this ordeal, I predict that at least some of them will find the result worth the effort.
 
+## Talk 5: The Need for More Multidisciplinary Skills from Professionals: Educational Implications
+
+*50th Reunion of Harvard Law School Class of 1948, April 24, 1998*
+
 Having ranted in the previous speech about all that is wrong in academia, Charlie holds forth here on the solutions. Delivered in 1998 at the 50th reunion of his Harvard Law School class, this talk focuses on a hugely complicated issue—the narrowness of elite education—and segments it into elements whose solutions, when taken together, form a satisfactory answer to the problem.
 
 Through a series of rhetorical questions, Charlie posits that professionals such as attorneys, to their own detriment, lack multidisciplinary skills. From his own extensive multidisciplinary studies, he recognizes that there are “subconscious mental tendencies” that keep people from broadening their own horizons sufficiently. Nonetheless, he brings unique and memorable solutions to the problem.
 
 This talk—a favorite of your editor—clearly demonstrates Charlie’s “uncommon common sense.” He says, “When it really matters, as with pilots and surgeons, educational systems employ highly effective structures. Yet they don’t employ these same well-understood structures in other areas of learning that are also important. If superior structures are known and available, why don’t educators more broadly utilize them? What could be more simple?”
 
-## Talk Five: The Need for More Multidisciplinary Skills from Professionals: Educational Implications
-
-*50th Reunion of Harvard Law School Class of 1948, April 24, 1998*
+---
 
 Today I am going to engage in a game reminding us of our old professors: Socratic solitaire. I will ask and briefly answer five questions:
 
-- Do broadscale professionals need more multidisciplinary skill?
-- Was our education sufficiently multidisciplinary?
-- In elite, broadscale soft science, what is the essential nature of practicable, best-form multidisciplinary education?
-- In the last 50 years, how far has elite academia progressed toward attainable best-form multidisciplinarity?
-- What educational practices would make progress faster?
+1. Do broadscale professionals need more multidisciplinary skill?
+2. Was our education sufficiently multidisciplinary?
+3. In elite, broadscale soft science, what is the essential nature of practicable, best-form multidisciplinary education?
+4. In the last 50 years, how far has elite academia progressed toward attainable best-form multidisciplinarity?
+5. What educational practices would make progress faster?
 
 We start with the question: Do broadscale professionals need more multidisciplinary skill?
 
 To answer the first question, we must first decide whether more multidisciplinarity will improve professional cognition. And to decide what will cure bad cognition, it will help to know what causes it. One of Bernard Shaw’s characters explained professional defects as follows: “In the last analysis, every profession is a conspiracy against the laity.”
 
 There is a lot of truth in Shaw’s diagnosis, as was early demonstrated when, in the 16th century, the dominant profession, the clergy, burned William Tyndale at the stake for translating the Bible into English.
-
-> “His books having been burned, and his having become a continuing target of hostility, he nonetheless continued to publish Bible translations and other tracts. After months of imprisonment, he was condemned for heresy, strangled to death, and publicly cremated. Later, Tyndale’s translation formed the basis of the first royally approved English-language Bible and had great impact on the development of the English language.”
-> 
 
 But Shaw plainly understates the problem in implying that a conscious, self-interested malevolence is the main culprit. More important, there are frequent, terrible effects in professionals from intertwined subconscious mental tendencies, two of which are exceptionally prone to cause trouble: 1) incentive-caused bias, a natural cognitive drift toward the conclusion that what is good for the professional is good for the client and the wider civilization, and 2) man-with-a-hammer tendency, with the name taken from the proverb “To a man with only a hammer, every problem tends to look pretty much like a nail.”
 
@@ -1799,26 +1592,20 @@ If A is narrow professional doctrine and B consists of the big, extra-useful con
 
 My second question is so easy to answer that I won’t give it much time. Our education was far too unidisciplinary. Broadscale problems, by definition, cross many academic disciplines. Accordingly, using a unidisciplinary attack on such problems is like playing a bridge hand by counting trumps while ignoring all else. This is bonkers, sort of like the Mad Hatter’s tea party. But nonetheless, too much that is similar remains present in professional practice and, even worse, has long been encouraged in isolated departments of soft science, defined as everything less fundamental than biology.
 
-> Broadscale problems, by definition, cross many academic disciplines.
-> 
-
 Even in our youth, some of the best professors were horrified by bad effects from the balkanization of academia into insular, turf-protecting enclaves, wherein notions were maintained by leaps of faith plus exclusion of nonbelievers. Alfred North Whitehead, for one, long ago sounded an alarm in strong language when he spoke of “the fatal unconnectedness of academic disciplines.” And since then, elite educational institutions, agreeing more and more with Whitehead, have steadily fought unconnectedness by bringing in more multidisciplinarity, causing some awesome plaudits to be won in our time by great unconnectedness fighters at the borders of academic disciplines, for instance Harvard’s E. O. Wilson and Caltech’s Linus Pauling. Modern academia now gives more multidisciplinarity than we received and is plainly right to do so.
 
 The natural third question then becomes: What is now the goal? What is the essential nature of best-form multidisciplinarity in elite education? This question, too, is easy to answer. All we have to do is examine our most successful narrow-scale education, identify essential elements, and scale up those elements to reach the sensible solution.
 
 To find the best educational narrow-scale model, we have to look not at unthreatened schools of education and the like, too much driven by our two counterproductive psychological tendencies and other bad influences, but instead look where incentives for effective education are strongest and results are most closely measured. This leads us to a logical place: the hugely successful education now mandatory for pilots. Yes, I am suggesting today that mighty Harvard would do better if it thought more about pilot training.
 
-> Yes, I am suggesting today that mighty Harvard would do better if it thought more about pilot training.
-> 
-
 In piloting, as in other professions, one great hazard is a bad effect from man-with-a-hammer tendency. We don’t want a pilot, ever, to respond to a hazard as if it was hazard X just because his mind contains only a hazard X model. And so, for that and other reasons, we train a pilot in a strict six-element system:
 
-- His formal education is wide enough to cover practically everything useful in piloting.
-- His knowledge of practically everything needed by pilots is not taught just well enough to enable him to pass one test or two; instead, all his knowledge is raised to practice-based fluency, even in handling two or three intertwined hazards at once.
-- Like any good algebraist, he is made to think sometimes in a forward fashion and sometimes in reverse, and so he learns when to concentrate mostly on what he wants to happen and also when to concentrate mostly on avoiding what he does not want to happen.
-- His training time is allocated among subjects so as to minimize damage from his later malfunctions, and so what is most important in his performance gets the most training coverage and is raised to the highest fluency levels.
-- “Checklist” routines are always mandatory for him.
-- Even after original training, he is forced into a special knowledge maintenance routine: regular use of the aircraft simulator to prevent atrophy through long disuse of skills needed to cope with rare and important problems.
+1. His formal education is wide enough to cover practically everything useful in piloting.
+2. His knowledge of practically everything needed by pilots is not taught just well enough to enable him to pass one test or two; instead, all his knowledge is raised to practice-based fluency, even in handling two or three intertwined hazards at once.
+3. Like any good algebraist, he is made to think sometimes in a forward fashion and sometimes in reverse, and so he learns when to concentrate mostly on what he wants to happen and also when to concentrate mostly on avoiding what he does not want to happen.
+4. His training time is allocated among subjects so as to minimize damage from his later malfunctions, and so what is most important in his performance gets the most training coverage and is raised to the highest fluency levels.
+5. “Checklist” routines are always mandatory for him.
+6. Even after original training, he is forced into a special knowledge maintenance routine: regular use of the aircraft simulator to prevent atrophy through long disuse of skills needed to cope with rare and important problems.
 
 The need for this clearly correct six-element system, with its large demands in a narrow-scale field where stakes are high, is rooted in the deep structure of the human mind. Therefore, we must expect that the education we need for broadscale problem-solving will keep all these elements but with awesomely expanded coverage for each element. How could it be otherwise?
 
@@ -1848,9 +1635,6 @@ In any event, through increased use of “take what you wish,” many soft-scien
 
 Economics, in turn, took in from a biologist the “tragedy of the commons” model, thus correctly finding a wicked “invisible foot” in coexistence with Adam Smith’s angelic “invisible hand.” These days, there is even some behavioral economics, wisely seeking aid from psychology.
 
-> Economics took in from a biologist the “tragedy of the commons” model, thus correctly finding a wicked “invisible foot” in coexistence with Adam Smith’s angelic “invisible hand.”
-> 
-
 However, an extremely permissive practice like “take what you wish” was not destined to have 100 percent admirable results in soft science. Indeed, in some of its worst outcomes, it helped changes like the assimilation of Freudianism in some literature departments; the importation into many places of extremist political ideologies of the left or right that had, for their possessors, made regaining objectivity almost as unlikely as regaining virginity; and 3) the importation into many law and business schools of hard-form, efficient market theory by misguided would-be experts in corporate finance, one of whom kept explaining Berkshire Hathaway’s investing success by adding standard deviations of luck until, at six standard deviations, he encountered enough derision to force a change in explanation.
 
 Moreover, even when it avoided such lunacies, “take what you wish” had some serious defects. For instance, takings from more fundamental disciplines were often done without attribution, sometimes under new names, with little attention given to rank in a fundamentalness order for absorbed concepts. Such practices 1) act like a lousy filing system that must impair the successful use and synthesis of absorbed knowledge and 2) do not maximize in soft science the equivalent of Linus Pauling’s systematic mining of physics to improve chemistry. There must be a better way.
@@ -1858,9 +1642,6 @@ Moreover, even when it avoided such lunacies, “take what you wish” had some 
 This brings us, finally, to our last question: In elite soft science, what practices would hasten our progress toward optimized disciplinarity? Here, again, there are some easy answers:
 
 First, many more courses should be mandatory, not optional. And this, in turn, requires that the people who decide what is mandatory must possess large, multidisciplinary knowledge maintained in fluency. This conclusion is as obvious in the training of the would-be broadscale problem-solver as it is in the training of the would-be pilot. For instance, both psychology mastery and accounting mastery should be required as outcomes in legal education. Yet in many elite places, even today, there are no such requirements. Often, such is the narrowness of mind of the program designers that they neither see what is needed and missing nor are able to fix deficiencies.
-
-> Many more courses should be mandatory, not optional. And this, in turn, requires that the people who decide what is mandatory must possess large, multidisciplinary knowledge maintained in fluency.
-> 
 
 Second, there should be much more problem-solving practice that crosses several disciplines, including practice that mimics the function of the aircraft simulator in preventing loss of skills through disuse.
 
@@ -1872,9 +1653,6 @@ Thus, the winning answer relied not on what the students had most recently been 
 
 Incidentally, many elite private schools now wisely use such multidisciplinary methods in seventh grade science, while at the same time many graduate schools have not yet seen the same light. This is one more sad example of Whitehead’s fatal unconnectedness in education.
 
-> Many elite private schools now wisely use such multidisciplinary methods in seventh grade science, while at the same time many graduate schools have not yet seen the same light.
-> 
-
 Third, most soft-science professional schools should increase use of the best business periodicals, like the *Wall Street Journal, Forbes, Fortune,* etc. Such periodicals are now quite good and perform the function of the aircraft simulator if used to prompt practice in relating events to multidisciplinary causes, often intertwined. And sometimes the periodicals even introduce new models for causes instead of merely refreshing old knowledge. Also, it is not just slightly sound to have the student practice in school what he must practice lifelong after formal education is over if he is going to maximize his good judgment. I know no person in business, respected for verified good judgment, whose wisdom-maintenance system does not include use of such periodicals. Why should academia be different?
 
 Fourth, in filling scarce academic vacancies, professors of super-strong, passionate political ideology, whether on the left or right, should usually be avoided. So also for students. Best-form multidisciplinarity requires an objectivity such passionate people have lost, and a difficult synthesis is not likely to be achieved by minds in ideological fetters. In our day, some Harvard Law professors could and did point to a wonderful example of just such ideology-based folly. This, of course, was the law school at Yale, which was then viewed by many at Harvard as trying to improve legal education by importing a particular political ideology as a dominant factor.
@@ -1885,17 +1663,14 @@ Previous extensions of the ethos into softer fare have worked well. For instance
 
 Here, as I interpret it, is this fundamental organizing ethos I am talking about:
 
-- You must both rank and use disciplines in order of fundamentalness.
-- You must, like it or not, master to tested fluency and routinely use the truly essential parts of all four constituents of the fundamental four-discipline combination, with particularly intense attention given to disciplines more fundamental than your own.
-- You may never practice either cross-disciplinary absorption without attribution or departure from a principle of economy that forbids explaining in any other way anything readily explainable from more fundamental material in your own or any other discipline.
-- But when the step 3 approach doesn’t produce much new and useful insight, you should hypothesize and test to establishment new principles, ordinarily by using methods similar to those that created successful old principles. But you may not use any new principle inconsistent with an old one unless you can now prove that the old principle is not true.
+1. You must both rank and use disciplines in order of fundamentalness.
+2. You must, like it or not, master to tested fluency and routinely use the truly essential parts of all four constituents of the fundamental four-discipline combination, with particularly intense attention given to disciplines more fundamental than your own.
+3. You may never practice either cross-disciplinary absorption without attribution or departure from a principle of economy that forbids explaining in any other way anything readily explainable from more fundamental material in your own or any other discipline.
+4. But when the step 3 approach doesn’t produce much new and useful insight, you should hypothesize and test to establishment new principles, ordinarily by using methods similar to those that created successful old principles. But you may not use any new principle inconsistent with an old one unless you can now prove that the old principle is not true.
 
 You will note that, compared with much current practice in soft science, the fundamental organizing ethos of hard science is more severe. This reminds one of pilot training, and this outcome is not a coincidence. Reality is talking to anyone who will listen. Like pilot training, the ethos of hard science does not say “take what you wish” but “learn it all to fluency, like it or not.” And rational organization of multidisciplinary knowledge is forced by making mandatory 1) full attribution for cross-disciplinary takings and 2) mandatory preference for the most fundamental explanation.
 
 This simple idea may appear too obvious to be useful, but there is an old two-part rule that often works wonders in business, science, and elsewhere: 1) Take a simple, basic idea and 2) take it very seriously. And as some evidence for the value of taking very seriously the fundamental organizing ethos, I offer the example of my own life.
-
-> There is an old two-part rule that often works wonders in business, science, and elsewhere: 1) Take a simple, basic idea and 2) take it very seriously.
-> 
 
 I came to Harvard Law School very poorly educated, with desultory work habits and no college degree. I was admitted over the objection of Warren Abner Seavey through the intervention of family friend Roscoe Pound. I had taken one silly course in biology in high school, briefly learning, mostly by rote, an obviously incomplete theory of evolution, portions of the anatomy of the paramecium and frog, plus a ridiculous concept of “protoplasm” that has since disappeared.
 
@@ -1909,34 +1684,27 @@ Today, I have no more story. I have finished my talk by answering my own questio
 
 To me, this ridiculous outcome implies that the soft-science departments tolerate perverse incentives. Wrong incentives are a major cause because, as Dr. Johnson so wisely observed, truth is hard to assimilate in any mind when opposed by interest. And if institutional incentives cause the problem, then a remedy is feasible, because incentives can be changed.
 
-> Truth is hard to assimilate in any mind when opposed by interest.
-> 
-
 I have tried to demonstrate today, and indeed by the example of my life, that it is neither inevitable nor advantageous for soft-science educational domains to tolerate as much unidisciplinary wrongheadedness as they now do. Please remember the word Dr. Johnson used to describe maintenance of academic ignorance that is removable through diligence: To Dr. Johnson, such conduct was “treachery.”
 
 And if duty will not move improvement, advantage is also available. There will be immense worldly rewards, for law schools and other academic domains as for Charlie Munger, in a more multidisciplinary approach to many problems, common or uncommon. And more fun, as well as more accomplishment. The happier mental realm I recommend is one from which no one willingly returns. A return would be like cutting off one’s hands.
 
-> The happier mental realm I recommend is one from which no one willingly returns. A return would be like cutting off one’s hands.
-> 
-
-### Talk Five Revisited
+### Talk 5 Revisited
 
 As I review Talk Five in 2006, I would not change a word. And I continue to believe that my ideas are important. In my attitude I may be displaying too much similarity to my long-dead relative, Reverend Theodore Munger, former chaplain of Yale. Theodore published a collection of his sermons, laying out proper conduct with a strong, ex cathedra tone. Then, late in life, he published a final edition, reporting in his foreword that he had made no changes at all and was now producing the new edition only because the extreme popularity of his sermons had caused excessive wear in the original printing plates.
+
+## Talk 6: Investment Practices of Leading Charitable Foundations
+
+*Speech to the Foundation Financial Officers Group at Miramar Sheraton Hotel, Santa Monica, California, October 14, 1998, sponsored by the Conrad Hilton Foundation, the Amateur Athletic Foundation, the J. Paul Getty Trust, and Rio Hondo Memorial Foundation*
 
 This speech, delivered in October 1998 to the Foundation Financial Officers Group in Santa Monica, helps account for Charlie’s line “It’s sad but true: Not everybody loves me.” In the talk, he attacks the accepted and practiced orthodoxy of his audience with sharp humor, though always without malice. Charlie has a deep and abiding belief in philanthropy, as is demonstrated by his own generous giving, and he seeks here to save the philanthropic community from itself.
 
 Charlie believes foundations should serve as societal exemplars, which means they must discourage wasteful, nonproductive practices. He posits a choice for his audience: the model of genius statesman Ben Franklin or that of disgraced fund manager Bernie Cornfeld. Referring to his days as a limited partnership manager, Charlie employs, as is typical, self-deprecation and self-reflection: “Early Charlie Munger is a horrible career model for the young.” If Charlie can emerge from that state successfully, he seems to be saying, so can the wayward foundation managers in his audience.
 
-## Talk Six: Investment Practices of Leading Charitable Foundations
-
-*Speech to the Foundation Financial Officers Group at Miramar Sheraton Hotel, Santa Monica, California, October 14, 1998, sponsored by the Conrad Hilton Foundation, the Amateur Athletic Foundation, the J. Paul Getty Trust, and Rio Hondo Memorial Foundation*
+---
 
 I am speaking here today because my friend, John Argue, asked me. And John well knew that I—who, unlike many other speakers on your agenda, have nothing to sell any of you—would be irreverent about much current investment practice in large institutions, including charitable foundations. Therefore, any hostility my talk will cause should be directed at John Argue, who comes from the legal profession and may even enjoy it.
 
 It was long the norm at large charitable foundations to invest mostly in unleveraged, marketable domestic securities, mostly equities. The equities were selected by one or a very few investment counseling organizations. But in recent years, there has been a drift toward more complexity. Some foundations, following the lead of institutions like Yale, have tried to become much better versions of Bernie Cornfeld’s “fund of funds.” This is an amazing development. Few would have predicted that long after Cornfeld’s fall into disgrace, major universities would be leading foundations into Cornfeld’s system.
-
-> Few would have predicted that, long after Cornfeld’s fall into disgrace, major universities would be leading foundations into Cornfeld’s system.
-> 
 
 Now, in some foundations, there are not few but many investment counselors, chosen by an additional layer of consultants who are hired to decide which investment counselors are best, help in allocating funds to various categories, make sure that foreign securities are not neglected in favor of domestic securities, check the validity of claimed investment records, ensure that claimed investment styles are scrupulously followed, and help augment an already large diversification in a way that conforms to the latest notions of corporate finance professors about volatility and “beta.”
 
@@ -1945,9 +1713,6 @@ But even with this amazingly active, would-be polymathic new layer of consultant
 The third layer consists of the security analysts employed by investment banks. These security analysts receive enormous salaries, sometimes set in seven figures after bidding wars. The hiring investment banks recoup these salaries from two sources: 1) commissions and trading spreads borne by security buyers, some of which are rebated as “soft dollars” to money managers, plus 2) investment banking charges paid by corporations that appreciate the enthusiastic way their securities are being recommended by the security analysts.
 
 There is one thing sure about all this complexity, including its touches of behavior lacking the full punctilio of honor: Even when nothing but unleveraged stock picking is involved, the total cost of all the investment management, plus the frictional costs of fairly often getting in and out of many large investment positions, can easily reach 3 percent of foundation net worth per annum if foundations, urged on by consultants, add new activity year after year. This full cost doesn’t show up in conventional accounting. But that is because accounting has limitations and not because the full cost isn’t present.
-
-> This full cost doesn’t show up in conventional accounting. But that is because accounting has limitations and not because the full cost isn’t present.
-> 
 
 Next, we come to time for a little arithmetic: It is one thing each year to pay the croupiers 3 percent of starting wealth when the average foundation is enjoying a real return, say, of 17 percent before the croupiers’ take. But it is not written in the stars that foundations will always gain 17 percent gross, a common result in recent years. And if the average annual gross real return from indexed investment in equities goes back, say, to 5 percent over some long future period, and the croupiers’ take turns out to remain the waste it has always been, even for the average intelligent player, then the average intelligent foundation will be in a prolonged, uncomfortable shrinking mode. After all, 5 percent minus 3 percent minus 5 percent in donations leaves an annual shrinkage of 3 percent.
 
@@ -1963,16 +1728,13 @@ Similarly, the hedge fund known as Long-Term Capital Management recently collaps
 
 It is, of course, irritating that extra care in thinking is not all good but also introduces extra error. But most good things have undesired side effects, and thinking is no exception. The best defense is that of the best physicists, who systematically criticize themselves to an extreme degree, using a mindset described by Nobel laureate Richard Feynman as follows: “The first principle is that you must not fool yourself, and you’re the easiest person to fool.”
 
-> Most good things have undesired side effects, and thinking is no exception.
-> 
-
 But suppose that an abnormally realistic foundation, thinking like Feynman, fears a poor future investment outcome because it is unwilling to assume that its unleveraged equities will outperform equity indexes, minus all investment costs, merely because the foundation has adopted the approach of becoming a fund of funds, with much investment turnover and layers of consultants who consider themselves above average. What are this fearful foundation’s options as it seeks improved prospects?
 
 There are at least three modern choices:
 
-- The foundation can both dispense with its consultants and reduce its investment turnover as it changes to indexed investment in equities.
-- The foundation can follow the example of Berkshire Hathaway, and thus get total annual croupier costs below one-tenth of 1 percent of principal per annum, by investing with virtually total passivity in a very few much-admired domestic corporations. And there is no reason why some outside advice can’t be used in this process. All the fee payer has to do is suitably control the high talent in investment counseling organizations so that the servant becomes the useful tool of its master, instead of serving itself under the perverse incentives of a sort of Mad Hatter’s tea party.
-- The foundation can supplement unleveraged investment in marketable equities with investment in limited partnerships that do some combination of the following: unleveraged investment in high-tech corporations in their infancy; leveraged investments in corporate buyouts; leveraged relative value trades in equities; and leveraged convergence trades and other exotic trades in all kinds of securities and derivatives.
+1. The foundation can both dispense with its consultants and reduce its investment turnover as it changes to indexed investment in equities.
+2. The foundation can follow the example of Berkshire Hathaway, and thus get total annual croupier costs below one-tenth of 1 percent of principal per annum, by investing with virtually total passivity in a very few much-admired domestic corporations. And there is no reason why some outside advice can’t be used in this process. All the fee payer has to do is suitably control the high talent in investment counseling organizations so that the servant becomes the useful tool of its master, instead of serving itself under the perverse incentives of a sort of Mad Hatter’s tea party.
+3. The foundation can supplement unleveraged investment in marketable equities with investment in limited partnerships that do some combination of the following: unleveraged investment in high-tech corporations in their infancy; leveraged investments in corporate buyouts; leveraged relative value trades in equities; and leveraged convergence trades and other exotic trades in all kinds of securities and derivatives.
 
 For the obvious reasons given by purveyors of indexed equities, I think choice 1, indexing, is a wiser choice for the average foundation than what it is now doing in unleveraged equity investment. And particularly so, as its present total croupier costs exceed 1 percent of principal per annum. Indexing can’t work well forever if almost everybody turns to it. But it will work all right for a long time.
 
@@ -1992,12 +1754,6 @@ In the United States, a person or institution with almost all wealth invested lo
 
 I go even further. I think it can be a rational choice, in some situations, for a family or a foundation to remain 90 percent concentrated in one equity. Indeed, I hope the Mungers follow roughly this course. And I note that the Woodruff foundations have, so far, proven extremely wise to retain an approximately 90 percent concentration in the founder’s Coca-Cola stock. It would be interesting to calculate just how all American foundations would have fared if they had never sold a share of founder’s stock. Very many, I think, would now be much better off.
 
-> It can be a rational choice, in some situations, for a family or a foundation to remain 90 percent concentrated in one equity. Indeed, I hope the Mungers follow roughly this course.
-> 
-
-> “Woodruff’s personal creed gives one a good sense of how he accomplished so much in his long life: “There is no limit to what a man can do or where he can go if he doesn’t mind who gets the credit.””
-> 
-
 But, you may say, the diversifiers simply took out insurance against a catastrophe that didn’t occur. And I reply: There are worse things than some foundation’s losing relative clout in the world, and rich institutions, like rich individuals, should do a lot of self-insurance if they want to maximize long-term results.
 
 Furthermore, all the good in the world is not done by foundation donations. Much more good is done through the ordinary business operations of the corporations in which the foundations invest. And some corporations do much more good than others do in a way that gives investors therein better-than-average long-term prospects. And I don’t consider it foolish, stupid, evil, or illegal for a foundation to greatly concentrate investment in what it admires or even loves. Indeed, Ben Franklin required just such an investment practice for the charitable endowment created by his will.
@@ -2008,21 +1764,15 @@ Regarding this divergent history, I wish to say that I agree with Peter Drucker 
 
 This factor, I think, is under-weighed at many investment institutions, probably because it does not easily lead to quantitative thinking using modern financial technique. But some important factor doesn’t lose share of force just because some “expert” can better measure other types of force. Generally, I tend to prefer over direct foreign investment Berkshire’s practice of participating in foreign economies through the likes of Coca-Cola and Gillette.
 
-> Some important factor doesn’t lose share of force just because some “expert” can better measure other types of force.
-> 
-
 To conclude, I will make one controversial prediction and one controversial argument.
 
 The controversial prediction is that, if some of you make your investment style more like Berkshire Hathaway’s, in a long-term retrospect, you will be unlikely to have cause for regret, even if you can’t get Warren Buffett to work for nothing. Instead, Berkshire will have cause for regret as it faces more intelligent investment competition. But Berkshire won’t actually regret any disadvantage from your enlightenment. We only want what success we can get despite encouraging others to share our general views about reality.
 
 My controversial argument is an additional consideration weighing against the complex, high-cost investment modalities becoming ever more popular at foundations. Even if, contrary to my suspicions, such modalities should turn out to work pretty well, most of the money-making activity would contain profoundly antisocial effects. This would be so because the activity would exacerbate the current harmful trend in which ever more of the nation’s ethical young brainpower is attracted into lucrative money management and its attendant modern frictions, as distinguished from work providing much more value to others. Money management does not create the right examples. Early Charlie Munger is a horrible career model for the young because not enough was delivered to civilization in return for what was wrested from capitalism. And other similar career models are even worse. Rather than encourage such models, a more constructive choice at foundations is long-term investment concentration in a few domestic corporations that are wisely admired.
 
-> Early Charlie Munger is a horrible career model for the young because not enough was delivered to civilization in return for what was wrested from capitalism.
-> 
-
 Why not thus imitate Ben Franklin? After all, old Ben was very effective in doing public good. And he was a pretty good investor, too. Better his model, I think, than Bernie Cornfeld’s. The choice is plainly yours to make.
 
-### Talk Six Revisited
+### Talk 6 Revisited
 
 A lot of water has passed under the bridge since this talk was made in 1998. And what has happened by 2006 is that we now see much more of the conduct I criticized.
 
@@ -2030,22 +1780,21 @@ In particular, frictional costs for stock market investors have increased marked
 
 However, at the same time that lovers of frictional costs have been spending more on what they love, there has also been an increase in holdings of stocks that track market indexes in a manner imposing negligible costs. This cost-averse, index-mimicking group does not grow fast enough to prevent an increase in total frictional costs, but more stockholding is slowly being converted to the passive, indexed mode.
 
+## Talk 7: Breakfast Meeting of the Philanthropy Roundtable
+
+*Philanthropy Roundtable, Pasadena, California, November 10, 2000*
+
 This speech was delivered in November 2000 to the Philanthropy Roundtable in Pasadena. Startling Charlie’s family and friends, Jody Curtis of *Foundation News and Commentary* characterized Charlie as “a friendly old uncle, one with a jolly sense of humor at that.”
 
 Charlie’s goal, as was the case in the previous speech, was to save foundations from their own mistakes by getting them to invest effectively, with minimum waste. Charlie warns foundations that they often act unwisely because of “a failure to understand their own investment operations, related to the larger system” of which they’re a part.
 
 Never one to pull punches, he boldly and bluntly challenges his listeners to cure the ignorance that is jeopardizing their foundations and those who depend on them. Charlie coins the term “febezzlement”—the functional equivalent of embezzlement—to explain how wealth is stripped away by layers of unnecessary investment managers and consultants.
 
-## Talk Seven: Breakfast Meeting of the Philanthropy Roundtable
-
-*November 10, 2000*
+---
 
 I am here today to talk about so-called wealth effects from rising prices for US common stocks.
 
 I should concede, at the outset, that wealth effects are part of the academic discipline of economics and that I have never taken a single course in economics, nor tried to make a single dollar, ever, from foreseeing macroeconomic changes. Nonetheless, I have concluded that most PhD economists under-appraise the power of the common stock-based wealth effect under current extreme conditions.
-
-> I have never taken a single course in economics, nor tried to make a single dollar, ever, from foreseeing macroeconomic changes.
-> 
 
 Everyone now agrees on two things. First, spending proclivity is influenced in an upward direction when stock prices go up, and in a downward direction when stock prices go down. Second, the proclivity to spend is terribly important in macroeconomics.
 
@@ -2069,17 +1818,11 @@ For one thing, I have been told, probably correctly, that Federal Reserve data c
 
 For another thing, the traditional thinking of economists often does not take into account implications from the idea of bezzle. Let me repeat: bezzle, B-E-Z-Z-L-E. The word “bezzle” is a contraction of the word “embezzle,” and it was coined by Harvard economics professor John Kenneth Galbraith to stand for the increase in any period of undisclosed embezzlement. Galbraith coined the “bezzle” word because he saw that undisclosed embezzlement, per dollar, has a very powerful stimulating effect on spending. After all, the embezzler spends more because he has more income, and his employer spends as before because he doesn’t know any of his assets are gone.
 
-> The embezzler spends more because he has more income, and his employer spends as before because he doesn’t know any of his assets are gone.
-> 
-
 But Galbraith did not push his insight on. He was content to stop with being a stimulating gadfly. So I will now try to push Galbraith’s “bezzle” concept to the next logical level.
 
 As Keynes showed, in a native economy relying on earned income, when the seamstress sells a coat to the shoemaker for $20, the shoemaker has $20 less to spend, and the seamstress has $20 more to spend. There is no lollapalooza effect on aggregate spending. But when the government prints another $20 bill and uses it to buy a pair of shoes, the shoemaker has another $20, and no one feels poorer. And when the shoemaker next buys a coat, the process goes on and on, not to an infinite increase, but with what is now called the Keynesian multiplier effect, a sort of lollapalooza effect on spending.
 
 Similarly, an undisclosed embezzlement has stronger stimulative effects per dollar on spending than a same-sized honest exchange of goods. Galbraith, being Scottish, liked the bleakness of life demonstrated by his insight. After all, the Scottish enthusiastically accepted the idea of preordained, unfixable infant damnation. But the rest of us don’t like Galbraith’s insight. Nevertheless, we have to recognize that Galbraith was roughly right.
-
-> An undisclosed embezzlement has stronger stimulative effects per dollar on spending than a same-sized honest exchange of goods.
-> 
 
 No doubt Galbraith saw the Keynesian multiplier-type economic effects promised by increases in bezzle. But he stopped there. After all, bezzle could not grow very big because the discovery of massive theft was nearly inevitable and sure to have reverse effects in due course. Thus, the increase in private bezzle could not drive economies up and up, and on and on, at least for a considerable time, like government spending.
 
@@ -2091,17 +1834,11 @@ If a foundation or other investor wastes 3 percent of assets per year in unneces
 
 This room contains many people pretty well stricken by expired years, in my generation or the one following. We tend to believe in thrift and avoiding waste as good things, a process that has worked well for us. It is paradoxical and disturbing to us that economists have long praised foolish spending as a necessary ingredient of a successful economy. Let us call foolish expenditures “foolexures.” And now you holders of old values are hearing one of your own add to the case for foolexures the case for febezzlements, the functional equivalent of embezzlements. This may not seem like a nice way to start a new day. Please be assured that I don’t like febezzlements. It is just that I think febezzlements are widespread and have powerful economic effects. And I also think that one should recognize reality even when one doesn’t like it—indeed, especially when one doesn’t like it. Also, I think one should cheerfully endure paradox that one can’t remove by good thinking. Even in pure mathematics, they can’t remove all paradox, and the rest of us should also recognize we are going to have to endure a lot of paradox, like it or not.
 
-> It is paradoxical and disturbing to us that economists have long praised foolish spending as a necessary ingredient of a successful economy.
-> 
-
 Let me also take this occasion to state that my previous notion of 3 percent of assets per annum in waste in much of institutional investment management related to stocks is quite likely too low in a great many cases. A friend, after my talk to foundation financial officers, sent me a summary of a study about mutual fund investors. The study concluded that the typical mutual fund investor gained at 7.25 percent per year in a 15-year period when the average stock fund gained at 12.8 percent per year, presumably after expenses. Thus, the real performance lag for investors was over 5 percent of assets per year in addition to whatever percentage per year the mutual funds, after expenses, lagged behind stock market averages.
 
 If this mutual fund study is roughly right, it raises huge questions about foundation wisdom in changing investment managers all the time as mutual fund investors do. If the extra lag reported in the mutual fund study exists, it is probably caused in considerable measure by folly in the constant removal of assets from lagging portfolio managers being forced to liquidate stockholdings, followed by the placement of removed assets with new investment managers that have high-pressure, asset-gaining hoses in their mouths and clients whose investment results will not be improved by the super-rapid injection of new funds.
 
 I am always having trouble like that caused by this new mutual fund study. I describe something realistically that looks so awful that my description is disregarded as extreme satire instead of reality. Next, new reality tops the horror of my disbelieved description by some large amount. No wonder Munger notions of reality are not widely welcome. This may be my last talk to charitable foundations.
-
-> This may be my last talk to charitable foundations.
-> 
 
 Now, toss in with febezzlement in investment management about $750 billion in floating, ever-growing, ever-renewing wealth from employee stock options, and you get lot more common stock-related wealth effect driving consumption, with some of the wealth effect from employee stock options being, in substance, febezzle effect, facilitated by the corrupt accounting practice now required by standard practice.
 
@@ -2121,10 +1858,7 @@ Finally, I believe that the implications for charitable foundations of my conclu
 
 The ethical rule is from Samuel Johnson, who believed that maintenance of easily removable ignorance by a responsible officeholder was treacherous malfeasance in meeting moral obligation. The prudential rule is that underlying the old Warner&Swasey advertisement for machine tools: “The man who needs a new machine tool and hasn’t bought it is already paying for it.” The Warner&Swasey rule also applies, I believe, to thinking tools. If you don’t have the right thinking tools, you and the people you seek to help are already suffering from your easily removable ignorance.
 
-> Samuel Johnson believed that maintenance of easily removable ignorance by a responsible officeholder was treacherous malfeasance in meeting moral obligation.
-> 
-
-### Talk Seven Revisited
+### Talk 7 Revisited
 
 This talk in November 2000 turned out to be pretty timely, because stock market unpleasantness thereafter greatly increased, particularly for high-tech stocks. But, as nearly as I can tell, there has been absolutely no theoretical reaction from anyone who heard or read the talk. I still believe everything I said about significant macroeconomic effects from febezzlement through excessive investment costs. But no one trained in economics has ever tried to engage with me on this subject.
 
@@ -2138,6 +1872,10 @@ To many imposers of frictional investment costs, this peculiar state of affairs 
 
 Such a state of affairs, or even a lesser version, would, I think, reduce the reputation of our country, and deservedly so.
 
+## Talk 8: The Great Financial Scandal of 2003
+
+*An account by Charles T. Munger, Summer 2000*
+
 This parable and morality play gives Charlie a chance to vent his anger at the accounting profession’s role in corporate malfeasance. Handwritten by Charlie when he was vacationing in the summer of 2000, the speech is an eerie prediction of the scandals that surfaced well before his predicted date of 2003 and that continue today to be an important issue.
 
 The early Quant Tech appears to be loosely based on C. F. Engineering, a firm whose brilliant founder, Carl F. Braun, and business practices Charlie greatly admired. (The firm was ultimately sold to the Kuwaiti government, so the later Quant Tech is not modeled in any way on C. F. Engineering.)
@@ -2146,16 +1884,11 @@ Charlie chronicles how leadership change in a very successful company can consig
 
 Shakespeare’s King Henry VI said, “First thing we do, let’s kill all the lawyers.” Charlie, an attorney, might reject that idea, but accountants? Well…
 
-## Talk Eight: The Great Financial Scandal of 2003
-
-*An account by Charles T. Munger, Summer 2000*
+---
 
 The great financial scandal erupted in 2003 with the sudden, deserved disgrace of Quant Technical Corporation, always called Quant Tech. By this time, Quant Tech was the country’s largest pure engineering firm, having become so as a consequence of the contributions of its legendary founder, engineer Albert Berzog Quant.
 
 After 2003, people came to see the Quant Tech story as a sort of morality play divided into two acts. Act One, the era of the great founding engineer, was seen as a golden age of sound values. Act Two, the era of the founder’s immediate successors, was seen as the age of false values, with Quant Tech becoming, in the end, a sort of latter-day Sodom or Gomorrah.
-
-> After 2003, people came to see the Quant Tech story as a sort of morality play divided into two acts.
-> 
 
 In fact, as this account will make clear, the change from good to evil did not occur all at once when Quant Tech’s founder died in 1982. Much good continued after 1982, and serious evil had existed for many years prior to 1982 in the financial culture in which Quant Tech had to operate.
 
@@ -2165,9 +1898,6 @@ As his life ended in 1982, Albert Berzog Quant delivered to his successors and h
 
 By 1982, Quant Tech had a dominant market share in its business and was earning $100 million on revenues of $1 billion. Its costs were virtually all costs to compensate technical employees engaged in design work. Direct employee compensation cost amounted to 70 percent of revenues. Of this 70 percent, 30 percent was base salaries and 40 percent was incentive bonuses being paid out under an elaborate system designed by the founder. All compensation was paid in cash. There were no stock options because the old man considered the accounting treatment required for stock options to be “weak, corrupt, and contemptible,” and he no more wanted bad accounting in his business than he wanted bad engineering. Moreover, the old man believed in tailoring his huge incentive bonuses to precise performance standards established for individuals or small groups instead of allowing what he considered undesirable compensation outcomes, both high and low, such as he believed occurred under other companies’ stock option plans.
 
-> He no more wanted bad accounting in his business than he wanted bad engineering.
-> 
-
 Yet even under the old man’s system, most of Quant Tech’s devoted longtime employees were becoming rich, or sure to get rich. This was happening because the employees were buying Quant Tech stock in the market, just like non-employee shareholders. The old man had always figured that people smart enough and self-disciplined enough to design power plants could reasonably be expected to take care of their own financial affairs in this way. He would sometimes advise an employee to buy Quant Tech stock, but more paternalistic than that he would not become.
 
 By the time the founder died in 1982, Quant Tech was debt-free and, except as a reputation enhancer, really didn’t need any shareholders’ equity to run its business, no matter how fast revenues grew. However, the old man believed with Ben Franklin that “it is hard for an empty sack to stand upright,” and he wanted Quant Tech to stand upright. Moreover, he loved his business and his coworkers, and he always wanted to have on hand large amounts of cash equivalents so as to be able to maximize work-out or work-up chances if an unexpected adversity or opportunity came along. And so, in 1982, Quant Tech had on hand $500 million in cash equivalents, amounting to 50 percent of revenues.
@@ -2175,9 +1905,6 @@ By the time the founder died in 1982, Quant Tech was debt-free and, except as a 
 Possessing a strong balance sheet and a productive culture and also holding a critical mass of expertise in a rapidly changing and rapidly growing business, Quant Tech, using the old man’s methods, by 1982 was destined for 20 years ahead to maintain profits at 10 percent of revenues while revenues increased at 20 percent per year. After these 20 years, commencing in 2003, Quant Tech’s profit margin would hold for a very long time at 10 percent while revenue growth would slow down to 4 percent per year. But no one at Quant Tech knew precisely when its inevitable period of slow revenue growth would begin.
 
 The old man’s dividend policy for Quant Tech was simplicity itself: He never paid a dividend. Instead, all earnings simply piled up in cash equivalents.
-
-> The old man’s dividend policy for Quant Tech was simplicity itself: He never paid a dividend. Instead, all earnings simply piled up in cash equivalents.
-> 
 
 Every truly sophisticated investor in common stocks could see that the stock of cash-rich Quant Tech provided a splendid investment opportunity in 1982, when it sold at a mere 15 times earnings and, despite its brilliant prospects, had a market capitalization of only $1.5 billion. This low market capitalization, despite brilliant prospects, existed in 1982 because other wonderful common stocks were also then selling at 15 times earnings or less as a natural consequence of high interest rates then prevailing, plus disappointing investment returns that had occurred over many previous years for holders of typical diversified portfolios of common stocks.
 
@@ -2189,17 +1916,11 @@ By a strange irony of fate, the accounting convention for stock options that had
 
 The accounting profession, in making its amazingly peculiar decision, had simply followed the injunction so often followed by persons quite different from prosperous, entrenched accountants. The injunction was that normally followed by insecure and powerless people: “Whose bread I eat, his song I sing.” Fortunately, the income tax authorities did not have the same amazingly peculiar accounting idea as the accounting profession. Elementary common sense prevailed, and the bargain element in stock option exercises was treated as an obvious compensation expense, deductible in determining income for tax purposes.
 
-> “Whose bread I eat, his song I sing.”
-> 
-
 Quant Tech’s new officers, financially shrewd as they were, could see at a glance that, given the amazingly peculiar accounting convention and the sound income tax rules in place, Quant Tech had a breathtakingly large opportunity to increase its reported profits by taking very simple action. The fact that so large a share of Quant Tech’s annual expense was incentive bonus expense provided a modern financial engineering opportunity second to none.
 
 For instance, it was mere child’s play for the executives to realize that if in 1982 Quant Tech had substituted employee stock option exercise profits for all its incentive bonus expenses of $400 million, while using bonus money saved plus option prices paid to buy back all shares issued in option exercises, and keeping all else the same, the result would have been to drive Quant Tech’s 1982 reported earnings up by 400 percent, to $500 million from $100 million, while shares outstanding remained exactly the same! And so it seemed that the obviously correct ploy for the officers was to start substituting employee stock option exercise profits for incentive bonuses. Why should a group of numerate engineers care whether their bonuses were in cash or virtually perfect equivalents of cash? Arranging such substitutions, on any schedule desired, seemed like no difficult chore.
 
 However, it was also mere child’s play for the new officers to realize that a certain amount of caution and restraint would be desirable in pushing their new ploy. Obviously, if they pushed their new ploy too hard in any single year, there might be rebellion from Quant Tech’s accountants or undesirable hostility from other sources. This, in turn, would risk killing a goose with a vast ability to deliver golden eggs, at least to the officers. After all, it was quite clear that their ploy would be increasing reported earnings only by adding to real earnings an element of phony earnings—phony in the sense that Quant Tech would enjoy no true favorable economic effect (except a temporary fraud-type effect similar to that from overcounting closing inventory) from that part of reported earnings increases attributable to use of the ploy. The new CEO privately called the desirable, cautious approach “wisely restrained falsehood.”
-
-> The new CEO privately called the desirable, cautious approach “wisely restrained falsehood.”
-> 
 
 Plainly, the new officers saw, it would be prudent to shift bonus payments to employee stock option exercise profits in only a moderate amount per year over many years ahead. They privately called the prudent plan they adopted their “dollop-by-dollop system,” which they believed had four obvious advantages:
 
@@ -2223,9 +1944,6 @@ With these requirements, the math was easy, given the officers’ assumption tha
 
 And so, the great scheme of modern financial engineering went forward toward tragedy at Quant Tech. And few disreputable schemes of man have ever worked better in achieving what was attempted. Quant Tech’s reported earnings, certified by its accountants, increased regularly at 28 percent per year. No one criticized Quant Tech’s financial reporting except a few people widely regarded as impractical, overly theoretical, misanthropic cranks. It turned out that the founder’s policy of never paying dividends, which was continued, greatly helped in preserving credibility for Quant Tech’s reports that its earnings were rising steadily at 28 percent per year. With cash equivalents on hand so remarkably high, the Pavlovian mere-association effects that so often impair reality recognition served well to prevent detection of the phony element in the reported earnings.
 
-> And so, the great scheme of modern financial engineering went forward toward tragedy at Quant Tech.
-> 
-
 It was therefore natural, after the dollop-by-dollop system had been in place for a few years, for Quant Tech’s officers to yearn to have Quant Tech’s reported earnings per share keep going up at 28 percent per year while cash equivalents grew much faster than they were then growing. This turned out to be a snap. By this time, Quant Tech’s stock was selling at a huge multiple of reported earnings, and the officers simply started causing some incremental stock option exercises that were not matched either by reductions in cash bonuses paid or by repurchases of Quant Tech’s stock.
 
 This change, the officers easily recognized, was a very helpful revision of their original plan. Not only was detection of the phony element in the reported earnings made much more difficult as cash accumulation greatly accelerated, but also a significant amount of Ponzi scheme or chain-letter effect was being introduced into Quant Tech, with real benefits for present shareholders, including the officers.
@@ -2236,9 +1954,6 @@ Finally, for 2002, Quant Tech reported $16 billion in earnings on $47 billion in
 
 However, all man’s desired geometric progressions, if a high rate of growth is chosen, at last come to grief on a finite Earth. And the social system for man on Earth is fair enough, eventually, that almost all massive cheating ends in disgrace. And in 2003, Quant Tech failed in both ways.
 
-> All man’s desired geometric progressions, if a high rate of growth is chosen, at last come to grief on a finite Earth.
-> 
-
 By 2003, Quant Tech’s real earning power was growing at only 4 percent per year after sales growth had slowed to 4 percent. There was now no way for Quant Tech to escape causing a big disappointment for its shareholders, now largely consisting of institutional investors. This disappointment triggered a shocking decline in the price of Quant Tech stock, which went down suddenly by 50 percent. This price decline, in turn, triggered a careful examination of Quant Tech’s financial reporting practices, which, at long last, convinced nearly everyone that a very large majority of Quant Tech’s reported earnings had long been phony earnings, and that massive and deliberate misreporting had gone on for a great many years. This triggered even more price decline for Quant Tech stock until in mid-2003 the market capitalization of Quant Tech was only $140 billion, down 90 percent from its peak only six months earlier.
 
 A quick 90 percent decline in the price of the stock of such an important company that was previously so widely owned and admired caused immense human suffering, considering the $1.3 trillion in market value that had disappeared. And naturally, with Quant Tech’s deserved disgrace, the public and political reaction included intense hatred and revulsion directed at Quant Tech, even though its admirable engineers were still designing the nation’s best power plants.
@@ -2247,15 +1962,9 @@ Moreover, the hatred and revulsion did not stop with Quant Tech. It soon spread 
 
 There was huge public antipathy to professions following the Great Scandal. The accounting profession, of course, got the most blame. The rule-making body for accountants had long borne the acronym FASB, and now, nearly everyone said this stood for “Financial Accounts Still Bogus.”
 
-> The rule-making body for accountants had long borne the acronym FASB, and now, nearly everyone said this stood for “Financial Accounts Still Bogus.”
-> 
-
 Economics professors, likewise, drew much criticism for failing to blow the whistle on false accounting and for not sufficiently warning about the eventual bad macroeconomic effects of widespread false accounting. So great was the disappointment with conventional economists that Harvard’s John Kenneth Galbraith received the Nobel Prize in economics. After all, he had once predicted that massive, undetected corporate embezzlement would have a wonderfully stimulating effect on the economy. And people could now see that something very close to what Galbraith had predicted had actually happened in the years preceding 2003 and had thereafter helped create a big, reactive recession.
 
 With Congress and the SEC so heavily peopled by lawyers, and with lawyers having been so heavily involved in drafting financial disclosure documents now seen as bogus, there was a new lawyer joke every week. One such was: “The butcher says, ‘The reputation of lawyers has fallen dramatically,’ and the checkout clerk replies, ‘How do you fall dramatically off a pancake?’”
-
-> “How do you fall dramatically off a pancake?”
-> 
 
 But the hostility to established professions did not stop with accountants, economists, and lawyers. There were many adverse “rub-off” effects on the reputations of professionals who had always performed well, like engineers, who did not understand the financial fraud that their country had made a conventional requirement. In the end, much that was good about the country and needed for its future felicity was widely and unwisely hated.
 
@@ -2275,7 +1984,7 @@ Startled by the vehemence and presumption, the Great Judge paused. Then He quiet
 
 This account is not an implied prediction about 2003. It is a work of fiction. Except in the case of Professor Galbraith, any resemblance to real persons or companies is accidental. It was written in an attempt to focus possibly useful attention on certain modern behaviors and belief systems.
 
-### Talk Eight Revisited
+### Talk 8 Revisited
 
 I had a lot of fun composing this account in the summer of 2000. But I was serious as I tried to show how standard accounting treatment for stock options was functionally equivalent to simpler types of promotional fraud.
 
@@ -2285,22 +1994,21 @@ There has been some good news since Talk Eight was delivered. The accounting pro
 
 What this accounting saga constitutes is one more sad example of evil rewarded dying hard, as a great many people conclude that something can’t be evil if they are profiting from it.
 
+## Talk 9: Academic Economics: Strengths and Faults after Considering Interdisciplinary Needs
+
+*Herb Kay Undergraduate Lecture, University of California, Santa Barbara Economics Department, October 3, 2003*
+
 The editor of this book spent 12 consecutive hours with Charlie on the day he delivered this speech at the University of California at Santa Barbara. Our schedule that day: a two-hour drive each way from Los Angeles, lunch, pre-talk meetings, the talk itself, a post-talk reception, and finally dinner at the home of Jeff Henley, chief financial officer (and now chairman) of Oracle. Despite then being within a few months of his 80th birthday, Charlie performed like a tireless virtuoso. His sharpness, stamina, and good humor during that long day were astounding and inspiring.
 
 What Charlie laid forth on that occasion might be considered the Grand Unified Theory of the Munger approach. The talk incorporates the many ideas that Charlie discussed in his previous talks and presents them, checklist-style, as a coherent philosophy.
 
 Charlie’s audience, the economics department of this major university, was the perfect group on which to unleash this lament—and remediation proposals besides—about the lack of multidisciplinarianism in the soft sciences.
 
-## Talk Nine: Academic Economics: Strengths and Faults after Considering Interdisciplinary Needs
-
-*Herb Kay Undergraduate Lecture, University of California, Santa Barbara Economics Department, October 3, 2003*
+---
 
 I have outlined some remarks in a rough way, and after I’m finished talking from that outline, I’ll take questions as long as anybody can endure listening, until they drag me away to wherever else I’m supposed to go.
 
 As you might guess, I agreed to do this because the subject of getting the soft sciences so they talk better to each other has been one that has interested me for decades. And, of course, economics is, in many respects, the queen of the soft sciences. It’s expected to be better than the rest. It’s my view that economics is better at the multidisciplinary stuff than the rest of soft science. It’s also my view that it’s still lousy, and I’d like to discuss this failure in this talk.
-
-> It’s my view that economics is better at the multidisciplinary stuff than the rest of soft science. It’s also my view that it’s still lousy
-> 
 
 As I talk about strengths and weaknesses in academic economics, one interesting fact you are entitled to know is that I never took a course in economics. And with this striking lack of credentials, you may wonder why I have the chutzpah to be up here giving this talk. The answer is I have a black belt in chutzpah. I was born with it. Some people, like some of the women I know, have a black belt in spending. They were born with that. But what they gave me was a black belt in chutzpah.
 
@@ -2311,9 +2019,6 @@ For a long time, there was a Nobel Prize–winning economist who explained Berks
 First, he said Berkshire beat the market in common stock investing through one sigma of luck because nobody could beat the market except by luck. This hard-form version of efficient market theory was taught in most schools of economics at the time. People were taught that nobody could beat the market. Next, the professor went to two sigmas, and three sigmas, and four sigmas, and when he finally got to six sigmas of luck, people were laughing so hard he stopped doing it.
 
 Then, he reversed the explanation 180 degrees. He said, “No, it was still six sigmas, but it was six sigmas of skill.” Well, this very sad history demonstrates the truth of Benjamin Franklin’s observation in *Poor Richard’s Almanack*: “If you would persuade, appeal to interest and not to reason.” The man changed his silly view when his incentives made him change it and not before.
-
-> “If you would persuade, appeal to interest and not to reason.”
-> 
 
 I watched the same thing happen at the Jules Stein Eye Institute at UCLA. I asked at one point, “Why are you treating cataracts only with a totally obsolete cataract operation?” And the man said to me, “Charlie, it’s such a wonderful operation to teach.” When he stopped using that operation, it was because almost all the patients had voted with their feet. Again, appeal to interest and not to reason if you want to change conclusions.
 
@@ -2333,15 +2038,9 @@ But anyway, I have this tendency to want to rag the problems. Because WWII caugh
 
 Under this ethos, you’ve got to know all the big ideas in all the disciplines more fundamental than your own. You can never make any explanation that can be made in a more fundamental way in any other way than the most fundamental way. And you always take them with full attribution to the most fundamental ideas that you are required to use. When you’re using physics, you say you’re using physics. When you’re using biology, you say you’re using biology. And so on and so on. I could early see that that ethos would act as a fine organizing system for my thought. And I strongly suspected that it would work really well in the soft sciences as well as the hard sciences, so I just grabbed it and used it all through my life in soft science as well as hard science. That was a very lucky idea for me.
 
-> You’ve got to know all the big ideas in all the disciplines more fundamental than your own.
-> 
-
 Let me explain how extreme that ethos is in hard science. There is a constant, one of the fundamental constants in physics, known as Boltzmann’s constant. You probably all know it very well. The interesting thing about Boltzmann’s constant is that Boltzmann didn’t discover it. So why is Boltzmann’s constant now named for Boltzmann? Well, the answer is that Boltzmann derived that constant from basic physics in a more fundamental way than the poor forgotten fellow who found the constant in the first place in some less fundamental way.
 
 The ethos of hard science is so strong in favor of reductionism to the more fundamental body of knowledge that you can wash the discoverer right out of history when somebody else handles his discovery in a more fundamental way. I think that is correct. I think Boltzmann’s constant should be named for Boltzmann.
-
-> You can wash the discoverer right out of history when somebody else handles his discovery in a more fundamental way.
-> 
 
 At any rate, in my history and Berkshire’s history, Berkshire went on and on into considerable economic success while ignoring the hard-form efficient markets doctrine once very popular in academic economics and ignoring the descendants of that doctrine in corporate finance, where the results became even sillier than they were in economics. This naturally encouraged me.
 
@@ -2361,12 +2060,9 @@ So economics started with some very great men and great writers. And then there 
 
 Okay, now it’s time to extend criticism instead of praise. We’ve recognized that economics is better than other soft science academic departments in many ways, and one of the glories of civilization. Now it’s only fair that we outline a few things that are wrong with academic economics.
 
-### One: Fatal unconnectedness, leading to man-with-a-hammer syndrome, often causing overweighing of what can be counted
+### 1: Fatal unconnectedness, leading to man-with-a-hammer syndrome, often causing overweighing of what can be counted
 
 I think I’ve got eight—no, nine—objections, some being logical subdivisions of a big general objection. The big general objection to economics was the one early described by Alfred North Whitehead when he spoke of the fatal unconnectedness of academic disciplines, wherein each professor didn’t even know the models of the other disciplines, much less try to synthesize those disciplines with his own. I think there’s a modern name for this approach that Whitehead didn’t like, and that name is “bonkers.” This is a perfectly crazy way to behave. Yet economics, like much else in academia, is too insular.
-
-> There’s a modern name for this approach that Whitehead didn’t like, and that name is “bonkers.”
-> 
 
 The nature of this failure is that it creates what I always call man-with-a-hammer syndrome. That’s taken from the folk saying “To the man with only a hammer, every problem looks pretty much like a nail.” That works marvelously to gum up all professions and all departments of academia and, indeed, most practical life.
 
@@ -2378,10 +2074,7 @@ The late, great Thomas Hunt Morgan, who was one of the greatest biologists who e
 
 I’ve adopted the same technique, and here I am in my 80th year. I haven’t had to do any placer mining yet. And it begins to look like I’m going to get all the way through, as I’d always hoped, without doing any of that damned placer mining. Of course, if I were a physician, particularly an academic physician, I’d have to do the statistics, do the placer mining. But it’s amazing what you can do in life without the placer mining if you’ve got a few good mental tricks and just keep ragging the problems the way Thomas Hunt Morgan did.
 
-> It’s amazing what you can do in life without the placer mining if you’ve got a few good mental tricks and just keep ragging the problems.
-> 
-
-### Two: Failure to follow the fundamental full-attribution ethos of hard science
+### 2: Failure to follow the fundamental full-attribution ethos of hard science
 
 What’s wrong with the way Mankiw does economics is that he grabs from other disciplines without attribution. He doesn’t label the grabbed items as physics or biology or psychology or game theory or whatever they really are, fully attributing the concept to the basic knowledge from which it came. If you don’t do that, it’s like running a business with a sloppy filing system. It reduces your power to be as good as you can be.
 
@@ -2391,23 +2084,17 @@ I have names for Mankiw’s approach, grabbing whatever you need without attribu
 
 Well, that’s the way Mankiw does it. He just grabs. This is much better than not grabbing. But it is much worse than grabbing with full attribution and full discipline, using all knowledge plus extreme reductionism where feasible.
 
-### Three: Physics envy
+### 3: Physics envy
 
 The third weakness that I find in economics is what I call physics envy. And, of course, that term has been borrowed from “penis envy,” as described by one of the world’s great idiots, Sigmund Freud. But he was very popular in his time, and the concept got a wide vogue.
 
 One of the worst examples of what physics envy did to economics was cause adoption of hard-form efficient market theory. Then, when you logically derived consequences from this wrong theory, you would get conclusions such as it can never be correct for any corporation to buy its own stock. Because the stock price, by definition, is totally efficient, there could never be any advantage, QED. And they taught this theory to some partner at McKinsey when he was at some school of business that had adopted this crazy line of reasoning from economics, and the partner became a paid consultant for *The Washington Post.* And *Washington Post* stock was selling at a fifth of what an orangutan could figure was the plain value per share by just counting up the values and dividing. But he so believed what he’d been taught in graduate school that he told *The Washington Post* it shouldn’t buy its own stock.
-
-> Washington Post stock was selling at a fifth of what an orangutan could figure was the plain value per share by just counting up the values and dividing.
-> 
 
 Well, fortunately, they put Warren Buffett on the board, and he convinced them to buy back more than half of the outstanding stock, which enriched the remaining shareholders by much more than a billion dollars. So there was at least one instance of a place that quickly killed a wrong academic theory.
 
 It’s my view that economics could avoid a lot of this trouble that comes from physics envy. I want economics to pick up the basic ethos of hard science, the full attribution habit, but not the craving for an unattainable precision that comes from physics envy. The sort of precise, reliable formula that includes Boltzmann’s constant is not going to happen, by and large, in economics. Economics involves too complex a system. And the craving for that physics-style precision does little but get you in terrible trouble, like the poor fool from McKinsey.
 
 I think that economists would be way better off if they paid more attention to Einstein and Sharon Stone. Well, Einstein is easy because Einstein is famous for saying “Everything should be made as simple as possible, but no more simple.” Now, the saying is a tautology, but it’s very useful, and some economist—it may have been Herb Stein—had a similar tautological saying that I dearly love: “If a thing can’t go on forever, it will eventually stop.”
-
-> “Everything should be made as simple as possible, but no more simple.”
-> 
 
 Sharon Stone contributed to the subject because someone once asked her if she was bothered by penis envy. And she said, “Absolutely not. I have more trouble than I can handle with what I’ve got.”
 
@@ -2417,12 +2104,9 @@ The situation of people like Laffer reminds me of a rustic legislator—and this
 
 Well, you can say that this is too ridiculous, and it can’t be fair to liken economics professors like Laffer to a rustic legislator like this. I say I’m under-criticizing the professors. At least when this rustic legislator rounded pi to an even number, the error was relatively small. But once you try to put a lot of false precision into a complex system like economics, the errors can compound to the point where they’re worse than those of the McKinsey partner when he was incompetently advising *The Washington Post.* So economics should emulate physicss’ basic ethos, but its search for precision in physics-like formulas is almost always wrong in economics.
 
-### Four: Too much emphasis on macroeconomics
+### 4: Too much emphasis on macroeconomics
 
 My fourth criticism is that there’s too much emphasis on macroeconomics and not enough on microeconomics. I think this is wrong. It’s like trying to master medicine without knowing anatomy and chemistry. Also, the discipline of microeconomics is a lot of fun. It helps you correctly understand macroeconomics, and it’s a perfect circus to do. In contrast, I don’t think macroeconomics people have all that much fun. For one thing, they are often wrong because of extreme complexity in the system they wish to understand.
-
-> The discipline of microeconomics is a lot of fun. It helps you correctly understand macroeconomics, and it’s a perfect circus to do.
-> 
 
 Let me demonstrate the power of microeconomics by solving two microeconomic problems, one simple and one a little harder.
 
@@ -2444,22 +2128,16 @@ So, he had to get a wave in the Japanese tire invasion, the Japanese being as su
 
 We hire business school graduates, and they’re no better at these problems than you were. Maybe that’s the reason we hire so few of them.
 
-> We hire business school graduates, and they’re no better at these problems than you were. Maybe that’s the reason we hire so few of them.
-> 
-
 Well, how did I solve those problems? Obviously, I was using a simple search engine in my mind to go through checklist-style, and I was using some rough algorithms that work pretty well in a great many complex systems, and those algorithms run something like this:
 
 Extreme success is likely to be caused by some combination of the following factors:
 
-- Extreme maximization or minimization of one or two variables. Example, Costco or our furniture and appliance store.
-- Adding success factors so that a bigger combination drives success, often in nonlinear fashion, as one is reminded by the concept of breakpoint and the concept of critical mass in physics. Often results are not linear. You get a little bit more mass and you get a lollapalooza result. And of course, I’ve been searching for lollapalooza results all my life, so I’m very interested in models that explain their occurrence.
-- An extreme of good performance over many factors. Example, Toyota or Les Schwab.
-- Catching and riding some sort of big wave. Example, Oracle. By the way, I cited Oracle before I knew that the Oracle CFO [Jeff Henley] was a big part of the proceedings here today.
+1. Extreme maximization or minimization of one or two variables. Example, Costco or our furniture and appliance store.
+2. Adding success factors so that a bigger combination drives success, often in nonlinear fashion, as one is reminded by the concept of breakpoint and the concept of critical mass in physics. Often results are not linear. You get a little bit more mass and you get a lollapalooza result. And of course, I’ve been searching for lollapalooza results all my life, so I’m very interested in models that explain their occurrence.
+3. An extreme of good performance over many factors. Example, Toyota or Les Schwab.
+4. Catching and riding some sort of big wave. Example, Oracle. By the way, I cited Oracle before I knew that the Oracle CFO [Jeff Henley] was a big part of the proceedings here today.
 
 Generally, I recommend and use in problem-solving cut-to-the quick algorithms, and I find you have to use them both forward and backward.
-
-> Generally, I recommend and use in problem-solving cut-to-the quick algorithms, and I find you have to use them both forward and backward.
-> 
 
 Let me give you an example. I irritate my family by giving them little puzzles, and one of the puzzles that I gave my family not very long ago was when I said, “There’s an activity in America with one-on-one contests and a national championship. The same person won the championship on two occasions about 65 years apart. Now,” I said, “name the activity.”
 
@@ -2467,7 +2145,7 @@ Again, I don’t see a lot of light bulbs going on. And in my family, not a lot 
 
 Anyway, I recommend that sort of mental puzzle-solving to all of you, flipping one’s thinking both backward and forward. And I recommend that academic economics get better at very small-scale microeconomics as demonstrated here.
 
-### Five: Too little synthesis in economics
+### 5: Too little synthesis in economics
 
 My fifth criticism is there is too little synthesis in economics, not only with matter outside traditional economics but also within economics.
 
@@ -2480,9 +2158,6 @@ But only one in 50 can come up with this sole instance in a modern business scho
 One of the most extreme examples is in the investment management field. Suppose you’re the manager of a mutual fund, and you want to sell more. People commonly come to the following answer: You raise the commissions, which, of course, reduces the number of units of real investments delivered to the ultimate buyer, so you’re increasing the price per unit of real investment that you’re selling the ultimate customer. And you’re using that extra commission to bribe the customer’s purchasing agent. You’re bribing the broker to betray his client and put the client’s money into the high-commission product. This has worked to produce at least a trillion dollars of mutual fund sales.
 
 This tactic is not an attractive part of human nature, and I want to tell you that I pretty completely avoided it in my life. I don’t think it’s necessary to spend your life selling what you would never buy. Even though it’s legal, I don’t think it’s a good idea. But you shouldn’t accept all my notions, because you’ll risk becoming unemployable. You shouldn’t take my notions unless you’re willing to risk being unemployable by all but a few.
-
-> You shouldn’t take my notions unless you’re willing to risk being unemployable by all but a few.
-> 
 
 I think my experience with my simple question is an example of how little synthesis people get, even in advanced academic settings, considering economic questions. Obvious questions, with such obvious answers. Yet people take four courses in economics, go to business school, have all these IQ points, and write all these essays, but they can’t synthesize worth a damn.
 
@@ -2504,9 +2179,6 @@ So we made the deal with the guy. The whole thing worked beautifully, and the lo
 
 Obviously, that’s an interaction of Ricardo and the pin factory examples. The odd system that this guy had designed to amuse seniors was pure pin factory, and finding the guy with this system was pure Ricardo. So these things are interacting.
 
-> The odd system that this guy had designed to amuse seniors was pure pin factory, and finding the guy with this system was pure Ricardo.
-> 
-
 Well, I’ve taken you partway through the synthesis. It gets harder when you want to figure out how much activity should be within private firms, and how much should be within the government, and what are the factors that determine which functions are where, and why do the failures occur, and so on and so on.
 
 It’s my opinion that anybody with a high IQ who graduated in economics ought to be able to sit down and write a 10-page synthesis of all these ideas that’s quite persuasive. And I would bet a lot of money that I could give this test in practically every economics department in the country and get a perfectly lousy bunch of synthesis. They’d give me Ronald Coase. They’d talk about transaction costs. They’d click off a little something that their professors gave them and spit it back. But in terms of really understanding how it all fits together, I would confidently predict that most people couldn’t do it very well.
@@ -2517,7 +2189,7 @@ Now, why did Max Planck, one of the smartest people who ever lived, give up econ
 
 By the way, there’s a famous story about Max Planck that is apocryphal: After he won his prize, he was invited to lecture everywhere, and he had this chauffeur who drove him around to give public lectures all through Germany. And the chauffeur memorized the lecture, so one day he said, “Gee, Professor Planck, why don’t you let me try it by switching places?” So he got up and gave the lecture. At the end of it, some physicist stood up and posed a question of extreme difficulty. But the chauffeur was up to it. “Well,” he said, “I’m surprised that a citizen of an advanced city like Munich is asking so elementary a question, so I’m going to ask my chauffeur to respond.”
 
-### Six: Extreme and counterproductive psychological ignorance
+### 6: Extreme and counterproductive psychological ignorance
 
 All right, I’m down to the sixth main defect, and this is a subdivision of the lack of adequate multidisciplinarity: extreme and counterproductive psychological ignorance in economics. Here, I want to give you a very simple problem. I specialize in simple problems.
 
@@ -2531,9 +2203,6 @@ No, no, I want to know *why* more people play it. What’s different about that 
 
 How do you get an answer like that? Easy. Obviously, there’s a psychological cause: That machine is doing something to trigger some basic psychological response. If you know the psychological factors, if you’ve got them on a checklist in your head, you just run down the factors, and, boom! You get to one that must explain this occurrence. There isn’t any other way to do it effectively.
 
-> If you know the psychological factors, if you’ve got them on a checklist in your head, you just run down the factors, and, boom! You get to one that must explain this occurrence.
-> 
-
 These answers are not going to come to people who don’t learn these problem-solving methods. If you want to go through life like a one-legged man in an ass-kicking contest, why, be my guest. But if you want to succeed like a strong man with two legs, you have to pick up these methods, including doing micro- and macroeconomics while knowing psychology.
 
 In this vein, I next want to mention a strange Latin American case of a dysfunctional economy that got fixed. In this little subdivision of Latin America, a culture had arisen wherein everybody stole everything. They embezzled from the company; they stole everything that was loose in the community. And of course, the economy came practically to a halt. And this thing got fixed.
@@ -2544,12 +2213,9 @@ Well, I think there’s no excuse if you’re an economist, when there are wonde
 
 Here, I want to give you an extreme injunction. This is even tougher than the fundamental organizing ethos of hard science. This has been attributed to Samuel Johnson. He said, in substance, that if an academic maintains in place an ignorance that can be easily removed with a little work, the conduct of the academic amounts to treachery. That was his word, “treachery.” You can see why I love this stuff. He says you have a duty if you’re an academic to be as little of a klutz as you can possibly be, and therefore you have got to keep grinding out of your system as much removable ignorance as you can remove.
 
-### Seven: Too little attention to second- and higher-order effects
+### 7: Too little attention to second- and higher-order effects
 
 On to the next one, the seventh defect: too little attention in economics to second-order and even higher-order effects. This defect is quite understandable because the consequences have consequences, and the consequences of the consequences have consequences, and so on. It gets very complicated. When I was a meteorologist, I found this stuff very irritating, and economics makes meteorology look like a tea party.
-
-> The consequences have consequences, and the consequences of the consequences have consequences, and so on. It gets very complicated.
-> 
 
 Extreme economic ignorance was displayed when various experts, including PhD economists, forecast the cost of the original Medicare law. They did simple extrapolations of past costs. Well, the cost forecast was off by a factor of more than 1,000 percent. The cost they projected was less than 10 percent of the cost that happened. Once they put in place various new incentives, the behavior changed in response to the incentives, and the numbers became quite different from their projection. And medicine invented new and expensive remedies, as it was sure to do.
 
@@ -2562,9 +2228,6 @@ How could anybody not know that if he’d taken freshman economics or been throu
 Usually, I don’t use formal projections. I don’t let people do them for me because I don’t like throwing up on the desk, but I see them made in a very foolish way all the time, and many people believe in them, no matter how foolish they are. It’s an effective sales technique in America to put a foolish projection on a desk. And if you’re an investment banker, it’s an art form. I don’t read their projections either. Once Warren and I bought a company, and the seller had a big study done by an investment banker. It was about this thick. We just turned it over as if it were a diseased carcass. He said, “We paid $2 million for that.” I said, “We don’t use them. Never look at them.”
 
 Anyway, as the Medicare example showed, all human systems are gamed, for reasons rooted deeply in psychology, and great skill is displayed in the gaming because game theory has so much potential. That’s what’s wrong with the workers’ comp system in California. Gaming has been raised to an art form. In the course of gaming the system, people learn to be crooked. Is this good for civilization? Is it good for economic performance? Hell no. The people who design easily gameable systems belong in the lowest circle of Hell.
-
-> The people who design easily gameable systems belong in the lowest circle of Hell.
-> 
 
 I’ve got a friend whose family controls about 8 percent of the truck trailer market. He just closed his last factory in California, and he had one in Texas that was even worse. The workers’ comp cost in his Texas plant got to be double-digit percentages of payroll. Well, there’s no such profit in making truck trailers. He closed his plant and moved it to Ogden, Utah, where a bunch of believing Mormons are raising big families and don’t game the workers’ comp system. The workers’ comp expense is 2 percent of payroll.
 
@@ -2580,12 +2243,7 @@ That’s a ridiculous story, but the scheme will work still. And Niederhoffer is
 
 This shows how all human systems are gamed. Another example of not thinking through the consequences of the consequences is the standard reaction in economics to Ricardo’s law of comparative advantage giving benefit on both sides of trade.
 
-Ricardo came up with a wonderful, non-obvious explanation that was so powerful that people were charmed with it, and they still are because it’s a very useful idea. Everybody in economics understands that comparative advantage is a big deal when one considers first-order advantages in trade from the Ricardo effect.
-
-> *“In Portugal it is possible to produce both wine and cloth with less work than it takes in England. However, the relative costs of producing those two goods are different in the two countries. In England it is very hard to produce wine, but only moderately difficult to produce cloth. In Portugal both are easy to produce. Therefore, while it is cheaper to produce cloth in Portugal than England, it is cheaper still for Portugal to produce excess wine and trade it for English cloth. Conversely, England benefits from this trade because its cost for producing cloth has not changed but it can now get wine at closer to the cost of cloth.”*
-> 
-
-But suppose you’ve got a very talented ethnic group, like the Chinese, and they’re very poor, and you’re an advanced nation, and you create free trade with China, and it goes on for a long time. Now let’s follow second- and third-order consequences. You are more prosperous than you would have been if you hadn’t traded with China in terms of average wellbeing in the United States, right? Ricardo proved it. But which nation is going to be growing faster in economic terms? It’s obviously China. They’re absorbing all the modern technology of the world through this great facilitator in free trade, and, like the Asian Tigers have proved, they will get ahead fast. Look at Hong Kong. Look at Taiwan. Look at early Japan.
+Ricardo came up with a wonderful, non-obvious explanation that was so powerful that people were charmed with it, and they still are because it’s a very useful idea. Everybody in economics understands that comparative advantage is a big deal when one considers first-order advantages in trade from the Ricardo effect. But suppose you’ve got a very talented ethnic group, like the Chinese, and they’re very poor, and you’re an advanced nation, and you create free trade with China, and it goes on for a long time. Now let’s follow second- and third-order consequences. You are more prosperous than you would have been if you hadn’t traded with China in terms of average wellbeing in the United States, right? Ricardo proved it. But which nation is going to be growing faster in economic terms? It’s obviously China. They’re absorbing all the modern technology of the world through this great facilitator in free trade, and, like the Asian Tigers have proved, they will get ahead fast. Look at Hong Kong. Look at Taiwan. Look at early Japan.
 
 So you start in a place where you’ve got a weak nation of a billion and a quarter people, and in the end, they’re going to be a much bigger, stronger nation than you are, maybe even having more and better atomic bombs. Well, Ricardo did not prove that that’s a wonderful outcome for the former leading nation. He didn’t try to determine second-order and higher-order effects.
 
@@ -2599,7 +2257,7 @@ And he said, “Charlie, I do not want to think about this.”
 
 I think he’s wise. He’s even older than I am, and maybe I should learn from him.
 
-### Eight: Not enough attention to the concept of febezzlement
+### 8: Not enough attention to the concept of febezzlement
 
 Okay, I’m now down to my eighth objection: too little attention within economics to the simplest and most fundamental principle of algebra.
 
@@ -2615,14 +2273,11 @@ This happened after I asked the question, “Is there a functional equivalent of
 
 So I say, if you look in the economy for febezzlement, the functional equivalent of embezzlement, you’ll find some enormously powerful factors. They create some wealth effect that is on steroids compared to the old wealth effect. But practically nobody thinks as I do, and I quitclaim my idea to any hungry graduate student who has independent means, which he will need before his thesis topic is approved.
 
-### Nine: Not enough attention to virtue and vice effects
+### 9: Not enough attention to virtue and vice effects
 
 Okay, my ninth objection: not enough attention to virtue and vice effects in economics.
 
 It has been plain to me since early life that there are enormous virtue effects in economics and also enormous vice effects. But economists get very uncomfortable when you talk about virtue and vice. It doesn’t lend itself to a lot of columns of numbers. But I would argue that there are big virtue effects in economics. I would say that the spreading of double-entry bookkeeping by the monk Fra Luca de Pacioli was a big virtue effect in economics. It made business more controllable, and it made it more honest.
-
-> Economists get very uncomfortable when you talk about virtue and vice. It doesn’t lend itself to a lot of columns of numbers.
-> 
 
 Then the cash register. The cash register did more for human morality than the congregational church. It was a really powerful phenomenon to make an economic system work better, just as in reverse, a system that can be easily defrauded ruins a civilization. A system that’s very hard to defraud, like a cash register-based system, helps the economic performance of a civilization by reducing vice, but very few people within economics talk about it in those terms.
 
@@ -2636,9 +2291,6 @@ This is the system Benjamin Franklin, near the end of his life, wanted for the U
 
 It is not always recognized that to function best, morality should sometimes appear unfair, like most worldly outcomes. The craving for perfect fairness causes a lot of terrible problems in system function. Some systems should be made deliberately unfair to individuals because they’ll be fairer on average for all of us. Thus, there can be virtue in apparent non-fairness.
 
-> The craving for perfect fairness causes a lot of terrible problems in system function.
-> 
-
 I frequently cite the example of having your career over, in the Navy, if your ship goes aground, even if it wasn’t your fault. I say the lack of justice for the one guy who wasn’t at fault is way more than made up by a greater justice for everybody when every captain of a ship always sweats blood to make sure the ship doesn’t go aground. Tolerating a little unfairness to some to get a greater fairness for all is a model I recommend to all of you. But again, I wouldn’t put it in your assigned college work if you want to be graded well, particularly in a modern law school wherein there is usually an over-love of fairness-seeking process.
 
 There are, of course, enormous vice effects in economics. You have these bubbles with so much fraud and folly. The aftermath is frequently very unpleasant, and we’ve had some of that lately. One of the first big bubbles, of course, was the huge and horrible South Sea Bubble in England. The aftermath was interesting.
@@ -2651,15 +2303,9 @@ Another interesting problem is raised by vice effects involving envy. Envy wisel
 
 But Mandeville—remember his fable of bees? He demonstrated convincingly, to me, anyway, that envy was a great driver of proclivity to spend. And so, here’s this terrible vice, which is forbidden in the Ten Commandments, and here it’s driving all these favorable results in economics. There’s some paradox in economics that nobody’s going to get out.
 
-> Here’s this terrible vice, which is forbidden in the Ten Commandments, and here it’s driving all these favorable results in economics.
-> 
-
 When I was young, everybody was excited by Gödel, who came up with proof that you couldn’t have a mathematical system without a lot of irritating incompleteness in it. Well, since then, my betters tell me that they’ve come up with more irremovable defects in mathematics and have decided that you’re never going to get mathematics without some paradox in it. No matter how hard you work, you’re going to have to live with some paradox if you’re a mathematician.
 
 Well, if the mathematicians can’t get the paradox out of their system when they’re creating it themselves, the poor economists are never going to get rid of paradoxes, nor are any of the rest of us. It doesn’t matter. Life is interesting with some paradox. When I run into a paradox, I think either I’m a total horse’s ass to have gotten to this point or I’m fruitfully near the edge of my discipline. It adds excitement to life to wonder which it is.
-
-> Life is interesting with some paradox.
-> 
 
 As I conclude, I want to tell one more story demonstrating how awful it is to get a wrong idea from a limited repertoire and just stick to it. This is the story of Hyman Liebowitz, who came to America from the old country. In the new country, as in the old, he tried to make his way in the family trade, which was manufacturing nails. And he struggled, and he struggled, and finally his little nail business got to vast prosperity, and his wife said to him, “You are old, Hyman, it’s time to go to Florida and turn the business over to our son.”
 
@@ -2693,7 +2339,7 @@ Read the book *Fiasco,* by law professor and former derivatives trader Frank Par
 
 It’s hard to shock Warren. He’s past 70, he’s seen a lot. And his brain works quickly. He generally avoids certain subjects before elections, and that is what I am going to do here.
 
-### Talk Nine Revisited
+### Talk 9 Revisited
 
 This waggish talk on economics, given in 2003, gave me pleasure as I put it together. But I hope it provided more than harmless fun. I even hope that some shred of my ideas eventually gets into academic economics, not because I want recognition, but because I think academic economics needs some improvement.
 
@@ -2701,13 +2347,15 @@ Since the talk was given, I came across a book published by Alfred A. Knopf in 2
 
 As readers will note from the title, Professor Friedman is particularly interested in the impact of economic growth on morals, whereas my interest is mostly in the reverse direction, the impact of morals on economic growth. This difference is not a big deal, because every educated person can see reciprocal effects, for good or ill, between the two factors, creating what is often called either a virtuous circle or vicious circle. Professor Friedman supplies a marvelous quotation on this subject from Rabbi Elizar Ben Azariah: “Where there is no bread, there is no law; where there is no law, there is no bread.”
 
+## Talk 10: USC Gould School of Law Commencement Address
+
+*University of Southern California, May 13, 2007*
+
 On a warm late-spring day in 2007, Charlie addressed 194 Juris Doctor, 89 Master of Laws, and 3 Master of Comparative Laws degree recipients in the University of Southern California’s Alumni Park. He offered insights into the practices that have contributed to his success and to his standing as one of the wealthiest people in the world. He observed that the acquisition of wisdom is a moral duty, and he stressed that while attending law school he realized the best road to success in life and learning would be a multidisciplinary one.
 
 Following the audience’s enthusiastic reaction to this speech, USC Law Dean Edward J. McCaffery awarded Charlie honorary admission into the Order of the Coif, a scholastic society founded to encourage excellence in legal education.
 
-## Talk Ten: USC Gould School of Law Commencement Address
-
-*The University of Southern California, May 13, 2007*
+---
 
 No doubt many of you are wondering why this speaker is so old. Well, the answer is obvious: He hasn’t died yet. And why was this speaker chosen? Well, I don’t know that. I’d like to think that the development department had nothing to do with it.
 
@@ -2719,9 +2367,6 @@ All right, I’ve scratched out a few notes, and I’m going to try and give an 
 
 What are the core ideas that helped me? Well, luckily I had the idea at a very early age that the safest way to try to get what you want is to try to deserve what you want. It’s such a simple idea. It’s the golden rule. You want to deliver to the world what you would buy if you were on the other end. There is no ethos in my opinion that is better for any lawyer or any other person to have. By and large, the people who have had this ethos win in life, and they don’t win just money and honors. They win the respect, the deserved trust of the people they deal with. And there is huge pleasure in life to be obtained from getting deserved trust.
 
-> You want to deliver to the world what you would buy if you were on the other end.
-> 
-
 Now, occasionally, you will find a perfect rogue of a person who dies rich and widely known. But mostly these people are fully understood as despicable by the surrounding civilization. If the cathedral is full of people at the funeral ceremony, most of them are there to celebrate the fact that the person is dead.
 
 That reminds me of the story of the time when one of these people died, and the minister said, “It’s now time to say something nice about the deceased.” And nobody came forward, and nobody came forward, and nobody came forward. And finally, one man came up and said, “Well, his brother was worse.” That is not where you want to go. A life ending in such a funeral is not the life you want to have.
@@ -2730,17 +2375,11 @@ The second idea that I developed very early is that there’s no love that’s s
 
 Another idea, and this may remind you of Confucius, too, is that the acquisition of wisdom is a moral duty. It’s not something you do just to advance in life. And there’s a corollary to that idea that is very important. It requires that you’re hooked on lifetime learning. Without lifetime learning, you people are not going to do very well. You are not going to get very far in life based on what you already know. You’re going to advance in life by what you learn after you leave here.
 
-> The acquisition of wisdom is a moral duty.
-> 
-
 Consider Berkshire Hathaway, one of the best-regarded corporations in the world. It may have the best long-term, big-assets-involving investment record in the history of civilization. The skill that got Berkshire through one decade would not have sufficed to get it through the next decade with comparable levels of achievement. Warren Buffett had to be a continuous learning machine.
 
 The same requirement exists in lower walks of life. I constantly see people rise in life who are not the smartest, sometimes not even the most diligent. But they are learning machines. They go to bed every night a little wiser than they were that morning. And boy, does that habit help, particularly when you have a long run ahead of you.
 
 Alfred North Whitehead correctly said at one time that the rapid advance of civilization came only when man “invented the method of invention.” He was referring to the huge growth in GDP per capita and many other good things we now take for granted. Big-time progress started a few hundred years ago. Before that, progress per century was almost nil. Just as civilization can progress only when it invents the method of invention, you can progress only when you learn the method of learning.
-
-> Just as civilization can progress only when it invents the method of invention, you can progress only when you learn the method of learning.
-> 
 
 I was very lucky. I came to law school having learned the method of learning, and nothing has served me better in my long life than continuous learning. Consider Warren Buffett again. If you watched him with a time clock, you’d find that about half of his waking time is spent reading. Then a big chunk of the rest of his time is spent talking one-on-one, either on the telephone or personally, with highly gifted people whom he trusts and who trust him. Viewed up close, Warren looks quite academic as he achieves worldly success.
 
@@ -2756,27 +2395,15 @@ Well, this habit has done a lot for me. It’s made life more fun. It’s made m
 
 Now, there are dangers in it because it works so well. If you use it, you will frequently find when you’re with some expert from another discipline—maybe even an expert who is your employer, with a vast ability to harm you—that you know more than he does about fitting his specialty to the problem at hand. You’ll sometimes see the correct answer when he’s missed it. That is a very dangerous position to be in. You can cause enormous offense by being right in a way that causes somebody else to lose face in his own discipline or hierarchy. I never found the perfect way to avoid harm from this serious problem. Even though I was a good poker player when I was young, I wasn’t good enough at pretending when I thought I knew more than my supervisors did. And I didn’t try as hard at pretending as would have been prudent. So I gave a lot of offense. Now, I’m generally tolerated as a harmless eccentric who will soon be gone. But coming up, I had a difficult period to go through.
 
-> You can cause enormous offense by being right in a way that causes somebody else to lose face in his own discipline or hierarchy.
-> 
-
 My advice to you is to be better than I was at keeping insights hidden. One of my colleagues, who graduated as number one in his class in law school and clerked at the US Supreme Court, tended as a young lawyer to show that he knew a lot. One day, the senior partner he was working under called him in and said, “Listen, Chuck, I want to explain something to you. Your duty is to behave in such a way that the client thinks he’s the smartest person in the room. If you have any energy or insight available after that, use it to make your senior partner look like the second-smartest person in the room. And only after you’ve satisfied those two obligations do you want your light to shine at all.”
 
 Well, that was a good system for rising in many a large law firm. But it wasn’t what I did. I usually moved with the drift of my nature, and if some other people didn’t like it, well, I didn’t need to be adored by everybody.
 
-> I usually moved with the drift of my nature, and if some other people didn’t like it, well, I didn’t need to be adored by everybody.
-> 
-
 Let me further develop the idea that a multidisciplinary attitude is required if maturity is to be effective. Here I’m following a key idea of the greatest lawyer of antiquity, Marcus Tullius Cicero. Cicero is famous for saying that a man who doesn’t know what happened before he’s born goes through life like a child. That is a very correct idea. Cicero is right to ridicule somebody so foolish as not to know history. But if you generalize Cicero, as I think one should, there are a lot of other things that one should know in addition to history. And those other things are the big ideas in all the disciplines.
-
-> “History is the witness that testifies to the passing of time; it illumines reality, vitalizes memory, provides guidance in daily life, and brings us tidings of antiquity. To be ignorant of what happened before you were born is to be ever a child. For what is man’s lifetime unless the memory of past events is woven with those of earlier times?”
-> 
 
 And it doesn’t help you much just to know something well enough so that on one occasion you can prattle your way to an A in an exam. You have to learn many things in such a way that they’re in a mental latticework in your head and you automatically use them the rest of your life. If many of you try that, I solemnly promise that one day most will correctly come to think, “Somehow I’ve become one of the most effective people in my whole age cohort.” In contrast, if no effort is made toward such multidisciplinarity, many of the brightest of you who choose this course will live in the middle ranks, or in the shallows.
 
 Another idea that I discovered was encapsulated by that story Dean McCaffery recounted earlier about the rustic who wanted to know where he was going to die so he wouldn’t go there. The rustic who had that ridiculous-sounding idea had a profound truth in his possession. The way complex adaptive systems work, and the way mental constructs work, problems frequently become easier to solve through inversion. If you turn problems around into reverse, you often think better. For instance, if you want to help India, the question you should consider asking is not “How can I help India?” Instead, you should ask, “How can I hurt India?” You find what will do the worst damage, and then try to avoid it.
-
-> If you turn problems around into reverse, you often think better.
-> 
 
 Perhaps the two approaches seem logically the same thing. But those who have mastered algebra know that inversion will often and easily solve problems that otherwise resist solution. And in life, just as in algebra, inversion will help you solve problems that you can’t otherwise handle.
 
@@ -2786,29 +2413,17 @@ Another thing to avoid is extremely intense ideology, because it cabbages up one
 
 When you announce that you’re a loyal member of some cult-like group and you start shouting out the orthodox ideology, what you’re doing is pounding it in, pounding it in, pounding it in. You’re ruining your mind, sometimes with startling speed. So you want to be very careful with intense ideology. It presents a big danger for the only mind you’re ever going to have.
 
-> You want to be very careful with intense ideology. It presents a big danger for the only mind you’re ever going to get.
-> 
-
 Darwin formulated his theories on the transmutation of species in the late 1830s, but it was not until 1859 that he published his seminal work, [*On the Origin of Species by Means of Natural Selection](https://www.loc.gov/item/06017473/).* Darwin accepted that any scientific theory proffering an alternative explanation to human origins would be met with widespread prejudice, and that therefore prudence dictated he become fully versed in every possible counterargument before publishing his ideas. Accordingly, he spent 20 years painstakingly cultivating his theory and preparing for its defense.
 
 There is a warning example I use whenever I feel threatened by a drift toward intense political ideology. Some Scandinavian canoeists succeeded in getting through all the rapids of Scandinavia, and they thought they would continue their success by tackling the big whirlpools in northwest America. The death rate was 100 percent. A big whirlpool is something you want to avoid. And I think the same is true about intense ideology, particularly when your companions are all true believers.
 
 I have what I call an iron prescription that helps me keep sane when I drift toward preferring one intense ideology over another. I feel that I’m not entitled to have an opinion unless I can state the arguments against my position better than the people who are in opposition. I think that I am qualified to speak only when I’ve reached that state.
 
-> I feel that I’m not entitled to have an opinion unless I can state the arguments against my position better than the people who are in opposition.
-> 
-
 This sounds almost as extreme as the iron prescription Dean Acheson was fond of attributing to William the Silent of Orange, who roughly said, “It’s not necessary to hope in order to persevere.” That probably is too tough for most people, although I hope it won’t ever become too tough for me. My way of avoiding over-intensity in ideology is easier than Acheson’s injunction and worth learning. This business of not drifting into extreme ideology is very, very important in life. If you want to end up wise, heavy ideology is very likely to prevent that outcome.
 
 Another thing that often causes folly and ruin is the self-serving bias, often subconscious, to which we’re all subject. You think that “the true little me” is entitled to do what it wants to do. For instance, why shouldn’t the true little me get what it wants by overspending its income?
 
 Well, there once was a man who became the most famous composer in the world, but he was utterly miserable most of the time. One of the reasons was that he always overspent his income. That was Mozart. If Mozart couldn’t get by with this kind of asinine conduct, I don’t think you should try it.
-
-> If Mozart couldn’t get by with this kind of asinine conduct, I don’t think you should try.
-> 
-
-> “What happened to Mozart’s money? Mozart’s sickly wife, Constanze, required regular cures at spring baths used only by the wealthy. During lean times, the Mozarts continued to live in their accustomed style, giving themselves cash flow problems. The situation was exacerbated by their failure to save any money during flush periods and by a judgment against Mozart in 1791 resulting from a suit brought by Prince Karl Lichnowsky. Some scholars also cite evidence that Mozart gambled at billiards and cards.”
-> 
 
 Generally speaking, envy, resentment, revenge, and self-pity are disastrous modes of thought. Self-pity can get pretty close to paranoia. Paranoia is one of the very hardest things to reverse. You do not want to drift into self-pity. I had a friend who carried a thick stack of linen-based cards. When somebody would make a comment that reflected self-pity, he would slowly and portentously pull out his huge stack of cards, take the top one, and hand it to the person. The card said, “Your story has touched my heart. Never have I heard of anyone with as many misfortunes as you.”
 
@@ -2817,9 +2432,6 @@ Well, you can say that’s waggery, but I suggest it can be mental hygiene. Ever
 Of course, you also want to get self-serving bias out of your mental routines. Thinking that what’s good for you is good for the wider civilization and rationalizing foolish or evil conduct based on your subconscious tendency to serve yourself is a terrible way to think. You want to drive that out of yourself because you want to be wise, not foolish, and good, not evil.
 
 You also have to allow, in your own cognition and conduct, for the self-serving bias of everybody else, because most people are not going to be very successful at removing such bias, the human condition being what it is. If you don’t allow for self-serving bias in the conduct of others, you are, again, a fool.
-
-> If you don’t allow for self-serving bias in the conduct of others, you are, again, a fool.
-> 
 
 I watched the brilliant and worthy Harvard Law Review–trained general counsel of Salomon Brothers lose his career there. When the able CEO was told that an underling had done something wrong, the general counsel said, “Gee, we don’t have any legal duty to report this, but I think it’s what we should do. It’s our moral duty.”
 
@@ -2833,9 +2445,6 @@ Another thing to avoid is being subjected to perverse incentives. You don’t wa
 
 Perverse associations are also to be avoided. You particularly want to avoid working directly under somebody you don’t admire and don’t want to be like. It’s dangerous. We’re all subject to control to some extent by authority figures, particularly authority figures who are rewarding us. Dealing properly with this danger requires both some talent and will.
 
-> Avoid working directly under somebody you don’t admire and don’t want to be like.
-> 
-
 I coped in my time by identifying people I admired and by maneuvering, mostly without criticizing anybody, so that I was usually working under the right sort of people. A lot of law firms will permit that if you’re shrewd enough to work it out with some tact. Generally, your outcome in life will be more satisfactory if you work under people you correctly admire.
 
 Engaging in routines that allow you to maintain objectivity are, of course, very helpful to cognition. We all remember that Darwin paid special attention to disconfirming evidence, particularly when it disconfirmed something he believed and loved. Routines like that are required if a life is to maximize correct thinking.
@@ -2845,9 +2454,6 @@ One also needs checklist routines. They prevent a lot of errors, and not just fo
 Another idea that I found important is that maximizing non-egality will often work wonders. What do I mean? Well, John Wooden of UCLA presented an instructive example when he was the number one basketball coach in the world. He said to the bottom five players, “You don’t get to play; you are practice partners.” The top seven did almost all the playing. Well, the top seven learned more—remember the importance of the learning machine—because they were doing all the playing. And when he adopted that non-egalitarian system, Wooden won more games than he had won before.
 
 I think the game of competitive life often requires maximizing the experience of the people who have the most aptitude and the most determination as learning machines. And if you want the very highest reaches of human achievement, that’s where you have to go. You do not want to choose a brain surgeon for your child by drawing straws to select one of 50 applicants, all of whom take turns doing procedures. You don’t want your airplanes designed in too egalitarian a fashion. You don’t want your Berkshire Hathaways run that way either. You want to provide a lot of playing time for your best players.
-
-> You don’t want your airplanes designed in too egalitarian a fashion. You don’t want your Berkshire Hathaways run that way either.
-> 
 
 I frequently tell the apocryphal story about how Max Planck, after he won the Nobel Prize, went around Germany giving the same standard lecture on the new quantum mechanics. Over time, his chauffeur memorized the lecture and said, “Would you mind, Professor Planck, because it’s so boring to stay in our routine, if I gave the lecture in Munich and you just sat in front wearing my chauffeur’s hat?” Planck said, “Why not?” And the chauffeur got up and gave this long lecture on quantum mechanics, after which a physics professor stood up and asked a perfectly ghastly question. The speaker said, “Well, I’m surprised that in an advanced city like Munich I get such an elementary question. I’m going to ask my chauffeur to reply.”
 
@@ -2859,9 +2465,6 @@ Another thing that I have found is that intense interest in any subject is indis
 
 Another thing you have to do is have a lot of assiduity. I like that word because to me it means “Sit down on your ass until you do it.” I’ve had marvelous partners, full of assiduity, all my life. I think I got them partly because I tried to deserve them, and partly because I was shrewd enough to select them, and partly there was some luck.
 
-> Another thing you have to do is have a lot of assiduity. I like that word because to me it means “Sit down on your ass until you do it.”
-> 
-
 Two partners that I chose for one phase in my life made the following simple agreement when they created a little design-and-build construction team in the middle of the Great Depression: “Two-man partnership,” they said, “and divide everything equally. And whenever we’re behind in our commitments to other people, we will both work 14 hours a day, seven days a week, until we’re caught up.” Well, needless to say that firm didn’t fail, and my partners were widely admired. Simple, old-fashioned ideas like theirs are almost sure to provide a good outcome.
 
 Another thing to cope with is that life is very likely to provide terrible blows, unfair blows. Some people recover and others don’t. There I think the attitude of Epictetus helps guide one to the right reaction. He thought that every mischance in life, however bad, created an opportunity to behave well. He believed every mischance provided an opportunity to learn something useful, and one’s duty was not to become immersed in self-pity, but to utilize each terrible blow in a constructive fashion. His ideas were very sound, influencing the best of the Roman emperors, Marcus Aurelius and many others over many centuries. And you may remember the epitaph that Epictetus made for himself: “Here lies Epictetus, a slave, maimed in body, the ultimate in poverty, and favored by the gods.”
@@ -2872,26 +2475,32 @@ I’ve another idea to emphasize in a brief account. My grandfather Munger was t
 
 But that was not all that his prudence enabled. Along the way, in the ’30s, my uncle’s tiny bank failed and couldn’t reopen without help. My grandfather saved the bank by exchanging over a third of his good assets for horrible bank assets. I’ve always remembered the event. It reminds me of Houseman’s little poem that went something like this:
 
-- *The thoughts of others*
-- *Were light and fleeting,*
-- *Of lovers’ meeting*
-- *Or luck or fame.*
-- *Mine were of trouble,*
-- *And mine were steady,*
-- *And I was ready*
-- *When trouble came.*
+> *The thoughts of others
+Were light and fleeting,
+Of lovers’ meeting
+Or luck or fame.
+Mine were of trouble,
+And mine were steady,
+And I was ready
+When trouble came.*
 
 You may well say, “Who wants to go through life anticipating trouble?” Well, I did, trained as I was. I’ve gone through a long life anticipating trouble. And here I am now, well along in my 84th year. Like Epictetus, I’ve had a favored life. It didn’t make me unhappy to anticipate trouble all the time and be ready to perform adequately if trouble came. It didn’t hurt me at all. In fact, it helped me. So I quitclaim to you Houseman and Judge Munger.
 
-> I’ve gone through a long life anticipating trouble.
-> 
-
 The last idea that I want to give to you, as you go out into a profession that frequently puts a lot of procedure and some mumbo-jumbo into what it does, is that complex bureaucratic procedure does not represent the highest form civilization can reach. One higher form is a seamless, non-bureaucratic web of deserved trust. Not much fancy procedure, just totally reliable people correctly trusting one another. That’s the way an operating room works at the Mayo Clinic. If lawyers would introduce a lot of lawyer-like process, more patients would die. So never forget, when you’re a lawyer, that while you may have to sell procedure, you don’t always have to buy. In your own life, what you want to maximize is a seamless web of deserved trust. And if your proposed marriage contract has 47 pages, my suggestion is that you not enter.
 
-> In your own life, what you want to maximize is a seamless web of deserved trust.
-> 
-
 Well, that’s enough for one graduation. I hope these ruminations of an old man are useful to you. In the end, I’m speaking toward the only outcome feasible for old Valiant-for-Truth in *Pilgrim’s Progress:* “My sword I leave to him who can wield it.”
+
+## Talk 11: The Psychology of Human Misjudgment
+
+*2005, Selections from three of Charlie’s talks, combined into one talk never made, after revisions by Charlie in 2005 that included considerable new material.*
+
+*The three talks were:*
+
+1. *The Bray lecture at the Caltech Faculty Club, February 2, 1992*
+2. *Talk under the sponsorship of the Cambridge Center for Behavioral Studies at the Harvard Faculty Club, October 6, 1994*
+3. *Talk under the sponsorship of the Cambridge Center for Behavioral Studies at the Boston Harbor Hotel, April 24, 1995*
+
+*The extensive revision by Charlie in 2005, made from memory and unassisted by any research, occurred because Charlie thought he could do better at age 81 than he did more than 10 years earlier when he 1) knew less and was more harried by a crowded life and 2) was speaking from rough notes instead of revising transcripts.*
 
 In the run-up to publishing this book, Charlie remarked that one of the most important talks in our list, “The Psychology of Human Misjudgment,” could use “a little revising” to bring it in line with his most current views on the subject. Little did we know, Charlie’s little revision would amount to a full-scale rewrite, with loads of new material and a stop-the-press completion schedule. The talk features Charlie’s original concept of behavioral finance, which has now burgeoned into its own academic field of study. As attendee Donald Hall recalls, “Charlie was espousing his well-reasoned views on behavioral finance before the term was even coined.”
 
@@ -2899,17 +2508,7 @@ Charlie also addresses the importance of recognizing patterns to determine how h
 
 Here then, written exclusively for *Poor Charlie’s Almanack,* is Charlie’s magnum opus on why we behave the way we do. We wish you success in the application of these ideas in your own personal and business endeavors.
 
-## Talk Eleven: The Psychology of Human Misjudgment
-
-*Selections from three of Charlie’s talks, combined into one talk never made, after revisions by Charlie in 2005 that included considerable new material.*
-
-*The three talks were:*
-
-- *The Bray lecture at the Caltech Faculty Club, February 2, 1992*
-- *Talk under the sponsorship of the Cambridge Center for Behavioral Studies at the Harvard Faculty Club, October 6, 1994*
-- *Talk under the sponsorship of the Cambridge Center for Behavioral Studies at the Boston Harbor Hotel, April 24, 1995*
-
-*The extensive revision by Charlie in 2005, made from memory and unassisted by any research, occurred because Charlie thought he could do better at age 81 than he did more than 10 years earlier when he 1) knew less and was more harried by a crowded life and 2) was speaking from rough notes instead of revising transcripts.*
+---
 
 ### Preface
 
@@ -2929,17 +2528,11 @@ Why am I doing this?
 
 One reason may be that my nature makes me incline toward diagnosing and talking about errors in conventional wisdom. And despite years of being smoothed out by the hard knocks that were inevitable for one with my attitude, I don’t believe life ever knocked all the boy’s brashness out of the man.
 
-> I don’t believe life ever knocked all the boy’s brashness out of the man.
-> 
-
 A second reason for my decision is my approval of the attitude of Diogenes when he asked, “Of what use is a philosopher who never offends anybody?”
 
 My third and final reason is the strongest. I have fallen in love with my way of laying out psychology because it has been so useful for me. And so, before I die, I want to imitate to some extent the bequest practices of three characters: the protagonist in John Bunyan’s *Pilgrim’s Progress*, Benjamin Franklin, and my first employer, Ernest Buffett.
 
 Bunyan’s character, the knight wonderfully named Old Valiant-for-Truth, makes the only practical bequest available to him when he says at the end of his life, “My sword I leave to him who can wear it.” And like this man, I don’t mind if I have misappraised my sword, provided I have tried to see it correctly, or if many will not wish to try it, or if some who try to wield it may find it serves them not. Ben Franklin, to my great benefit, left behind his autobiography, his *Almanacks,* and much else. And Ernest Buffett did the best he could in the same mode when he left behind “How to Run a Grocery Store and a Few Things I Have Learned about Fishing.” Whether or not this last contribution to the genre was the best, I will not say. But I will report that I have now known four generations of Ernest Buffett’s descendants and that the results have encouraged my imitation of the founder.
-
-> I have now known four generations of Ernest Buffett’s descendants, and the results have encouraged my imitation of the founder.
-> 
 
 ### The psychology of human misjudgment
 
@@ -2955,9 +2548,6 @@ When I started law practice, I had respect for the power of genetic evolution an
 
 But this generalized, evolution-based theory structure was inadequate to enable me to cope properly with the cognition I encountered. I was soon surrounded by much extreme irrationality, displayed in patterns and subpatterns. So surrounded, I could see that I was not going to cope as well as I wished with life unless I could acquire a better theory-structure on which to hang my observations and experiences.
 
-> I could see that I was not going to cope as well as I wished with life unless I could acquire a better theory-structure on which to hang my observations and experiences.
-> 
-
 By then, my craving for more theory had a long history. Partly, I had always loved theory as an aid in puzzle-solving and as a means of satisfying my monkey-like curiosity. And partly, I had found that theory-structure was a superpower in helping one get what one wanted, as I had early discovered in school, wherein I had excelled without labor, guided by theory, while many others, without mastery of theory, failed despite monstrous effort. Better theory, I thought, had always worked for me, and, if now available, could make me acquire capital and independence faster and better assist everything I loved. So I slowly developed my own system of psychology, more or less in the self-help style of Ben Franklin and with the determination displayed in the refrain of the nursery story: “‘Then I’ll do it myself,’ said the Little Red Hen.”
 
 I was greatly helped in my quest by two turns of mind. First, I had long looked for insight by inversion in the intense manner counseled by the great algebraist Jacobi: “Invert, always invert.” I sought good judgment mostly by collecting instances of bad judgment, then pondering ways to avoid such outcomes.
@@ -2970,9 +2560,6 @@ I also got curious about social insects. It fascinated me that both the fertile 
 
 Motivated as I was, by midlife I should probably have turned to psychology textbooks. But I didn’t, displaying my share of the outcome predicted by the German folk saying “We are too soon old and too late smart.” However, as I later found out, I may have been lucky to avoid for so long the academic psychology that was then laid out in most textbooks. These would not have guided me well with respect to cults and were often written as if the authors were collecting psychology experiments as a boy collects butterflies—with a passion for more butterflies and more contact with fellow collectors and little craving for synthesis in what is already possessed.
 
-> The textbooks were often written as if the authors were collecting psychology experiments as a boy collects butterflies.
-> 
-
 When I finally got to the psychology texts, I was reminded of the observation of Jacob Viner, the great economist, that many an academic is like the truffle hound, an animal so trained and bred for one narrow purpose that it is no good at anything else. I was also appalled by the hundreds of pages of extremely nonscientific musing about comparative weights of nature and nurture in human outcomes. And I found that introductory psychology texts, by and large, didn’t deal appropriately with a fundamental issue: Psychological tendencies tend to be both numerous and inseparably intertwined, now and forever, as they interplay in life. Yet the complex parsing out of effects from intertwined tendencies was usually avoided by the writers of the elementary texts.
 
 Possibly the authors did not wish, through complexity, to repel entry of new devotees to their discipline. And possibly, the cause of their inadequacy was the one given by Samuel Johnson in response to a woman who inquired as to what accounted for his dictionary’s misdefinition of the word “pastern.” “Pure ignorance,” Johnson replied. Finally, the text writers showed little interest in describing standard antidotes to standard psychology-driven folly, and they thus avoided most discussion of exactly what most interested me.
@@ -2980,9 +2567,6 @@ Possibly the authors did not wish, through complexity, to repel entry of new dev
 But academic psychology has some very important merits alongside its defects. I learned this eventually in the course of general reading from a book, *Influence,* aimed at a popular audience by a distinguished psychology professor, Robert Cialdini, at Arizona State, a very big university. Cialdini had made himself into a super-tenured regents professor at a very young age by devising, describing, and explaining a vast group of clever experiments in which man manipulated man to his detriment, with all of this made possible by man’s intrinsic thinking flaws.
 
 I immediately sent copies of Cialdini’s book to all my children. I also gave Cialdini a share of Berkshire stock (Class A) to thank him for what he had done for me and the public. Incidentally, the sale by Cialdini of hundreds of thousands of copies of a book about social psychology was a huge feat, considering that Cialdini didn’t claim that he was going to improve your sex life or make you any money.
-
-> The sale of hundreds of thousands of copies of a book about social psychology was a huge feat, considering that Cialdini didn’t claim that he was going to improve your sex life or make you any money.
-> 
 
 Part of Cialdini’s large book-buying audience came because, like me, it wanted to learn how to become less often tricked by salesmen and circumstances. However, as an outcome not sought by Cialdini, who is a profoundly ethical man, a huge number of his books were bought by salesmen who wanted to learn how to become more effective in misleading customers. Please remember this perverse outcome when my discussion comes to incentive-caused bias as a consequence of the superpower of incentives.
 
@@ -2998,9 +2582,6 @@ Another type of ant demonstrates that the limited brain of ants can be misled by
 
 It seems obvious, to me at least, that the human brain must often operate counterproductively, just like the ant’s, from unavoidable oversimplicity in its mental process, albeit usually in trying to solve problems more difficult than those faced by ants that don’t have to design airplanes. The perception system of man clearly demonstrates just such an unfortunate outcome. Man is easily fooled, either by the cleverly thought-out manipulation of man, by circumstances occurring by accident, or by very effective manipulation practices that man has stumbled into during “practice evolution” and kept in place because they work so well.
 
-> It seems obvious that the human brain must often operate counterproductively from unavoidable oversimplicity, albeit usually in trying to solve problems more difficult than those faced by ants that don’t have to design airplanes.
-> 
-
 One such outcome is caused by a quantum effect in human perception. If stimulus is kept below a certain level, it does not get through. And for this reason, a magician was able to make the Statue of Liberty “disappear” after a certain amount of magician lingo expressed in the dark. The audience was not aware that it was sitting on a platform that was rotating so slowly, below man’s sensory threshold, that no one could feel the acceleration implicit in the considerable rotation. When a surrounding curtain was then opened in the place on the platform where the Statue had earlier appeared, it seemed to have disappeared.
 
 Even when perception does get through to man’s brain, it is often misweighted, because what is registered in perception is in the shockingness of apparent contrast, not the standard scientific units that make possible science and good engineering.
@@ -3013,45 +2594,39 @@ When one thus sees perception so easily fooled by mere contrast where a simple t
 
 Man’s often wrong but generally useful psychological tendencies are quite numerous and quite different. The natural consequence of this profusion of tendencies is the grand general principle of social psychology: Cognition is ordinarily situation-dependent, so that different situations often cause different conclusions, even when the same person is thinking in the same general subject area.
 
-> Cognition is ordinarily situation-dependent, so that different situations often cause different conclusions.
-> 
-
 With this introductory instruction from ants, magicians, and the grand general principle of social psychology, I will next simply number and list psychology-based tendencies that, while generally useful, often mislead. Discussion of errors from each tendency will come later, together with a description of some antidotes to these errors, followed by some general discussion.
 
 Here are the tendencies:
 
-- Reward- and punishment-superresponse tendency
-- Liking/loving tendency
-- Disliking/hating tendency
-- Doubt-avoidance tendency
-- Inconsistency-avoidance tendency
-- Curiosity tendency
-- Kantian fairness tendency
-- Envy/jealousy tendency
-- Reciprocation tendency
-- Influence-from-mere-association tendency
-- Simple, pain-avoiding psychological denial
-- Excessive self-regard tendency
-- Overoptimism tendency
-- Deprival-superreaction tendency
-- Social-proof tendency
-- Contrast-misreaction tendency
-- Stress-influence tendency
-- Availability-misweighing tendency
-- Use-it-or-lose-it tendency
-- Drug-misinfluence tendency
-- Senescence-misinfluence tendency
-- Authority-misinfluence tendency
-- Twaddle tendency
-- Reason-respecting tendency
-- Lollapalooza tendency—the tendency to get extreme consequences from confluences of psychological tendencies acting in favor of a particular outcome
+1. Reward- and punishment-superresponse tendency
+2. Liking/loving tendency
+3. Disliking/hating tendency
+4. Doubt-avoidance tendency
+5. Inconsistency-avoidance tendency
+6. Curiosity tendency
+7. Kantian fairness tendency
+8. Envy/jealousy tendency
+9. Reciprocation tendency
+10. Influence-from-mere-association tendency
+11. Simple, pain-avoiding psychological denial
+12. Excessive self-regard tendency
+13. Overoptimism tendency
+14. Deprival-superreaction tendency
+15. Social-proof tendency
+16. Contrast-misreaction tendency
+17. Stress-influence tendency
+18. Availability-misweighing tendency
+19. Use-it-or-lose-it tendency
+20. Drug-misinfluence tendency
+21. Senescence-misinfluence tendency
+22. Authority-misinfluence tendency
+23. Twaddle tendency
+24. Reason-respecting tendency
+25. Lollapalooza tendency—the tendency to get extreme consequences from confluences of psychological tendencies acting in favor of a particular outcome
 
-### One: Reward- and punishment-superresponse tendency
+### 1: Reward- and punishment-superresponse tendency
 
 I place this tendency first in my discussion because almost everyone thinks he fully recognizes how important incentives and disincentives are in changing cognition and behavior. But this is not often so. For instance, I think I’ve been in the top 5 percent of my age cohort almost all my adult life in understanding the power of incentives, yet I’ve always underestimated that power. Never a year passes but I get some surprise that pushes a little further my appreciation of incentive superpower.
-
-> Never a year passes but I get some surprise that pushes a little further my appreciation of incentive superpower.
-> 
 
 One of my favorite cases about the power of incentives is the Federal Express case. The integrity of the Federal Express system requires that all packages be shifted rapidly among airplanes in one central airport each night. The system has no integrity for the customers if the night work shift can’t accomplish its assignment fast. And Federal Express had one hell of a time getting the night shift to do the right thing. They tried moral suasion. They tried everything in the world without luck. And, finally, somebody got the happy thought that it was foolish to pay the night shift by the hour when what the employer wanted was not maximized billable hours of employee service but fault-free, rapid performance of a particular task. Maybe, this person thought, if they paid the employees per shift and let all night shift employees go home when all the planes were loaded, the system would work better. And, lo and behold, that solution worked.
 
@@ -3063,9 +2638,6 @@ We should also heed the general lesson implicit in the injunction of Ben Frankli
 
 This maxim is a wise guide to a great and simple precaution in life: Never, ever, think about something else when you should be thinking about the power of incentives. I once saw a very smart house counsel for a major investment bank lose his job, with no moral fault, because he ignored the lesson in this maxim of Franklin. This counsel failed to persuade his client because he told him his moral duty, as correctly conceived by the counsel, without also telling the client in vivid terms that he was very likely to be clobbered to smithereens if he didn’t behave as his counsel recommended. As a result, both client and counsel lost their careers.
 
-> Never, ever, think about something else when you should be thinking about the power of incentives.
-> 
-
 We should also remember how a foolish and willful ignorance of the superpower of rewards caused Soviet communists to get their final result, as described by one employee: “They pretend to pay us, and we pretend to work.” Perhaps the most important rule in management is “Get the incentives right.”
 
 But there is some limit to a desirable emphasis on incentive superpower. One case of excess emphasis happened at Harvard, where B. F. Skinner, a psychology professor, finally made himself ridiculous. At one time, Skinner may have been the best-known psychology professor in the world. He partly deserved his peak reputation because his early experiments using rats and pigeons were ingenious, and his results were both counterintuitive and important. With incentives, he could cause more behavior change, culminating in conditioned reflexes in his rats and pigeons, than he could in any other way. He made obvious the extreme stupidity, in dealing with children or employees, of rewarding behavior one didn’t want more of. Using food rewards, he even caused strong superstitions, predesigned by himself, in his pigeons. He demonstrated, again and again, a great recurring generalized behavioral algorithm in nature: “Repeat behavior that works.”
@@ -3075,9 +2647,6 @@ He also demonstrated that prompt rewards worked much better than delayed rewards
 Later, Skinner lost most of his personal reputation by 1) overclaiming for incentive superpower, to the point of thinking he could create a human utopia with it, and 2) displaying hardly any recognition of the power of the rest of psychology. He thus behaved like one of Jacob Viner’s truffle hounds as he tried to explain everything with incentive effects.
 
 Nonetheless, Skinner was right in his main idea: Incentives are superpowers. The outcome of his basic experiments will always remain in high repute in the annals of experimental science.
-
-> Incentives are superpowers.
-> 
 
 When I was at Harvard Law School, the professors sometimes talked about an overfocused, Skinner-like professor at Yale Law School. They used to say, “Poor old Eddie Blanchard, he thinks declaratory judgments will cure cancer.” Well, that’s the way Skinner got with his very extreme emphasis on incentive superpower. I always call the Johnny-one-note turn of mind that eventually so diminished Skinner’s reputation the man-with-a-hammer tendency, after the folk saying “To a man with only a hammer, every problem looks pretty much like a nail.”
 
@@ -3091,17 +2660,11 @@ One of the doctors who participated in the removal was a family friend, and I as
 
 Now, that’s an extreme case, but in lesser strength, the cognitive drift of that surgeon is present in every profession and in every human being. And it causes perfectly terrible behavior. Consider the presentations of brokers selling commercial real estate and businesses. I’ve never seen one that I thought was even within hailing distance of objective truth. In my long life, I have never seen a management consultant’s report that didn’t end with the same advice: “This problem needs more management consulting services.”
 
-> I have never seen a management consultant’s report that didn’t end with the same advice: “This problem needs more management consulting services.”
-> 
-
 Widespread incentive-caused bias requires that one should often distrust or take with a grain of salt the advice of one’s professional advisor, even if he is an engineer. The general antidotes here are: 1) Especially fear professional advice when it is especially good for the advisor, 2) learn and use the basic elements of your advisor’s trade as you deal with your advisor, and 3) double check, disbelieve, or replace much of what you’re told, to the degree that seems appropriate after objective thought.
 
 The power of incentives to cause rationalized terrible behavior is also demonstrated by Defense Department procurement history. After the Defense Department had much truly awful experience with misbehaving contractors motivated under contracts paying on a cost-plus-a-percentage-of-cost basis, the reaction of our republic was to make it a crime for a contracting officer in the Defense Department to sign such a contract—and not only a crime, but a felony. And, by the way, although the government was right to create this new felony, much of the way the rest of the world is run, including the operation of many law firms and a lot of other firms, is still under what is, in essence, a cost-plus-a-percentage-of-cost reward system.
 
 Human nature, bedeviled by incentive-caused bias, causes a lot of ghastly abuse under these standard incentive patterns of the world. And many of the people who are behaving terribly you would be glad to have married into your family, compared to what you’re otherwise likely to get.
-
-> Human nature, bedeviled by incentive-caused bias, causes a lot of ghastly abuse under these standard incentive patterns of the world.
-> 
 
 Now, there are huge implications from the fact that the human mind is put together this way. One implication is that people who create things like cash registers, which make dishonest behavior hard to accomplish, are some of the effective saints of our civilization because, as Skinner so well knew, bad behavior is intensely habit-forming when it is rewarded. And so the cash register was a great moral instrument when it was created.
 
@@ -3125,9 +2688,6 @@ Somehow incentive-caused bias and its antidotes pretty well escaped the standard
 
 In some cases, other disciplines showed more interest in psychological tendencies than did psychology, at least as explicated in psychology textbooks. For instance, economists, speaking from the employer’s point of view, have long had a name for the natural results of incentive-caused bias: agency cost.
 
-> Economists have long had a name for the natural results of incentive-caused bias: agency cost.
-> 
-
 As the name implies, economists have typically known that, just as grain is always lost to rats, employers always lose to employees who improperly think of themselves first. Employer-installed antidotes include tough internal audit systems and severe public punishment for identified miscreants, as well as misbehavior-preventing routines and such machines as cash registers. From the employee’s point of view, incentive-caused bias quite naturally causes opposing abuse from the employer: the sweatshop, the unsafe workplace, etc. And these bad results for employees have antidotes not only in pressure from unions but also in government action, such as wage and hour laws, workplace safety rules, measures fostering unionization, and workers’ compensation systems. Given the opposing psychology-induced strains that naturally occur in employment because of incentive-caused bias on both sides of the relationship, it is no wonder the Chinese are so much into yin and yang.
 
 The inevitable ubiquity of incentive-caused bias has vast, generalized consequences. For instance, a sales force living only on commissions will be much harder to keep moral than one under less pressure from the compensation arrangement. On the other hand, a purely commissioned sales force may well be more efficient per dollar spent. Therefore, difficult decisions involving trade-offs are common in creating compensation arrangements in the sales function.
@@ -3138,9 +2698,6 @@ Another generalized consequence of incentive-caused bias is that man tends to ga
 
 Also needed in system design is an admonition: Dread, and avoid as much you can, rewarding people for what can be easily faked. Yet our legislators and judges, usually including many lawyers educated in eminent universities, often ignore this injunction. Society consequently pays a huge price in the deterioration of behavior and efficiency, as well as the incurrence of unfair costs and wealth transfers. If education were improved, with psychological reality becoming better taught and assimilated, better system design might well come out of our legislatures and courts.
 
-> Dread, and avoid as much you can, rewarding people for what can be easily faked.
-> 
-
 Of course, money is now the main reward that drives habits. A monkey can be trained to seek and work for an intrinsically worthless token as if it were a banana if the token is routinely exchangeable for a banana. So it is with humans working for money—only more so, because human money is exchangeable for many desired things in addition to food, and one ordinarily gains status from either holding or spending it. Moreover, a rich person will often, through habit, work or connive energetically for more money long after he has almost no real need for more. Averaged out, money is a mainspring of modern civilization, having little precedent in the behavior of nonhuman animals. Money rewards are also intertwined with other forms of reward. For instance, some people use money to buy status, and others use status to get money, while still others sort of do both things at the same time.
 
 Although money is the main driver among rewards, it is not the only reward that works. People also change their behavior and cognition for sex, friendship, companionship, advancement in status, and other nonmonetary items.
@@ -3149,14 +2706,11 @@ Although money is the main driver among rewards, it is not the only reward that 
 
 Granny’s rule, to be specific, is the requirement that children eat their carrots before they get dessert. The business version requires that executives force themselves daily to first do their unpleasant and necessary tasks before rewarding themselves by proceeding to their pleasant tasks. Given reward superpower, this practice is wise and sound. Moreover, the rule can also be used in the non-business part of life. The emphasis on daily use of this practice is not accidental. The consultants well know, after the teaching of Skinner, that prompt rewards work best.
 
-> The consultants well know, after the teaching of Skinner, that prompt rewards work best.
-> 
-
 Punishments, of course, also strongly influence behavior and cognition, although not so flexibly and wonderfully as rewards. For instance, illegal price fixing was fairly common in America when it was customarily punished by modest fines. Then, after a few prominent business executives were removed from their eminent positions and sent to federal prisons, price-fixing behavior was greatly reduced.
 
 Military and naval organizations have very often been extreme in using punishment to change behavior, probably because they needed to cause extreme behavior. Around the time of Caesar, there was a European tribe that, when the assembly horn blew, always killed the last warrior to reach his assigned place, and no one enjoyed fighting this tribe. And George Washington hanged farm-boy deserters 40 feet high as an example to others who might contemplate desertion.
 
-### Two: Liking/loving tendency
+### 2: Liking/loving tendency
 
 A newly hatched baby goose is programmed, through the economy of its genetic program, to love and follow the first creature that is nice to it, which is almost always its mother. But if the mother goose is not present right after the hatching and a man is there instead, the gosling will love and follow the man, who becomes a sort of substitute mother.
 
@@ -3166,9 +2720,6 @@ Each child, like a gosling, will almost surely come to like and love, not only a
 
 And what will a man naturally come to like and love, apart from his parent, spouse, and child? Well, he will like and love being liked and loved. So many a courtship competition will be won by a person displaying exceptional devotion, and man will generally strive, lifelong, for the affection and approval of many people not related to him.
 
-> What will a man naturally come to like and love, apart from his parent, spouse, and child? Well, he will like and love being liked and loved.
-> 
-
 One very practical consequence of liking/loving tendency is that it acts as a conditioning device that makes the liker or lover tend to 1) ignore the faults of, and comply with the wishes of, the object of his affection, 2) favor people, products, and actions merely associated with the object of his affection, as we shall see when we get to influence-from-mere-association tendency, and 3) distort other facts to facilitate love.
 
 The phenomenon of liking and loving causing admiration also works in reverse. Admiration also causes or intensifies liking or love. With this feedback mode in place, the consequences are often extreme, sometimes even causing deliberate self-destruction to help what is loved.
@@ -3177,7 +2728,7 @@ Liking or loving, intertwined with admiration in a feedback mode, often has vast
 
 There are large social policy implications in the amazingly good consequences that ordinarily come from people likely to trigger extremes of love and admiration boosting each other in a feedback mode. For instance, it is obviously desirable to attract a lot of lovable, admirable people into the teaching profession.
 
-### Three: Disliking/hating tendency
+### 3: Disliking/hating tendency
 
 In a pattern obverse to liking/loving tendency, the newly arrived human is also born to dislike and hate, as triggered by normal and abnormal triggering forces in its life. It is the same with most apes and monkeys. As a result, the long history of man contains almost continuous war. Even with the spread of religion and the advent of advanced civilization, much modern war remains pretty savage. But we also get what we observe in present-day Switzerland and the United States, wherein the clever political arrangements of man channel the hatreds and dislikings of individuals and groups into nonlethal patterns, including elections.
 
@@ -3185,12 +2736,9 @@ But the dislikings and hatreds never go away completely. Born into man, these dr
 
 At the family level, we often see one sibling hate his other siblings and litigate with them endlessly if he can afford it. Indeed, a wag named Buffett has repeatedly explained to me that “a major difference between rich and poor people is that the rich people can spend their lives suing their relatives.” My father’s law practice in Omaha was full of such intrafamily hatreds. When I got to the Harvard Law School and its professors taught me property law with no mention of sibling rivalry in the family business, I appraised the school as a pretty unrealistic place that wore blinders like the milk-wagon horses of yore. My current guess is that sibling rivalry has not yet made it into property law as taught at Harvard.
 
-> My current guess is that sibling rivalry has not yet made it into property law as taught at Harvard.
-> 
-
 Disliking/hating tendency also acts as a conditioning device that makes the disliker/hater tend to 1) ignore virtues in the object of dislike, 2) dislike people, products, and actions merely associated with the object of his dislike, and 3) distort other facts to facilitate hatred.
 
-### Four: Doubt-avoidance tendency
+### 4: Doubt-avoidance tendency
 
 The brain of man is programmed with a tendency to quickly remove doubt by reaching some decision.
 
@@ -3204,7 +2752,7 @@ What triggers doubt-avoidance tendency? Well, an unthreatened man, thinking of n
 
 Thus, the natural state of most men is in some form of religion. And this is what we observe.
 
-### Five: Inconsistency-avoidance tendency
+### 5: Inconsistency-avoidance tendency
 
 The brain of man conserves programming space by being reluctant to change, which is a form of inconsistency avoidance. We see this in all human habits, constructive and destructive. Few people can list a lot of bad habits that they have eliminated, and some people cannot identify even one of these. Instead, practically everyone has a great many bad habits he has long maintained despite their being known as bad.
 
@@ -3212,23 +2760,17 @@ Given this situation, it is not too much in many cases to appraise early-formed 
 
 The rare life that is wisely lived has in it many good habits maintained and many bad habits avoided or cured. The great rule that helps here is again from Franklin’s *Poor Richard’s Almanack:* “An ounce of prevention is worth a pound of cure.” What Franklin is here indicating, in part, is that inconsistency-avoidance tendency makes it much easier to prevent a habit than to change it.
 
-> The rare life that is wisely lived has in it many good habits maintained and many bad habits avoided or cured.
-> 
-
 Also tending to be maintained in place by the anti-change tendency of the brain are one’s previous conclusions, human loyalties, reputational identity, commitments, accepted role in a civilization, etc. It is not entirely clear why evolution would program into man’s brain an anti-change mode alongside his tendency to quickly remove doubt. My guess is the anti-change mode was significantly caused by a combination of the following factors:
 
-- It facilitated faster decisions when speed of decision was an important contribution to the survival of nonhuman ancestors that were prey.
-- It facilitated the survival advantage that our ancestors gained by cooperating in groups, which would have been more difficult to do if everyone was always changing responses.
-- It was the best form of solution that evolution could get to in the limited number of generations between the start of literacy and today’s complex modern life.
+1. It facilitated faster decisions when speed of decision was an important contribution to the survival of nonhuman ancestors that were prey.
+2. It facilitated the survival advantage that our ancestors gained by cooperating in groups, which would have been more difficult to do if everyone was always changing responses.
+3. It was the best form of solution that evolution could get to in the limited number of generations between the start of literacy and today’s complex modern life.
 
 It is easy to see that a quickly reached conclusion, triggered by doubt-avoidance tendency, when combined with a tendency to resist any change in that conclusion, will naturally cause a lot of errors in cognition for modern man. And so it observably works out. We all deal much with others whom we correctly diagnose as imprisoned in poor conclusions that are maintained by mental habits they formed early and will carry to their graves.
 
 So great is the bad-decision problem caused by inconsistency-avoidance tendency that our courts have adopted important strategies against it. For instance, before making decisions, judges and juries are required to hear long and skillful presentations of evidence and arguments from the side they will not naturally favor, given their ideas in place. This helps prevent considerable bad thinking from first-conclusion bias. Similarly, other modern decision-makers will often force groups to consider skillful counterarguments before making decisions.
 
 Proper education is one long exercise in the augmentation of high cognition so that our wisdom becomes strong enough to destroy wrong thinking maintained by resistance to change. As Lord Keynes pointed out about his exalted intellectual group at one of the greatest universities in the world, it was not the intrinsic difficulty of new ideas that prevented their acceptance. Instead, the new ideas were not accepted because they were inconsistent with old ideas in place.
-
-> Proper education is one long exercise in the augmentation of high cognition so that our wisdom becomes strong enough to destroy wrong thinking maintained by resistance to change.
-> 
 
 What Keynes was reporting is that the human mind works a lot like the human egg. When one sperm gets into a human egg, there’s an automatic shut-off device that bars any other sperm from getting in. The human mind tends strongly toward the same sort of result. And so, people tend to accumulate large mental holdings of fixed conclusions and attitudes that are not often reexamined or changed, even though there is plenty of good evidence that they are wrong.
 
@@ -3237,9 +2779,6 @@ Moreover, this doesn’t just happen in social science departments, like the one
 Indeed, precisely this sort of brain-blocking happened to a degree in Einstein. At his peak, Einstein was a great destroyer of his own ideas, but an older Einstein never accepted the full implications of quantum mechanics.
 
 One of the most successful users of an antidote to first-conclusion bias was Charles Darwin. He trained himself, early, to intensively consider any evidence tending to disconfirm any hypothesis of his, more so if he thought his hypothesis was a particularly good one. The opposite of what Darwin did is now called confirmation bias, a term of opprobrium. Darwin’s practice came from his acute recognition of man’s natural cognitive faults arising from inconsistency-avoidance tendency. He provides a great example of psychological insight correctly used to advance some of the finest mental work ever done.
-
-> Darwin trained himself to intensively consider any evidence tending to disconfirm any hypothesis of his, more so if he thought his hypothesis was a particularly good one.
-> 
 
 Inconsistency-avoidance tendency has many good effects in civilization. For instance, rather than act inconsistently with public commitments, new or old public identities, etc., most people are more loyal in their roles in life as priests, physicians, citizens, soldiers, spouses, teachers, employees, etc.
 
@@ -3257,17 +2796,11 @@ Given the psychology-based hostility natural in prisons between guards and priso
 
 So strong is inconsistency-avoidance tendency that it will often prevail after one has merely pretended to have some identity, habit, or conclusion. Thus, for a while, many an actor sort of believes he is Hamlet, prince of Denmark. And many a hypocrite is improved by his pretensions of virtue. And many a judge and juror, while pretending objectivity, is gaining objectivity. And many a trial lawyer or other advocate comes to believe what he formerly only pretended to believe.
 
-> Many a hypocrite is improved by his pretensions of virtue. And many a judge and juror, while pretending objectivity, is gaining objectivity.
-> 
-
 While inconsistency-avoidance tendency, with its status quo bias, immensely harms sound education, it also causes much benefit. For instance, a near-ultimate inconsistency would be to teach something to others that one did not believe true. So, in clinical medical education, the learner is forced to “see one, do one, then teach one,” with the teaching pounding the learning into the teacher. Of course, the power of teaching to influence the cognition of the teacher is not always a benefit to society. When such power flows into political and cult evangelism, there are often bad consequences.
 
 For instance, modern education often does much damage when young students are taught dubious political notions and then enthusiastically push these notions on the rest of us. The pushing seldom convinces others. But as students pound into their mental habits what they are pushing out, the students are often permanently damaged. Educational institutions that create a climate where much of this goes on are, I think, irresponsible. It is important not to thus put one’s brain in chains before one has come anywhere near his full potentiality as a rational person.
 
-> It is important not to put one’s brain in chains before one has come anywhere near his full potentiality as a rational person.
-> 
-
-### Six: Curiosity tendency
+### 6: Curiosity tendency
 
 There is a lot of innate curiosity in mammals, but its nonhuman version is highest among apes and monkeys. Man’s curiosity, in turn, is much stronger than that of his simian relatives.
 
@@ -3275,7 +2808,7 @@ In advanced human civilization, culture greatly increases the effectiveness of c
 
 Curiosity, enhanced by the best of modern education—which is, by definition, a minority part in many places)—much helps man to prevent or reduce bad consequences arising from other psychological tendencies. The curious are also provided with much fun and wisdom long after formal education has ended.
 
-### Seven: Kantian fairness tendency
+### 7: Kantian fairness tendency
 
 Kant was famous for his categorical imperative, a sort of golden rule that required humans to follow those behavior patterns that, if followed by all others, would make the surrounding human system work best for everybody. It is not too much to say that modern acculturated man displays, and expects from others, a lot of fairness as thus defined by Kant.
 
@@ -3283,7 +2816,7 @@ In a small community having a one-way bridge or tunnel for autos, it is the norm
 
 It is interesting how the world’s slavery was pretty well abolished during the last three centuries after being tolerated for a great many previous centuries during which it coexisted with the world’s major religions. My guess is that Kantian fairness tendency was a major contributor to this result.
 
-### Eight: Envy/jealousy tendency
+### 8: Envy/jealousy tendency
 
 A member of a species designed through evolutionary process to want often scarce food is going to be driven strongly toward getting food when it first sees food. This is going to occur often, and will tend to create some conflict when the food is seen in the possession of another member of the same species. This is probably the evolutionary origin of the envy/jealousy tendency that lies so deep in human nature.
 
@@ -3293,25 +2826,19 @@ Envy/jealousy is extreme in myth, religion, and literature, wherein, in account 
 
 Envy/jealousy is also extreme in modern life. For instance, university communities often go bananas when some university employee in money management or some professor in surgery gets annual compensation in multiples of the standard professorial salary. And in modern investment banks, law firms, etc., the envy/jealousy effects are usually more extreme than they are in university faculties. Many big law firms, fearing disorder from envy/jealousy, have long treated all senior partners alike in compensation, no matter how different their contributions to firm welfare. As I have shared the observation of life with Warren Buffett over decades, I have heard him wisely say on several occasions, “It is not greed that drives the world, but envy.”
 
-> “It is not greed that drives the world, but envy.”
-> 
-
 And because this is roughly right, one would expect a vast coverage of envy/jealousy in psychology textbooks. But no such vast coverage existed when I read my three textbooks. Indeed, the very words “envy” and “jealousy” were often absent from indexes.
 
 Non-discussion of envy/jealousy is not a phenomenon confined to psychology texts. When did any of you last engage in any large group discussion of some issue wherein adult envy/jealousy was identified as the cause of someone’s argument? There seems to be a general taboo against any such claim. If so, what accounts for the taboo?
 
 My guess is that people widely and generally sense that labeling some position as driven by envy/jealousy will be regarded as extremely insulting to the position taker, possibly more so when the diagnosis is correct than when it is wrong. And if calling a position envy-driven is perceived as the equivalent of describing its holder as a childish mental basket case, then it is quite understandable how a general taboo has arisen. But should this general taboo extend to psychology texts when it creates such a large gap in the correct psychological explanation of what is widespread and important? My answer is no.
 
-### Nine: Reciprocation tendency
+### 9: Reciprocation tendency
 
 The automatic tendency of humans to reciprocate both favors and disfavors has long been noticed as extreme, as it is in apes, monkeys, dogs, and many less cognitively gifted animals. The tendency clearly facilitates group cooperation for the benefit of members. In this respect, it mimics much genetic programming of the social insects.
 
 We see the extreme power of the tendency to reciprocate disfavors in some wars, wherein it increases hatred to a level causing very brutal conduct. For long stretches in many wars, no prisoners were taken, the only acceptable enemy being a dead one. And sometimes that was not enough, as in the case of Genghis Khan, who was not satisfied with corpses. He insisted on their being hacked into pieces.
 
 One interesting mental exercise is to compare Genghis Khan, who exercised extreme, lethal hostility toward other men, with ants that display extreme, lethal hostility toward members of their own species that are not part of their breeding colony. Genghis looks sweetly lovable when compared to the ants. The ants are more disposed to fight, and fight with more extreme cruelty. Indeed, E. O. Wilson once waggishly suggested that if ants were suddenly to get atom bombs, all ants would be dead within 18 hours.
-
-> If ants were suddenly to get atom bombs, all ants would be dead within 18 hours.
-> 
 
 What both human and ant history suggest is that 1) nature has no general algorithm making intraspecies, turn-the-other-cheek behavior a booster of species survival, 2) it is not clear that a country would have good prospects were it to abandon all reciprocate-disfavor tendency directed at outsiders, and 3) if turn-the-other-cheek behavior is a good idea for a country as it deals with outsiders, man’s culture is going to have to do a lot of heavy lifting because his genes won’t be of much help.
 
@@ -3320,9 +2847,6 @@ I next turn to man’s reciprocated hostility that falls well short of war. Peac
 Of course, the tendency to reciprocate favor for favor is also very intense, so much so that it occasionally reverses the course of reciprocated hostility. Weird pauses in fighting have sometimes occurred right in the middle of wars, triggered by some minor courtesy or favor on the part of one side, followed by favor reciprocation from the other side, and so on, until fighting stopped for a considerable period. This happened more than once in the trench warfare of World War I, over big stretches of the front and much to the dismay of the generals.
 
 It is obvious that commercial trade, a fundamental cause of modern prosperity, is enormously facilitated by man’s innate tendency to reciprocate favors. In trade, enlightened self-interest joining with reciprocation tendency results in constructive conduct. Daily interchange in marriage is also assisted by reciprocation tendency, without which marriage would lose much of its allure.
-
-> Daily interchange in marriage is also assisted by reciprocation tendency, without which marriage would lose much of its allure.
-> 
 
 Reciprocation tendency, insomuch as it causes good results, does not join forces only with the superpower of incentives. It also joins inconsistency-avoidance tendency in helping cause 1) the fulfillment of promises made as part of a bargain, including loyalty promises in marriage ceremonies, and 2) correct behavior expected from persons serving as priests, shoemakers, physicians, and all else.
 
@@ -3340,23 +2864,17 @@ What Cialdini’s compliance practitioners had done was make a small concession,
 
 Why is reciprocation tendency so important? Well, consider the folly of having law students graduate and go out in the world representing clients in negotiations, not knowing the nature of the subconscious processes of the mind as exhibited in Cialdini’s experiment. Yet such folly was prevalent in the law schools of the world for decades, in fact generations. The correct name for that is educational malpractice. The law schools didn’t know, or care to teach, what Sam Walton so well knew.
 
-> The law schools didn’t know, or care to teach, what Sam Walton so well knew.
-> 
-
 The importance and power of reciprocation tendency was also demonstrated in Cialdini’s explanation of the foolish decision of the attorney general of the United States to authorize the Watergate burglary. There, an aggressive subordinate made some extreme proposal for advancing Republican interests through the use of some combination of whores and a gigantic yacht. When this ridiculous request was rejected, the subordinate backed off, in gracious concession, to merely asking for consent to a burglary, and the attorney general went along. Cialdini believes that subconscious reciprocation tendency thus became one important cause of the resignation of a United States president in the Watergate debacle, and so do I. Reciprocation tendency subtly causes many extreme and dangerous consequences, not just on rare occasions but pretty much all the time.
 
 Man’s belief in reciprocation tendency, following eons of his practicing it, has done some queer and bad things in religions. The ritualized murder of the Phoenicians and the Aztecs, in which they sacrificed human victims to their gods, was a particularly egregious example. And we should not forget that as late as the Punic Wars, the civilized Romans, out of fear of defeat, returned in a few instances to the practice of human sacrifice. On the other hand, the reciprocity-based, religion-boosting idea of obtaining help from God in reciprocation for good human behavior has probably been vastly constructive.
 
 Overall, both inside and outside religions, it seems clear to me that reciprocation tendency’s constructive contributions to man far outweigh its destructive effects. In cases of psychological tendencies being used to counter or prevent bad results from one or more other psychological tendencies—for instance, in the case of interventions to end chemical dependency—you will usually find reciprocation tendency performing strongly on the constructive side. And the very best part of human life probably lies in relationships of affection wherein parties are more interested in pleasing than being pleased—a not-uncommon outcome in display of reciprocation tendency.
 
-> The very best part of human life probably lies in relationships of affection wherein parties are more interested in pleasing than being pleased.
-> 
-
 Before we leave reciprocation tendency, the final phenomenon we will consider is widespread human misery from feelings of guilt. To the extent the feeling of guilt has an evolutionary base, I believe the most plausible cause is the mental conflict triggered in one direction by reciprocation tendency and in the opposite direction by reward-superresponse tendency pushing one to 100 percent of some good thing.
 
 Of course, human culture has often greatly boosted the genetic tendency to suffer from feelings of guilt. Most especially, religious culture has imposed hard-to-follow ethical and devotional demands on people. There is a charming Irish Catholic priest in my neighborhood who, with rough accuracy, often says, “The old Jews may have invented guilt, but we Catholics perfected it.” And if you, like me and this priest, believe that, averaged out, feelings of guilt do more good than harm, you may join in my special gratitude for reciprocation tendency, no matter how unpleasant you find feelings of guilt.
 
-### Ten: Influence-from-mere-association tendency
+### 10: Influence-from-mere-association tendency
 
 In the standard conditioned reflexes studied by Skinner and most common in the world, responsive behavior, creating a new habit, is directly triggered by rewards previously bestowed. For instance, a man buys a can of branded shoe polish, has a good experience with it when shining his shoes, and because of this “reward,” buys the same shoe polish when he needs another can.
 
@@ -3365,9 +2883,6 @@ But there is another type of conditioned reflex wherein mere association trigger
 This industrial practice frequently is effective in driving up sales, and even more so in driving up profits. For instance, it worked wonderfully with high-priced power tools for a long time, and it would work better yet with high-priced pumps at the bottom of oil wells. With luxury goods, the process works with a special boost because buyers who pay high prices often gain extra status from thus demonstrating both their good taste and their ability to pay.
 
 Even association that appears to be trivial, if carefully planned, can have extreme and peculiar effects on purchasers of products. The target purchaser of shoe polish may like pretty girls, so he chooses the polish with the pretty girl on the can or the one with the pretty girl in the last ad for shoe polish that he saw.
-
-> Even association that appears to be trivial, if carefully planned, can have extreme and peculiar effects on purchasers of products.
-> 
 
 Advertisers know about the power of mere association. You won’t see Coke advertised alongside some account of the death of a child. Instead, Coke ads picture life as happier than reality. Similarly, it is not from mere chance that military bands play such impressive music. That kind of music, appearing in mere association with military service, helps to attract soldiers and keep them in the army. Most armies have learned to use mere association in this successful way.
 
@@ -3379,17 +2894,17 @@ The proper antidotes to being made such a patsy by past success are 1) to carefu
 
 The damage to the mind that can come from liking and loving was once demonstrated by obviously false testimony given by an otherwise very admirable woman, the wife of a party in a jury case. The famous opposing counsel wanted to minimize his attack on such an admirable woman yet destroy the credibility of her testimony. And so, in his closing argument, he came to her testimony last. He then shook his head sadly and said, “What are we to make of such testimony? The answer lies in the old rhyme:
 
-> “‘As the husband is, So the wife is. She is married to a clown, And the grossness of his nature Drags her down.’”
-> 
+> As the husband is,
+So the wife is.
+She is married to a clown,
+And the grossness of his nature
+Drags her down.
 
 The jury disbelieved the woman’s testimony. They easily recognized the strong misinfluence of love on her cognition. And we now often see even stronger misinfluence from love as tearful mothers, with heartfelt conviction, declare before TV cameras the innocence of their obviously guilty sons.
 
 People disagree about how much blindness should accompany the association called love. In *Poor Richard’s Almanack*, Franklin counseled, “Keep your eyes wide open before marriage and half shut thereafter.” Perhaps this eyes-half-shut solution is about right, but I favor a tougher prescription: “See it like it is and love anyway.”
 
 Hating and disliking also cause miscalculation triggered by mere association. In business, I commonly see people under-appraise both the competency and morals of competitors they dislike. This is a dangerous practice, usually disguised because it occurs on a subconscious basis.
-
-> I commonly see people under-appraise both the competency and morals of competitors they dislike. This is a dangerous practice, usually disguised because it occurs on a subconscious basis.
-> 
 
 Another common bad effect from the mere association of a person and a hated outcome is displayed in Persian messenger syndrome. Ancient Persians actually killed some messengers whose sole fault was that they brought home truthful bad news, say, of a battle lost. It was actually safer for the messenger to run away and hide instead of doing his job as a wiser boss would have wanted it done.
 
@@ -3401,9 +2916,6 @@ CBS, in its late heyday, was famous for the occurrence of Persian messenger synd
 
 The proper antidote to creating Persian messenger syndrome and its bad effects, like those at CBS, is to develop, through exercise of will, a habit of welcoming bad news. At Berkshire, there is a common injunction: “Always tell us the bad news promptly. It is only the good news that can wait.” It also helps to be so wise and informed that people fear not telling you bad news because you are so likely to get it elsewhere.
 
-> At Berkshire, there is a common injunction: “Always tell us the bad news promptly. It is only the good news that can wait.”
-> 
-
 Influence-from-mere-association tendency often has a shocking effect that helps swamp the normal tendency to return favor for favor. Sometimes, when one receives a favor, his condition is unpleasant, due to poverty, sickness, subjugation, or something else. In addition, the favor may trigger an envy-driven dislike for the person who was in so favorable a state that he could easily be a favor giver. Under such circumstances, the favor receiver, prompted partly by mere association of the favor giver with past pain, will not only dislike the man who helped him but also try to injure him. This accounts for a famous response, sometimes dubiously attributed to Henry Ford: “Why does that man hate me so? I never did anything for him.”
 
 I have a friend, whom I will now call Glotz, who had an amusing experience in favor-giving. Glotz owned an apartment building that he had bought because he wanted, eventually, to use the land in a different development. Pending this outcome, Glotz was very lenient in collecting below-market rents from tenants. When, at last, there was a public hearing on Glotz’s proposal to tear down the building, one tenant who was far behind in his rent payments was particularly angry and hostile. He came to the public hearing and said, “This proposal is outrageous. Glotz doesn’t need any more money. I know this because I was supported in college by Glotz fellowships.”
@@ -3412,7 +2924,7 @@ A final serious clump of bad thinking caused by mere association lies in the com
 
 This sort of wrong thinking is both natural and common. Pete’s antidote is not to believe that, on average, 90-year-olds think as well as 40-year-olds, or that there are as many females as males among PhDs in math. Instead, just as he must learn that trend does not always correctly predict destiny, he must learn that the average dimension in some group will not reliably guide him to the dimension of some specific item. Otherwise, Pete will make many errors, like that of the fellow who drowned in a river that averaged out to only 18 inches deep.
 
-### Eleven: Simple, pain-avoiding psychological denial
+### 11: Simple, pain-avoiding psychological denial
 
 This phenomenon first hit me hard in World War II when the super-athlete, super-student son of a family friend flew off over the Atlantic Ocean and never came back. His mother, who was a very sane woman, then refused to believe he was dead. That’s simple, pain-avoiding psychological denial. The reality is too painful to bear, so one distorts the facts until they become bearable. We all do that to some extent, often causing terrible problems. The tendency’s most extreme outcomes are usually mixed up with love, death, and chemical dependency.
 
@@ -3420,7 +2932,7 @@ Where denial is used to make dying easier, the conduct meets almost no criticism
 
 In chemical dependency, wherein morals usually break down horribly, addicted persons tend to believe that they remain in respectable condition, with respectable prospects. They thus display an extremely unrealistic denial of reality as they go deeper and deeper into deterioration. In my youth, Freudian remedies failed utterly in reversing chemical dependency, but nowadays Alcoholics Anonymous routinely achieves a 50 percent cure rate by causing several psychological tendencies to act together to counter addiction. However, the cure process is typically difficult and draining, and a 50 percent success rate implies a 50 percent failure rate. One should stay far away from any conduct at all likely to drift into chemical dependency. Even a small chance of suffering so great a damage should be avoided.
 
-### Twelve: Excessive self-regard tendency
+### 12: Excessive self-regard tendency
 
 We all commonly observe the excessive self-regard of man. He mostly misappraises himself on the high side, like the 90 percent of Swedish drivers who judge themselves to be above average. Such misappraisals also apply to a person’s major “possessions.” One spouse usually over-appraises the other spouse. And a man’s children are likewise appraised higher by him than they are likely to be in a more objective view.
 
@@ -3429,9 +2941,6 @@ Even man’s minor possessions tend to be over-appraised. Once owned, they sudde
 Man’s excess of self-regard typically makes him strongly prefer people like himself. Psychology professors have had much fun demonstrating this effect in lost wallet experiments. Their experiments all show that the finder of a lost wallet containing identity clues will be most likely to return the wallet when the owner most closely resembles the finder. Given this quality in psychological nature, cliquish groups of similar persons will always be a very influential part of human culture, even after we wisely try to dampen the worst effects.
 
 Some of the worst consequences in modern life come when dysfunctional groups of cliquish persons, dominated by excessive self-regard tendency, select as new members of their organizations persons who are very much like themselves. Thus, if the English department at an elite university becomes mentally dysfunctional, or the sales department of a brokerage firm slips into routine fraud, the problem will have a natural tendency to get worse and be quite resistant to change for the better. So also with a police department or prison guard unit or political group gone sour, and countless other places mired in evil and folly, such as the worst of our big-city teachers’ unions that harm our children by preventing the discharge of ineffective teachers. Therefore, some of the most useful members of our civilization are those who are willing to clean house when they find a mess under their ambit of control.
-
-> Some of the most useful members of our civilization are those who are willing to clean house when they find a mess under their ambit of control.
-> 
 
 Well, naturally, all forms of excess of self-regard cause much error. How could it be otherwise?
 
@@ -3465,15 +2974,9 @@ While an excess of self-regard is often counterproductive in its effects on cogn
 
 Of course, some high self-appraisals are correct and serve better than false modesty. Moreover, self-regard in the form of a justified pride in a job well done, or a life well lived, is a large constructive force. Without such justified pride, many more airplanes would crash. “Pride” is another word generally left out of psychology textbooks, and this omission is not a good idea. It is also not a good idea to construe the Bible’s parable about the Pharisee and the publican as condemning all pride.
 
-> Self-regard in the form of a justified pride in a job well done, or a life well lived, is a large constructive force. Without such justified pride, many more airplanes would crash.
-> 
-
-> “And he spake this parable unto certain which trusted in themselves that they were righteous, and despised others: Two men went up into the temple to pray; the one a Pharisee, and the other a publican. The Pharisee stood and prayed thus with himself, God, I thank thee, that I am not as other men are, extortioners, unjust, adulterers, or even as this publican. I fast twice in the week, I give tithes of all that I possess. And the publican, standing afar off, would not lift up so much as his eyes unto heaven, but smote upon his breast, saying, God be merciful to me a sinner. I tell you, this man went down to his house justified rather than the other: for every one that exalteth himself shall be abased; and he that humbleth himself shall be exalted.”
-> 
-
 Of all forms of useful pride, perhaps the most desirable is a justified pride in being trustworthy. Moreover, the trustworthy man, even after allowing for the inconveniences of his chosen course, ordinarily has a life that averages out better than he would have if he provided less reliability.
 
-### Thirteen: Overoptimism tendency
+### 13: Overoptimism tendency
 
 About three centuries before the birth of Christ, Demosthenes, the most famous Greek orator, said, “What a man wishes, that also will he believe.”
 
@@ -3483,10 +2986,7 @@ The Greek orator was clearly right about an excess of optimism being the normal 
 
 One standard antidote to foolish optimism is trained, habitual use of the simple probability math of Fermat and Pascal, taught in my youth to high school sophomores. The mental rules of thumb that evolution gives you to deal with risk are not adequate. They resemble the dysfunctional golf grip you would have if you relied on a grip driven by evolution instead of golf lessons.
 
-> The mental rules of thumb that evolution gives you to deal with risk are not adequate. They resemble the dysfunctional golf grip you would have if you relied on a grip driven by evolution instead of golf lessons.
-> 
-
-### Fourteen: Deprival-superreaction tendency
+### 14: Deprival-superreaction tendency
 
 The quantity of man’s pleasure from a $10 gain does not exactly match the quantity of his displeasure from a $10 loss. That is, the loss seems to hurt much more than the gain seems to help. Moreover, if a man almost gets something he greatly wants and has it jerked away from him at the last moment, he will react much as if he had long owned the reward and had it jerked away. I include the natural human reactions to both kinds of loss experience—the loss of the possessed reward and the loss of the almost-possessed reward—under one description, deprival-superreaction tendency.
 
@@ -3512,23 +3012,17 @@ Deprival-superreaction tendency is also a huge contributor to ruin from the comp
 
 Deprival-superreaction tendency often does much damage to man in open-outcry auctions. The social proof that we will next consider tends to convince man that the last price from another bidder was reasonable, and then deprival-superreaction tendency prompts him strongly to top the last bid. The best antidote to being thus triggered into paying foolish prices at open-outcry auctions is the simple Buffett practice: Don’t go to such auctions.
 
-> The best antidote to being triggered into paying foolish prices at open-outcry auctions is the simple Buffett practice: Don’t go to such auctions.
-> 
-
 Deprival-superreaction tendency and inconsistency-avoidance tendency often join to cause one form of business failure. In this form of ruin, a man gradually uses up all his good assets in a fruitless attempt to rescue a big venture going bad. One of the best antidotes to this folly is good poker skill learned young. The teaching value of poker demonstrates that not all effective teaching occurs on a standard academic path.
 
 I, myself, the would-be instructor here, many decades ago made a big mistake caused in part by the subconscious operation of my deprival-superreaction tendency. A friendly broker called and offered me 300 shares of ridiculously underpriced, very thinly traded Belridge Oil at $115 per share, which I purchased using cash I had on hand. The next day, he offered me 1,500 more shares at the same price, which I declined to buy, partly because I could only have made the purchase had I sold something or borrowed the required $173,000.
 
 This was a very irrational decision. I was a well-to-do man with no debt; there was no risk of loss, and similar no-risk opportunities were not likely to come along. Within two years, Belridge Oil sold out to Shell at a price of about $3,700 per share, which made me about $5.4 million poorer than I would have been had I then been psychologically acute. As this tale demonstrates, psychological ignorance can be very expensive.
 
-> Psychological ignorance can be very expensive.
-> 
-
 Some people may question my defining deprival-superreaction tendency to include reaction to profit barely missed, as in the well-documented responses of slot machine players. However, I believe that I haven’t defined the tendency as broadly as I should.
 
 My reason for suggesting an even broader definition is that many Berkshire Hathaway shareholders I know never sell or give away a single share after immense gains in market value have occurred. Some of this reaction is caused by rational calculation, and some is, no doubt, attributable to some combination of 1) reward superresponse, 2) status quo bias from inconsistency-avoidance tendency, and 3) the endowment effect from excessive self-regard tendency. But I believe the single strongest irrational explanation is a form of deprival-superreaction tendency. Many of these shareholders simply can’t stand the idea of having their Berkshire Hathaway holdings smaller. Partly they dislike facing what they consider an impairment of identity, but mostly they fear missing out on future gains from stock sold or given away.
 
-### Fifteen: Social-proof tendency
+### 15: Social-proof tendency
 
 The otherwise complex behavior of man is much simplified when he automatically thinks and does what he observes to be thought and done around him. Such followership often works fine. For instance, what simpler way could there be to find out how to walk to a big football game in a strange city than by following the flow of the crowd? For some such reason, man’s evolution left him with social-proof tendency, an automatic tendency to think and act as he sees others around him thinking and acting.
 
@@ -3537,9 +3031,6 @@ Psychology professors love social-proof tendency because in their experiments it
 And, of course, teenagers’ parents usually learn more than they would like about teenagers’ cognitive errors from social-proof tendency. This phenomenon was recently involved in a breakthrough by Judith Rich Harris, who demonstrated that super-respect by young people for their peers, rather than for parents or other adults, is ordained to some considerable extent by the genes of the young people. This makes it wise for parents to rely more on manipulating the quality of the peers than on exhortations to their own offspring. A person like Ms. Harris, who can provide an insight of this quality and utility backed by new reasons, has not lived in vain.
 
 In the highest reaches of business, it is not uncommon to find leaders who display followership akin to that of teenagers. If one oil company foolishly buys a mine, other oil companies often quickly join in buying mines. So too if the purchased company makes fertilizer. Both of these oil company buying fads actually bloomed, with bad results.
-
-> In the highest reaches of business, it is not uncommon to find leaders who display followership akin to that of teenagers.
-> 
 
 Of course, it is difficult to identify and correctly weigh all the possible ways to deploy the cash flow of an oil company. So oil company executives, like everyone else, have made many bad decisions that were quickly triggered by discomfort from doubt. Going along with social proof provided by the action of other oil companies ends this discomfort in a natural way.
 
@@ -3567,10 +3058,7 @@ Outside domestic relations, it is rare now to try to resolve disputes by techniq
 
 If only one lesson is to be chosen from a package of lessons involving social-proof tendency and used in self-improvement, my favorite would be: Learn how to ignore the examples from others when they are wrong, because few skills are more worth having.
 
-> Learn how to ignore the examples from others when they are wrong, because few skills are more worth having.
-> 
-
-### Sixteen: Contrast-misreaction tendency
+### 16: Contrast-misreaction tendency
 
 Because the nervous system of man does not naturally measure in absolute scientific units, it must instead rely on something simpler. The eyes have a solution that limits their programming needs: The contrast in what is seen is registered. And. as in sight, so does it go, largely, in the other senses. Moreover, as perception goes, so goes cognition. The result is man’s contrast-misreaction tendency.
 
@@ -3584,12 +3072,9 @@ When a man’s steps are consecutively taken toward disaster, with each step bei
 
 A bridge-playing pal of mine once told me that a frog tossed into very hot water would jump out, but the same frog would end up dying if placed in room-temperature water that was later heated at a very slow rate. My few shreds of physiological knowledge make me doubt this account. But no matter, because many businesses die in just the manner claimed by my friend for the frog. Cognition, misled by tiny changes involving low contrast, will often miss a trend that is destiny.
 
-> Cognition, misled by tiny changes involving low contrast, will often miss a trend that is destiny.
-> 
-
 One of Ben Franklin’s best-remembered and most useful aphorisms is “A small leak will sink a great ship.” The utility of the aphorism is large precisely because the brain so often misses the functional equivalent of a small leak in a great ship.
 
-### Seventeen: Stress-influence tendency
+### 17: Stress-influence tendency
 
 Everyone recognizes that sudden stress, for instance from a threat, will cause a rush of adrenaline in the human body, prompting a faster and more extreme reaction. And everyone who has taken Psych 101 knows that stress makes social-proof tendency more powerful. In a phenomenon less well recognized but still widely known, light stress can slightly improve performance—say, in examinations—whereas heavy stress causes dysfunction.
 
@@ -3609,7 +3094,7 @@ I first found a description of Pavlov’s last work in a popular paperback, writ
 
 I never wanted to get into the legal controversy that existed about this subject. But I did conclude that the controversy couldn’t be handled with maximized rationality without considering whether, as Pavlov’s last work suggests, the heavy-handed imposition of stress might be the only reversal method that would work to remedy one of the worst evils imaginable: a stolen mind. I have included this discussion of Pavlov 1) partly out of general antagonism toward taboos, 2) partly to make my talk reasonably complete as it considers stress, and 3) partly because I hope some listener may continue my inquiry with more success.
 
-### Eighteen: Availability-misweighing tendency
+### 18: Availability-misweighing tendency
 
 This mental tendency echoes the words of the song “When I’m not near the girl I love, I love the girl I’m near.” Man’s imperfect, limited-capacity brain easily drifts into working with what’s easily available to it. And the brain can’t use what it can’t remember or what it is blocked from recognizing because it is heavily influenced by one or more psychological tendencies bearing strongly on it, as the fellow is influenced by the nearby girl in the song. So the mind overweighs what is easily available and thus displays availability-misweighing tendency.
 
@@ -3621,10 +3106,7 @@ Still, the special strength of extra-vivid images in influencing the mind can be
 
 The great algorithm to remember in dealing with this tendency is simple: An idea or a fact is not worth more merely because it is easily available to you.
 
-> An idea or a fact is not worth more merely because it is easily available to you.
-> 
-
-### Nineteen: Use-it-or-lose-it tendency
+### 19: Use-it-or-lose-it tendency
 
 All skills attenuate with disuse. I was a whiz at calculus until age 20, after which the skill was soon obliterated by total nonuse. The right antidote to such a loss is to make use of the functional equivalent of the aircraft simulator employed in pilot training. This allows a pilot to continuously practice all of the rarely used skills that he can’t afford to lose.
 
@@ -3634,20 +3116,17 @@ Skills of a very high order can be maintained only with daily practice. The pian
 
 The hard rule of use-it-or-lose-it tendency tempers its harshness for the diligent. If a skill is raised to fluency, instead of merely being crammed in briefly to enable one to pass some test, then the skill 1) will be lost more slowly, and 2) will come back faster when refreshed with new learning. These are not minor advantages, and a wise man engaged in learning some important skill will not stop until he is really fluent in it.
 
-> A wise man engaged in learning some important skill will not stop until he is really fluent in it.
-> 
-
-### Twenty: Drug-misinfluence tendency
+### 20: Drug-misinfluence tendency
 
 This tendency’s destructive power is so widely known to be intense, with frequent tragic consequences for cognition and the outcome of life, that it needs no discussion here to supplement that previously given under “Simple, pain-avoiding psychological denial.”
 
-### Twenty-one: Senescence-misinfluence tendency
+### 21: Senescence-misinfluence tendency
 
 With advanced age there comes a natural cognitive decay, differing among individuals in the earliness of its arrival and the speed of its progression. Practically no one is good at learning complex new skills when very old. But some people remain pretty good at maintaining intensely practiced old skills until late in life, as one can notice in many a bridge tournament.
 
 Old people like me get pretty skilled, without working at it, at disguising age-related deterioration because social convention, like clothing, hides much decline. Continuous thinking and learning, done with joy, can somewhat help delay what is inevitable.
 
-### Twenty-two: Authority-misinfluence tendency
+### 22: Authority-misinfluence tendency
 
 Living in dominance hierarchies as he does, like all his ancestors before him, man was born mostly to follow leaders, with only a few people doing the leading. And so, human society is formally organized into dominance hierarchies, with their culture augmenting the natural follow-the-leader tendency of man.
 
@@ -3671,25 +3150,19 @@ My final example comes from business. A psychology PhD once became a CEO of a ma
 
 The obvious implication: Be careful whom you appoint to power, because a dominant authority figure will often be hard to remove, aided as he will be by authority-misinfluence tendency.
 
-### Twenty-three: Twaddle tendency
+### 23: Twaddle tendency
 
 Man, as a social animal who has the gift of language, is born to prattle and pour out twaddle that does much damage when serious work is being attempted. Some people produce copious amounts of twaddle, and others very little.
-
-> Continuous thinking and learning, done with joy, can somewhat help delay what is inevitable.
-> 
 
 Trouble from the honeybee version of twaddle was once demonstrated in an interesting experiment. A honeybee normally goes out and finds nectar and then comes back and does a dance that communicates to the other bees where the nectar is. The other bees then go out and get it. Well, some scientist—clever, like B. F. Skinner—decided to see how well a honeybee would do with a handicap. He put the nectar straight up. Way up. Well, in a natural setting, there is no nectar a long way straight up, and the poor honeybee doesn’t have a genetic program that is adequate to handle what she now has to communicate. You might guess that this honeybee would come back to the hive and slink into a corner, but she doesn’t. She comes into the hive and does an incoherent dance.
 
 Well, all my life I’ve been dealing with the human equivalent of that honeybee. It’s a very important part of wise administration to keep prattling people pouring out twaddle far away from the serious work.
 
-> It’s a very important part of wise administration to keep prattling people pouring out twaddle far away from the serious work.
-> 
-
 A rightly famous Caltech engineering professor, exhibiting more insight than tact, once expressed his version of this idea as follows: “The principal job of an academic administration is to keep the people who don’t matter from interfering with the work of the people who do.”
 
 I include this quotation partly because I long suffered from backlash caused by my version of this professor’s conversational manner. After much effort, I was able to improve only slightly, so one of my reasons for supplying the quotation is my hope that, at least in comparison, I will appear tactful.
 
-### Twenty-four: Reason-respecting tendency
+### 24: Reason-respecting tendency
 
 There is in man, particularly one in an advanced culture, a natural love of accurate cognition and a joy in its exercise. This accounts for the widespread popularity of crossword puzzles, other puzzles, and bridge and chess columns, as well as all games requiring mental skill.
 
@@ -3699,21 +3172,15 @@ No one knew this better than Carl Braun, who designed oil refineries with specta
 
 In general, learning is most easily assimilated and used when, lifelong, people consistently hang their experience, actual and vicarious, on a latticework of theory answering the question “Why?” Indeed, the question “Why?” is a sort of Rosetta Stone opening up the major potentiality of mental life.
 
-> The question “Why?” is a sort of Rosetta Stone opening up the major potentiality of mental life.
-> 
-
 Unfortunately, reason-respecting tendency is so strong that even a person’s giving of meaningless or incorrect reasons will increase compliance with his orders and requests. This has been demonstrated in psychology experiments wherein compliance practitioners successfully jump to the head of the lines in front of copying machines by explaining their reason: “I have to make some copies.”
 
 This sort of unfortunate byproduct of reason-respecting tendency is a conditioned reflex based on a widespread appreciation of the importance of reasons. Naturally, the practice of laying out various claptrap reasons is much used by commercial and cult compliance practitioners to help them get what they don’t deserve.
 
-### Twenty-five: Lollapalooza tendency—the tendency to get extreme consequences from confluences of psychological tendencies acting in favor of a particular outcome
+### 25: Lollapalooza tendency—the tendency to get extreme consequences from confluences of psychological tendencies acting in favor of a particular outcome
 
 This tendency was not in any of the psychology texts I once examined, at least in any coherent fashion, yet it dominates life. It accounts for the extreme result in the Milgram experiment and the extreme success of some cults that have stumbled through practice evolution into bringing pressure from many psychological tendencies to bear at the same time on conversion targets. The targets vary in susceptibility, like the dogs Pavlov worked with in his old age, but some of the minds that are targeted simply snap into zombiedom under cult pressure. Indeed, that is one cult’s name for the conversion phenomenon: snapping.
 
 What are we to make of the extreme ignorance of the psychology textbook writers of yesteryear? How could anyone who had taken a freshman course in physics or chemistry not be driven to consider, above all, how psychological tendencies combine and with what effects? Why would anyone think his study of psychology was adequate without his having endured the complexity involved in dealing with intertwined psychological tendencies? What could be more ironic than professors using oversimplified notions while studying bad cognitive effects grounded in the mind’s tendency to use oversimplified algorithms?
-
-> What could be more ironic than professors using oversimplified notions while studying bad cognitive effects grounded in the mind’s tendency to use oversimplified algorithms?
-> 
 
 I will make a few tentative suggestions. Maybe many of the long-dead professors wanted to create a whole science from one narrow type of repeatable psychology experiment that was conductible in a university setting and that aimed at one psychological tendency at a time. If so, these early psychology professors made a massive error in so restricting their approach to their subject. It would be like physics ignoring 1) astrophysics because it couldn’t happen in a physics lab, plus 2) all compound effects.
 
@@ -3745,28 +3212,22 @@ My third question is also compound: In the practical world, what good is the tho
 
 Well, the answer is that the tendencies are probably much more good than bad. Otherwise, they wouldn’t be there, working pretty well for man, given his condition and his limited brain capacity. So the tendencies can’t be simply washed out automatically, and shouldn’t be. Nevertheless, the psychological thought system described, when properly understood and used, enables the spread of wisdom and good conduct and facilitates the avoidance of disaster. Tendency is not always destiny, and knowing the tendencies and their antidotes can often help prevent trouble that would otherwise occur.
 
-> The tendencies can’t be simply washed out automatically, and shouldn’t be.
-> 
-
 Here is a short list of examples reminding us of the great utility of elementary psychological knowledge:
 
-- Carl Braun’s communication practices.
-- The use of simulators in pilot training.
-- The system of Alcoholics Anonymous.
-- Clinical training methods in medical schools.
-- The rules of the US Constitutional Convention: totally secret meetings, no recorded vote by name until the final vote, votes reversible at any time before the end of the convention, then just one vote on the whole Constitution. These are very clever, psychology-respecting rules. If the founders had used a different procedure, many people would have been pushed by various psychological tendencies into inconsistent, hardened positions. The elite founders got our Constitution through by a whisker only because they were psychologically acute.
-- The use of granny’s incentive-driven rule to manipulate oneself toward better performance of one’s duties.
-- The Harvard Business School’s emphasis on decision trees. When I was young and foolish, I used to laugh at the Harvard Business School. I said, “They’re teaching 28-year-old people that high school algebra works in real life?” But later, I wised up and realized that it was very important that they do that to counter some bad effects from psychological tendencies. Better late than never.
-- The use of autopsy equivalents at Johnson&Johnson. At most corporations, if you make an acquisition and it turns out to be a disaster, all the people, paperwork, and presentations that caused the foolish acquisition are quickly forgotten. Nobody wants to be associated with the poor outcome by mentioning it. But at Johnson&Johnson, the rules make everybody revisit old acquisitions, comparing predictions with outcomes. That is a very smart thing to do.
-- The great example of Charles Darwin as he avoided confirmation bias, which has morphed into the extreme anti-confirmation bias method of the double-blind studies wisely required in drug research by the FDA.
-- The Warren Buffett rule for open-outcry auctions: Don’t go.
+1. Carl Braun’s communication practices.
+2. The use of simulators in pilot training.
+3. The system of Alcoholics Anonymous.
+4. Clinical training methods in medical schools.
+5. The rules of the US Constitutional Convention: totally secret meetings, no recorded vote by name until the final vote, votes reversible at any time before the end of the convention, then just one vote on the whole Constitution. These are very clever, psychology-respecting rules. If the founders had used a different procedure, many people would have been pushed by various psychological tendencies into inconsistent, hardened positions. The elite founders got our Constitution through by a whisker only because they were psychologically acute.
+6. The use of granny’s incentive-driven rule to manipulate oneself toward better performance of one’s duties.
+7. The Harvard Business School’s emphasis on decision trees. When I was young and foolish, I used to laugh at the Harvard Business School. I said, “They’re teaching 28-year-old people that high school algebra works in real life?” But later, I wised up and realized that it was very important that they do that to counter some bad effects from psychological tendencies. Better late than never.
+8. The use of autopsy equivalents at Johnson&Johnson. At most corporations, if you make an acquisition and it turns out to be a disaster, all the people, paperwork, and presentations that caused the foolish acquisition are quickly forgotten. Nobody wants to be associated with the poor outcome by mentioning it. But at Johnson&Johnson, the rules make everybody revisit old acquisitions, comparing predictions with outcomes. That is a very smart thing to do.
+9. The great example of Charles Darwin as he avoided confirmation bias, which has morphed into the extreme anti-confirmation bias method of the double-blind studies wisely required in drug research by the FDA.
+10. The Warren Buffett rule for open-outcry auctions: Don’t go.
 
 My fourth question is: What special knowledge problems lie buried in the thought system demonstrated by your list?
 
 Well, one answer is paradox. In social psychology, the more people learn about the system, the less it is true, and this is what gives the system its great value as a preventer of bad outcomes and a driver of good outcomes. This result is paradoxical, and doesn’t remind one of elementary physics, but so what. One can’t get all the paradox out of pure math, so why should psychology be shocked by some paradox?
-
-> One can’t get all the paradox out of pure math, so why should psychology be shocked by some paradox?
-> 
 
 There is also some paradox in cognition change that works even when the manipulated person knows he is being manipulated. This creates a sort of paradox in a paradox, but again, so what.
 
@@ -3786,7 +3247,7 @@ Even so, I think the totality of my talk will stand up very well, and I hope all
 
 Well, that ends my talk. If, in considering what I have said, you had 10 percent the fun I had in saying it, you were lucky recipients.
 
-### Talk Eleven Revisited
+### Talk 11 Revisited
 
 In this talk, made in 2000, I gave favorable mention to Judith Rich Harris’s strong-selling book *The Nurture Assumption.* You will recall that this work demonstrated that peer pressure on the young is far more important, and parental nurture much less important, than had been commonly recognized.
 
@@ -3806,57 +3267,57 @@ In this talk I displayed some impertinency of my own by delivering an extreme-so
 
 If I am even partly right, the world will eventually see more psychology in roughly the form of this talk. If so, I confidently predict that the change in practice will improve general competency.
 
-*And with that, I have nothing more to add.*
+> *And with that, I have nothing more to add.*
 
-## Recommended reading
+# Recommended reading
 
-Chernow, Ron. *Titan: The Life of John D. Rockefeller, Sr.* New York: Random House, 1998.
+**Chernow, Ron**. *Titan: The Life of John D. Rockefeller, Sr.* New York: Random House, 1998.
 
-Cialdini, Robert B. *Influence, New and Expanded: The Psychology of Persuasion.* New York: HarperCollins, 2021.
+**Cialdini, Robert B**. *Influence, New and Expanded: The Psychology of Persuasion.* New York: HarperCollins, 2021.
 
-Dawkins, Richard. *The Selfish Gene*. Oxford: Oxford University Press, 2016.
+**Dawkins, Richard.** *The Selfish Gene*. Oxford: Oxford University Press, 2016.
 
-Diamond, Jared M. *Guns, Germs, and Steel: The Fates of Human Societies*. New York: WW Norton, 2017.
+**Diamond, Jared M**. *Guns, Germs, and Steel: The Fates of Human Societies*. New York: WW Norton, 2017.
 
-Diamond, Jared M. *The Third Chimpanzee: The Evolution and Future of the Human Animal*. New York: HarperCollins, 1992.
+**Diamond, Jared M**. *The Third Chimpanzee: The Evolution and Future of the Human Animal*. New York: HarperCollins, 1992.
 
-Firestone, Harvey S., and Samuel Crowther. *Men and Rubber: The Story of Business*. New York: Doubleday, Page and Company, 1926.
+**Firestone, Harvey S**., and Samuel Crowther. *Men and Rubber: The Story of Business*. New York: Doubleday, Page and Company, 1926.
 
-Fisher, Roger, William Ury, and Bruce Patton. *Getting to Yes: Negotiating Agreement Without Giving In*. London: Random House Business Books, 2003.
+**Fisher, Roger, William Ury, and Bruce Patton**. *Getting to Yes: Negotiating Agreement Without Giving In*. London: Random House Business Books, 2003.
 
-Franklin, Benjamin. *The Autobiography of Benjamin Franklin*. North Carolina: IAP, 2019.
+**Franklin, Benjamin**. *The Autobiography of Benjamin Franklin*. North Carolina: IAP, 2019.
 
-Gribbin, John. *Deep Simplicity: Bringing Order to Chaos and Complexity.* London: Penguin Books Limited, 2009.
+**Gribbin, John**. *Deep Simplicity: Bringing Order to Chaos and Complexity.* London: Penguin Books Limited, 2009.
 
-Gribbin, John, and Mary Gribbin. *Ice Age.* London: Allen Lane/Penguin Press, 2001.
+**Gribbin, John, and Mary Gribbin**. *Ice Age.* London: Allen Lane/Penguin Press, 2001.
 
-Grove, Andrew S. *Only the Paranoid Survive: How to Exploit the Crisis Points that Challenge Every Company and Career*. New York: Currency Doubleday, 1996.
+**Grove, Andrew S**. *Only the Paranoid Survive: How to Exploit the Crisis Points that Challenge Every Company and Career*. New York: Currency Doubleday, 1996.
 
-Hagstrom, Robert G. *The Warren Buffett Portfolio: Mastering the Power of the Focus Investment Strategy*. New Jersey: Wiley, 2000.
+**Hagstrom, Robert G**. *The Warren Buffett Portfolio: Mastering the Power of the Focus Investment Strategy*. New Jersey: Wiley, 2000.
 
-Hardin, Garrett. *Living Within Limits: Ecology, Economics, and Population Taboos*. Oxford: Oxford University Press, 1995.
+**Hardin, Garrett**. *Living Within Limits: Ecology, Economics, and Population Taboos*. Oxford: Oxford University Press, 1995.
 
-Herman, Arthur. *How the Scots Invented the Modern World: The True Story of How Western Europe’s Poorest Nation Created Our World and Everything in It.* New York: Crown, 2001.
+**Herman, Arthur**. *How the Scots Invented the Modern World: The True Story of How Western Europe’s Poorest Nation Created Our World and Everything in It.* New York: Crown, 2001.
 
-Landes, David S. *The Wealth and Poverty of Nations: Why Some Are So Rich and Some So Poor*. New York: WW Norton, 1999.
+**Landes, David S**. *The Wealth and Poverty of Nations: Why Some Are So Rich and Some So Poor*. New York: WW Norton, 1999.
 
-Partnoy, Frank. *Fiasco: The Inside Story of a Wall Street Trader*. London: Penguin Publishing Group, 1999.
+**Partnoy, Frank**. *Fiasco: The Inside Story of a Wall Street Trader*. London: Penguin Publishing Group, 1999.
 
-Ridley, Matt. *Genome: The Autobiography of a Species in 23 Chapters*. New York: HarperCollins Publishers, 2017.
+**Ridley, Matt**. *Genome: The Autobiography of a Species in 23 Chapters*. New York: HarperCollins Publishers, 2017.
 
-Schwab, Les. *Les Schwab Pride in Performance: Keep It Going*. Oregon: Pacific Northwest Books, 1986.
+**Schwab, Les**. *Les Schwab Pride in Performance: Keep It Going*. Oregon: Pacific Northwest Books, 1986.
 
-Segre, Gino. *A Matter of Degrees: What Temperature Reveals About the Past and Future of Our Species, Planet, and Universe.* London: Penguin Publishing Group, 2003.
+**Segre, Gino**. *A Matter of Degrees: What Temperature Reveals About the Past and Future of Our Species, Planet, and Universe.* London: Penguin Publishing Group, 2003.
 
-Simon, Herbert A. *Models of My Life*. London: MIT Press, 1996.
+**Simon, Herbert A**. *Models of My Life*. London: MIT Press, 1996.
 
-Stone, Irving. *Men to Match My Mountains: The Opening of the Far West, 1840–1900*. New York: Berkley, 1982.
+**Stone, Irving**. *Men to Match My Mountains: The Opening of the Far West, 1840–1900*. New York: Berkley, 1982.
 
-Wall, Joseph Frazier. *Andrew Carnegie*. Oxford: Oxford University Press, 1970.
+**Wall, Joseph Frazier**. *Andrew Carnegie*. Oxford: Oxford University Press, 1970.
 
-Wright, Robert. *Three Scientists and Their Gods: Looking for Meaning in an Age of Information*. New York: Times Books, 1988.
+**Wright, Robert**. *Three Scientists and Their Gods: Looking for Meaning in an Age of Information*. New York: Times Books, 1988.
 
-## Acknowledgments
+# Acknowledgments
 
 This book is a survey of Charles T. Munger: his approach to learning, decision-making, investing, his speeches, his zingers, and more. The impetus for the book came from the many people who, over the years, have said they wished one existed—and have done so with ever-increasing vigor at Berkshire and Wesco shareholder meetings, at dinner parties, on message boards, and many other places. Hearing this clamor, your editor, Peter Kaufman, suggested to Warren Buffett that a book be done and was encouraged to take it upon himself to make it happen.
 
