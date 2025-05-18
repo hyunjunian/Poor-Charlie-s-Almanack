@@ -1615,8 +1615,6 @@ But the task, considered in full context, is far from impossible when we conside
 
 First, the concept of “all needed skills” lets us recognize that we don’t have to raise everyone’s skill in celestial mechanics to that of Laplace and also ask everyone to achieve a similar skill level in all other knowledge. Instead, it turns out that the truly big ideas in each discipline, learned only in essence, carry most of the freight. And they are not so numerous, nor are their interactions so complex, that a large and multidisciplinary understanding is impossible for many, given large amounts of talent and time.
 
-“We may regard the present state of the universe as the effect of its past and the cause of its future. An intellect which at a certain moment would know all forces that set nature in motion, and all positions of all items of which nature is composed, if this intellect were also vast enough to submit these data to analysis, it would embrace in a single formula the movements of the greatest bodies of the universe and those of the tiniest atom; for such an intellect nothing would be uncertain and the future just like the past would be present before its eyes.”
-
 Second, in elite education, we have available the large amounts of talent and time that we need. After all, we are educating the top 1 percent in aptitude, using teachers who, on average, have more aptitude than the students. And we have roughly 13 long years in which to turn our most promising 12-year-olds into starting professionals.
 
 Third, thinking by inversion and thorough use of checklists is easily learned, in broadscale life as in piloting.
